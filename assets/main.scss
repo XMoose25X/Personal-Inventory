@@ -1,0 +1,116 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.tooltip {
+  position: relative;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -50px;
+  text-shadow: none;
+
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.full-width {
+  max-width: 100vw;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+}
+
+.amiibo-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100px;
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.owned-amiibo {
+  background: linear-gradient(#ddfcd4, #b8dea2);
+  border: thin solid #8ab870;
+  box-shadow: 5px 5px 10px #00000059;
+  color: black;
+  text-shadow: 1px 1px white;
+}
+
+.series-header {
+  box-shadow: inset 0px 1px 0px 0px white;
+  background: linear-gradient(to bottom, #858585 5%, #4d4d4d 100%);
+  background-color: #007dc1;
+  border-radius: 20px;
+  border: 1px solid black;
+  color: #ffffff;
+  font-family: Arial;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #154682;
+  margin: 30px 0px 30px 0px;
+  text-align: left;
+  font-size: 1.3em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.series-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.meter {
+  box-sizing: content-box;
+  height: 1em; /* Can be anything */
+  position: relative;
+  background: #555;
+  border-radius: 25px;
+  padding: 10px;
+  box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+}
+
+.meter > span {
+  display: block;
+  height: 100%;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: rgb(43, 194, 83);
+  background-image: linear-gradient(
+    center bottom,
+    rgb(43, 194, 83) 37%,
+    rgb(84, 240, 84) 69%
+  );
+  box-shadow: inset 0 2px 9px rgba(255, 255, 255, 0.3),
+    inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  color: #ffffff;
+  line-height: 0.85em;
+}

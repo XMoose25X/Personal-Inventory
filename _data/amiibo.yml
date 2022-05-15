@@ -1,0 +1,228 @@
+# List of all properties of amiibo
+image-path: /assets/images/amiibo/
+series:
+    - title: "Super Smash Brothers"
+      folder-path: "super-smash-brothers/"
+      characters:
+        - name: "Link"
+          owned: true
+          release: 11/21/2014
+          image: "Link.png"
+
+    - title: "Animal Crossing"
+      folder-path: "animal-crossing/"
+      characters:
+        - name: "Blathers"
+          owned: true
+          release: 1/22/2016
+          image: "Blathers.png"
+
+        - name: "Isabelle (Winter Outfit)"
+          owned: true
+          release: 11/13/2015
+          image: "Isabelle (Winter Outfit).png"
+
+        - name: "K.K. Slider"
+          owned: true
+          release: 11/13/2015
+          image: "K.K. Slider.png"
+
+        - name: "Mabel"
+          owned: true
+          release: 11/13/2015
+          image: "Mabel.png"
+
+        - name: "Tom Nook"
+          owned: true
+          release: 11/13/2015
+          image: "Tom Nook.png"
+
+        - name: "Digby"
+          owned: true
+          release: 11/13/2015
+          image: "Digby.png"
+
+        - name: "Reese"
+          owned: true
+          release: 11/13/2015
+          image: "Reese.png"
+
+        - name: "Cyrus"
+          owned: true
+          release: 11/13/2015
+          image: "Cyrus.png"
+        
+        - name: "Lottie"
+          owned: true
+          release: 11/22/2015
+          image: "Lottie.png"
+
+        - name: "Celeste"
+          owned: true
+          release: 1/22/2016
+          image: "Celeste.png"
+
+        - name: "Resetti"
+          owned: true
+          release: 1/22/2016
+          image: "Resetti.png"
+    
+        - name: "Kicks"
+          owned: true
+          release: 1/22/2016
+          image: "Kicks.png"
+
+        - name: "Timmy & Tommy"
+          owned: true
+          release: 3/18/2016
+          image: "Timmy and Tommy.png"
+
+        - name: "Kapp'n"
+          owned: true
+          release: 3/18/2016
+          image: "Kapp'n.png"
+
+        - name: "Rover"
+          owned: true
+          release: 3/18/2016
+          image: "Rover.png"
+
+        - name: "Isabelle (Summer Outfit)"
+          owned: false
+          release: 6/10/2016
+          image: "Isabelle (Summer Outfit).png"
+
+    - title: "Yoshi's Wooly World"
+      folder-path: "yoshi-wooly-world/"
+      characters:
+        - name: "Light-Blue Yarn Yoshi"
+          owned: true
+          release: 10/16/2015
+          image: "Light-Blue Yarn Yoshi.png"
+
+        - name: "Pink Yarn Yoshi"
+          owned: true
+          release: 10/16/2015
+          image: "Pink Yarn Yoshi.png"
+
+        - name: "Green Yarn Yoshi"
+          owned: true
+          release: 10/16/2015
+          image: "Green Yarn Yoshi.png"
+
+        - name: "Mega Yarn Yoshi"
+          owned: false
+          release: 11/15/2015
+          image: "Mega Yarn Yoshi.png"
+
+        - name: "Poochy"
+          owned: true
+          release: 2/3/2017
+          image: "Poochy.png"
+
+    - title: "Monster Hunter"
+      folder-path: "monster-hunter/"
+      characters:
+        - name: "Navirou"
+          owned: false
+          release: 10/8/2016
+          image: "Navirou.png"
+
+    - title: "Miscellaneous"
+      folder-path: "miscellaneous/"
+      characters:
+        - name: "Qbby"
+          owned: false
+          release: 2/2/2017
+          image: "Qbby.png"
+
+        - name: "Mega Man"
+          owned: false
+          release: 10/2/2018
+          image: "Mega Man.png"
+
+        - name: "Gold Mega Man"
+          owned: false
+          release: 2/23/2016
+          image: "Gold Mega Man.png"
+
+        - name: "Chibi-Robo"
+          owned: true
+          release: 10/9/2015
+          image: "Chibi-Robo.png"
+
+        - name: "Pikmin"
+          owned: false
+          release: 7/28/2017
+          image: "Pikmin.png"
+
+        - name: "Super Mario Cereal"
+          owned: true
+          release: 12/11/2017
+          image: "Cereal.png"
+
+        - name: "Detective Pikachu"
+          owned: true
+          release: 3/23/2018
+          image: "Detective Pikachu.png"
+
+        - name: "Solaire of Astora"
+          owned: false
+          release: 10/19/2018
+          image: "Solaire of Astora.png"
+
+        - name: "Loot Goblin"
+          owned: false
+          release: 12/21/2018
+          image: "Loot Goblin.png"
+
+    - title: "Skylanders"
+      folder-path: "skylanders/"
+      characters:
+        - name: "Dark Hammer Slam Bowser"
+          owned: false
+          release: 11/20/2015
+          image: "Dark Hammer Slam Bowser.png"
+
+        - name: "Hammer Slam Bowser"
+          owned: false
+          release: 11/20/2015
+          image: "Hammer Slam Bowser.png"
+
+        - name: "Dark Turbo Charge Donkey Kong"
+          owned: false
+          release: 11/20/2015
+          image: "Dark Turbo Charge Donkey Kong.png"
+
+        - name: "Turbo Charge Donkey Kong"
+          owned: false
+          release: 11/20/2015
+          image: "Turbo Charge Donkey Kong.png"
+
+    - title: "Shovel Knight"
+      folder-path: "shovel-knight/"
+      characters:
+        - name: "Gold Shovel Knight"
+          owned: true
+          release: 12/10/2019
+          image: "Gold Shovel Knight.png"
+
+        - name: "Shovel Knight"
+          owned: false
+          release: 1/8/2016
+          image: "Shovel Knight.png"
+
+        - name: "King Knight"
+          owned: true
+          release: 12/10/2019
+          image: "King Knight.png"
+
+        - name: "Plague Knight"
+          owned: true
+          release: 12/10/2019
+          image: "Plague Knight.png"
+
+        - name: "Specter Knight"
+          owned: true
+          release: 12/10/2019
+          image: "Specter Knight.png"
