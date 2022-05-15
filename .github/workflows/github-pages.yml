@@ -5,6 +5,8 @@ on:
     branches:
       - main # or master before October 2020
 
+permissions: write-all
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
