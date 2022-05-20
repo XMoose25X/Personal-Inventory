@@ -1160,7 +1160,7 @@ series:
           image: "Meta Knight.png"
 
         - name: "Waddle Dee"
-          owned: false
+          owned: true
           id: 4
           release: 6/10/2016
           image: "Waddle Dee.png"

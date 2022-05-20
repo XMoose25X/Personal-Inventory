@@ -33,6 +33,17 @@
   opacity: 1;
 }
 
+.tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent #555 transparent;
+}
+
 .full-width {
   max-width: 100vw;
   margin-right: auto;
