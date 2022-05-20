@@ -4,198 +4,1368 @@ series:
     - title: "Super Smash Brothers"
       folder-path: "super-smash-brothers/"
       characters:
+        - name: "Mario"
+          owned: true
+          id: 1
+          release: 11/21/2014
+          image: "Mario.png"
+
+        - name: "Donkey Kong"
+          owned: false
+          id: 2
+          release: 11/21/2014
+          image: "Donkey Kong.png"
+
         - name: "Link"
           owned: true
+          id: 3
           release: 11/21/2014
           image: "Link.png"
+
+        - name: "Samus"
+          owned: true
+          id: 4
+          release: 11/21/2014
+          image: "Samus.png"
+
+        - name: "Dark Samus"
+          owned: true
+          id: 5
+          release: 1/17/2020
+          image: "Dark Samus.png"
+
+        - name: "Yoshi"
+          owned: true
+          id: 6
+          release: 11/21/2014
+          image: "Yoshi.png"
+
+        - name: "Kirby"
+          owned: false
+          id: 7
+          release: 11/21/2014
+          image: "Kirby.png"
+
+        - name: "Fox"
+          owned: true
+          id: 8
+          release: 11/21/2014
+          image: "Fox.png"
+
+        - name: "Pikachu"
+          owned: true
+          id: 9
+          release: 11/21/2014
+          image: "Pikachu.png"
+
+        - name: "Luigi"
+          owned: true
+          id: 10
+          release: 12/14/2014
+          image: "Luigi.png"
+
+        - name: "Ness"
+          owned: true
+          id: 11
+          release: 5/29/2015
+          image: "Ness.png"
+
+        - name: "Captain Falcon"
+          owned: true
+          id: 12
+          release: 12/14/2014
+          image: "Captain Falcon.png"
+
+        - name: "Jigglypuff"
+          owned: true
+          id: 13
+          release: 5/29/2015
+          image: "Jigglypuff.png"
+
+        - name: "Peach"
+          owned: true
+          id: 14
+          release: 11/21/2014
+          image: "Peach.png"
+
+        - name: "Daisy"
+          owned: false
+          id: 15
+          release: 4/12/2019
+          image: "Daisy.png"
+
+        - name: "Bowser"
+          owned: true
+          id: 16
+          release: 2/1/2015
+          image: "Bowser.png"
+
+        - name: "Ice Climbers"
+          owned: true
+          id: 17
+          release: 2/15/2019
+          image: "Ice Climbers.png"
+
+        - name: "Sheik"
+          owned: false
+          id: 18
+          release: 2/1/2015
+          image: "Sheik.png"
+
+        - name: "Zelda"
+          owned: true
+          id: 19
+          release: 12/14/2014
+          image: "Zelda.png"
+
+        - name: "Dr. Mario"
+          owned: true
+          id: 20
+          release: 9/11/2015
+          image: "Dr. Mario.png"
+
+        - name: "Pichu"
+          owned: true
+          id: 21
+          release: 7/26/2019
+          image: "Pichu.png"
+
+        - name: "Falco"
+          owned: true
+          id: 22
+          release: 11/20/2015
+          image: "Falco.png"
+
+        - name: "Marth"
+          owned: true
+          id: 23
+          release: 11/21/2014
+          image: "Marth.png"
+
+        - name: "Lucina"
+          owned: true
+          id: 24
+          release: 5/29/2015
+          image: "Lucina.png"
+
+        - name: "Young Link"
+          owned: false
+          id: 25
+          release: 4/12/2019
+          image: "Young Link.png"
+
+        - name: "Ganondorf"
+          owned: true
+          id: 26
+          release: 9/11/2015
+          image: "Ganondorf.png"
+
+        - name: "Mewtwo"
+          owned: true
+          id: 27
+          release: 11/13/2015
+          image: "Mewtwo.png"
+
+        - name: "Roy"
+          owned: false
+          id: 28
+          release: 3/18/2016
+          image: "Roy.png"
+
+        - name: "Chrom"
+          owned: true
+          id: 29
+          release: 11/15/2019
+          image: "Chrom.png"
+
+        - name: "Mr. Game & Watch"
+          owned: true
+          id: 30
+          release: 9/25/2015
+          image: "Mr. Game and Watch.png"
+
+        - name: "Meta Knight"
+          owned: true
+          id: 31
+          release: 2/1/2015
+          image: "Meta Knight.png"
+
+        - name: "Pit"
+          owned: true
+          id: 32
+          release: 12/14/2014
+          image: "Pit.png"
+
+        - name: "Dark Pit"
+          owned: true
+          id: 33
+          release: 7/31/2015
+          image: "Dark Pit.png"
+
+        - name: "Zero Suit Samus"
+          owned: true
+          id: 34
+          release: 9/11/2015
+          image: "Zero Suit Samus.png"
+
+        - name: "Wario"
+          owned: false
+          id: 35
+          release: 5/29/2015
+          image: "Wario.png"
+
+        - name: "Snake"
+          owned: true
+          id: 36
+          release: 9/20/2019
+          image: "Snake.png"
+
+        - name: "Ike"
+          owned: true
+          id: 37
+          release: 2/1/2015
+          image: "Ike.png"
+
+        - name: "Squirtle"
+          owned: true
+          id: 38
+          release: 9/20/2019
+          image: "Squirtle.png"
+
+        - name: "Ivysaur"
+          owned: true
+          id: 39
+          release: 9/20/2019
+          image: "Ivysaur.png"
+
+        - name: "Charizard"
+          owned: true
+          id: 40
+          release: 5/29/2015
+          image: "Charizard.png"
+
+        - name: "Diddy Kong"
+          owned: true
+          id: 41
+          release: 12/14/2014
+          image: "Diddy Kong.png"
+
+        - name: "Lucas"
+          owned: true
+          id: 42
+          release: 1/22/2016
+          image: "Lucas.png"
+
+        - name: "Sonic"
+          owned: true
+          id: 43
+          release: 2/1/2015
+          image: "Sonic.png"
+
+        - name: "King Dedede"
+          owned: true
+          id: 44
+          release: 2/1/2015
+          image: "King Dedede.png"
+
+        - name: "Olimar"
+          owned: true
+          id: 45
+          release: 9/11/2015
+          image: "Olimar.png"
+
+        - name: "Lucario"
+          owned: true
+          id: 46
+          release: 2/1/2015
+          image: "Lucario.png"
+
+        - name: "R.O.B."
+          owned: true
+          id: 47
+          release: 9/25/2015
+          image: "R.O.B..png"
+
+        - name: "R.O.B. (Japan)"
+          owned: false
+          id: 48
+          release: 3/18/2016
+          image: "R.O.B. (Japan).png"
+
+        - name: "Toon Link"
+          owned: true
+          id: 49
+          release: 2/1/2015
+          image: "Toon Link.png"
+
+        - name: "Wolf"
+          owned: true
+          id: 50
+          release: 12/7/2018
+          image: "Wolf.png"
+
+        - name: "Villager"
+          owned: true
+          id: 51
+          release: 11/21/2014
+          image: "Villager.png"
+
+        - name: "Mega Man"
+          owned: true
+          id: 52
+          release: 2/1/2015
+          image: "Mega Man.png"
+
+        - name: "Mega Man (Gold)"
+          owned: false
+          id: 53
+          release: 2/23/2016
+          image: "Mega Man (Gold).png"
+
+        - name: "Wii Fit Trainer"
+          owned: true
+          id: 54
+          release: 11/21/2014
+          image: "Wii Fit Trainer.png"
+
+        - name: "Rosalina"
+          owned: false
+          id: 55
+          release: 2/1/2015
+          image: "Rosalina.png"
+
+        - name: "Little Mac"
+          owned: true
+          id: 56
+          release: 12/14/2014
+          image: "Little Mac.png"
+
+        - name: "Greninja"
+          owned: true
+          id: 57
+          release: 5/29/2015
+          image: "Greninja.png"
+
+        - name: "Mii Brawler"
+          owned: true
+          id: 58
+          release: 11/1/2015
+          image: "Mii Brawler.png"
+
+        - name: "Mii Swordfighter"
+          owned: true
+          id: 59
+          release: 11/1/2015
+          image: "Mii Swordfighter.png"
+
+        - name: "Mii Gunner"
+          owned: true
+          id: 60
+          release: 11/1/2015
+          image: "Mii Gunner.png"
+
+        - name: "Palutena"
+          owned: true
+          id: 61
+          release: 7/24/2015
+          image: "Palutena.png"
+
+        - name: "Pacman"
+          owned: true
+          id: 62
+          release: 5/29/2015
+          image: "Pacman.png"
+
+        - name: "Robin"
+          owned: true
+          id: 63
+          release: 5/29/2015
+          image: "Robin.png"
+
+        - name: "Shulk"
+          owned: true
+          id: 64
+          release: 2/1/2015
+          image: "Shulk.png"
+
+        - name: "Bowser Jr."
+          owned: true
+          id: 65
+          release: 9/11/2015
+          image: "Bowser Jr..png"
+
+        - name: "Duck Hunt"
+          owned: true
+          id: 66
+          release: 9/25/2015
+          image: "Duck Hunt.png"
+
+        - name: "Ryu"
+          owned: true
+          id: 67
+          release: 3/18/2016
+          image: "Ryu.png"
+
+        - name: "Ken"
+          owned: false
+          id: 68
+          release: 4/12/2019
+          image: "Ken.png"
+
+        - name: "Cloud"
+          owned: true
+          id: 69
+          release: 7/21/2017
+          image: "Cloud.png"
+
+        - name: "Cloud (Player 2)"
+          owned: false
+          id: 70
+          release: 7/21/2017
+          image: "Cloud (Player 2).png"
+
+        - name: "Corrin"
+          owned: true
+          id: 71
+          release: 7/21/2017
+          image: "Corrin.png"
+
+        - name: "Corrin (Player 2)"
+          owned: false
+          id: 72
+          release: 7/21/2017
+          image: "Corrin (Player 2).png"
+
+        - name: "Bayonetta"
+          owned: true
+          id: 73
+          release: 7/21/2017
+          image: "Bayonetta.png"
+
+        - name: "Bayonetta (Player 2)"
+          owned: false
+          id: 74
+          release: 7/21/2017
+          image: "Bayonetta (Player 2).png"
+
+        - name: "Inkling"
+          owned: false
+          id: 75
+          release: 12/7/2018
+          image: "Inkling.png"
+
+        - name: "Ridley"
+          owned: true
+          id: 76
+          release: 12/7/2018
+          image: "Ridley.png"
+
+        - name: "Pokémon Trainer"
+          owned: true
+          id: 77
+          release: 7/26/2019
+          image: "Pokémon Trainer.png"
+
+        - name: "Simon"
+          owned: true
+          id: 77
+          release: 11/15/2019
+          image: "Simon.png"
+
+        - name: "Richter"
+          owned: true
+          id: 78
+          release: 1/17/2020
+          image: "Richter.png"
+
+        - name: "King K. Rool"
+          owned: true
+          id: 79
+          release: 2/15/2019
+          image: "King K. Rool.png"
+
+        - name: "Isabelle"
+          owned: true
+          id: 80
+          release: 7/26/2019
+          image: "Isabelle.png"
+
+        - name: "Incineroar"
+          owned: true
+          id: 81
+          release: 11/15/2019
+          image: "Incineroar.png"
+
+        - name: "Piranha Plant"
+          owned: true
+          id: 82
+          release: 2/15/2019
+          image: "Piranha Plant.png"
+
+        - name: "Joker"
+          owned: true
+          id: 83
+          release: 10/2/2020
+          image: "Joker.png"
+
+        - name: "Hero"
+          owned: true
+          id: 84
+          release: 10/2/2020
+          image: "Hero.png"
+
+        - name: "Banjo & Kazooie"
+          owned: true
+          id: 85
+          release: 3/26/2021
+          image: "Banjo and Kazooie.png"
+
+        - name: "Terry"
+          owned: true
+          id: 86
+          release: 3/26/2021
+          image: "Terry.png"
+
+        - name: "Byleth"
+          owned: true
+          id: 87
+          release: 3/26/2021
+          image: "Byleth.png"
+
+        - name: "Min Min"
+          owned: true
+          id: 88
+          release: 4/29/2022
+          image: "Min Min.png"
+
+        - name: "Steve"
+          owned: false
+          id: 89
+          release: 12/31/2022
+          image: "Steve.png"
+
+        - name: "Alex"
+          owned: false
+          id: 90
+          release: 12/31/2022
+          image: "Alex.png"
+
+        - name: "Sephiroth"
+          owned: false
+          id: 91
+          release: 12/31/2022
+          image: "Sephiroth.png"
+
+        - name: "Pyra"
+          owned: false
+          id: 92
+          release: 12/31/2022
+          image: "Pyra.png"
+
+        - name: "Mythra"
+          owned: false
+          id: 93
+          release: 12/31/2022
+          image: "Mythra.png"
+
+        - name: "Kazuya"
+          owned: false
+          id: 94
+          release: 12/31/2022
+          image: "Kazuya.png"
+
+        - name: "Sora"
+          owned: false
+          id: 95
+          release: 12/31/2022
+          image: "Sora.png"
+
+    - title: "Super Mario"
+      folder-path: "super-mario/"
+      characters:
+        - name: "Mario"
+          owned: true
+          id: 1
+          release: 3/20/2015
+          image: "Mario.png"
+
+        - name: "Luigi"
+          owned: false
+          id: 2
+          release: 3/20/2015
+          image: "Luigi.png"
+          
+        - name: "Peach"
+          owned: true
+          id: 3
+          release: 3/20/2015
+          image: "Peach.png"
+          
+        - name: "Yoshi"
+          owned: true
+          id: 4
+          release: 3/20/2015
+          image: "Yoshi.png"
+          
+        - name: "Toad"
+          owned: true
+          id: 5
+          release: 3/20/2015
+          image: "Toad.png"
+          
+        - name: "Bowser"
+          owned: true
+          id: 6
+          release: 3/20/2015
+          image: "Bowser.png"
+                    
+        - name: "Mario (Gold Edition)"
+          owned: false
+          id: 7
+          release: 5/29/2015
+          image: "Mario (Gold Edition).png"
+                    
+        - name: "Mario (Silver Edition)"
+          owned: false
+          id: 8
+          release: 3/20/2015
+          image: "Mario (Silver Edition).png"
+                              
+        - name: "Wario"
+          owned: false
+          id: 9
+          release: 11/4/2016
+          image: "Wario.png"
+                              
+        - name: "Rosalina"
+          owned: true
+          id: 10
+          release: 11/4/2016
+          image: "Rosalina.png"
+                              
+        - name: "Boo"
+          owned: false
+          id: 11
+          release: 11/4/2016
+          image: "Boo.png"
+                              
+        - name: "Donkey Kong"
+          owned: false
+          id: 12
+          release: 11/4/2016
+          image: "Donkey Kong.png"
+                                        
+        - name: "Waluigi"
+          owned: false
+          id: 13
+          release: 11/4/2016
+          image: "Waluigi.png"
+                                        
+        - name: "Daisy"
+          owned: false
+          id: 14
+          release: 11/4/2016
+          image: "Daisy.png"
+                                        
+        - name: "Diddy Kong"
+          owned: false
+          id: 15
+          release: 11/4/2016
+          image: "Diddy Kong.png"
+                                        
+        - name: "Goomba"
+          owned: false
+          id: 16
+          release: 10/6/2017
+          image: "Goomba.png"
+
+        - name: "Koopa Troopa"
+          owned: false
+          id: 17
+          release: 10/6/2017
+          image: "Koopa Troopa.png"
+                                                  
+        - name: "Mario (Wedding Outfit)"
+          owned: true
+          id: 18
+          release: 10/27/2017
+          image: "Mario (Wedding Outfit).png"
+                                                  
+        - name: "Peach (Wedding Outfit)"
+          owned: true
+          id: 19
+          release: 10/27/2017
+          image: "Peach (Wedding Outfit).png"
+                                                  
+        - name: "Bowser (Wedding Outfit)"
+          owned: true
+          id: 20
+          release: 10/27/2017
+          image: "Bowser (Wedding Outfit).png"
+                                                  
+        - name: "Cat Mario"
+          owned: true
+          id: 21
+          release: 2/12/2021
+          image: "Cat Mario.png"
+                                                  
+        - name: "Cat Peach"
+          owned: true
+          id: 22
+          release: 2/12/2021
+          image: "Cat Peach.png"
+
+    - title: "Super Mario Bros. 30th Anniversary"
+      folder-path: "mario-anniversary/"
+      characters:
+        - name: "Mario (Classic)"
+          owned: true
+          id: 1
+          release: 9/11/2015
+          image: "Mario (Classic).png"
+
+        - name: "Mario (Modern)"
+          owned: true
+          id: 2
+          release: 9/11/2015
+          image: "Mario (Modern).png"
+
+    - title: "The Legend of Zelda"
+      folder-path: "zelda/"
+      characters:
+        - name: "Link (8-Bit)"
+          owned: true
+          id: 1
+          release: 12/2/2016
+          image: "Link (8-Bit).png"
+
+        - name: "Link (Link's Awakening)"
+          owned: true
+          id: 2
+          release: 9/20/2019
+          image: "Link (Link's Awakening).png"
+          
+        - name: "Link (Ocarina of Time)"
+          owned: false
+          id: 3
+          release: 12/2/2016
+          image: "Link (Ocarina of Time).png"
+          
+        - name: "Link (Majora's Mask)"
+          owned: true
+          id: 4
+          release: 6/23/2017
+          image: "Link (Majora's Mask).png"
+
+        - name: "Toon Link"
+          owned: false
+          id: 5
+          release: 12/2/2016
+          image: "Toon Link.png"
+          
+        - name: "Toon Zelda"
+          owned: false
+          id: 6
+          release: 12/2/2016
+          image: "Toon Zelda.png"
+
+        - name: "Link (Twilight Princess)"
+          owned: false
+          id: 7
+          release: 6/23/2017
+          image: "Link (Twilight Princess).png"
+
+        - name: "Wolf Link"
+          owned: true
+          id: 8
+          release: 3/4/2016
+          image: "Wolf Link.png"
+
+        - name: "Link (Skyward Sword)"
+          owned: false
+          id: 9
+          release: 6/23/2017
+          image: "Link (Skyward Sword).png"
+
+        - name: "Zelda & Loftwing"
+          owned: true
+          id: 10
+          release: 6/23/2017
+          image: "Zelda and Loftwing.png"
+
+        - name: "Link (Archer)"
+          owned: false
+          id: 11
+          release: 3/3/2017
+          image: "Link (Archer).png"
+          
+        - name: "Link (Rider)"
+          owned: true
+          id: 12
+          release: 3/3/2017
+          image: "Link (Rider).png"
+          
+        - name: "Zelda"
+          owned: false
+          id: 13
+          release: 3/3/2017
+          image: "Zelda.png"
+
+        - name: "Bokoblin"
+          owned: false
+          id: 14
+          release: 3/3/2017
+          image: "Bokoblin.png"
+                    
+        - name: "Guardian"
+          owned: true
+          id: 15
+          release: 3/3/2017
+          image: "Guardian.png"
+                              
+        - name: "Mipha (Zora Champion)"
+          owned: true
+          id: 16
+          release: 11/10/2017
+          image: "Mipha (Zora Champion).png"
+                              
+        - name: "Daruk (Goron Champion)"
+          owned: true
+          id: 17
+          release: 11/10/2017
+          image: "Daruk (Goron Champion).png"
+                              
+        - name: "Revali (Rito Champion)"
+          owned: true
+          id: 18
+          release: 11/10/2017
+          image: "Revali (Rito Champion).png"
+                              
+        - name: "Urbosa (Gerudo Champion)"
+          owned: true
+          id: 19
+          release: 11/10/2017
+          image: "Urbosa (Gerudo Champion).png"
 
     - title: "Animal Crossing"
       folder-path: "animal-crossing/"
       characters:
         - name: "Blathers"
           owned: true
+          id: 10
           release: 1/22/2016
           image: "Blathers.png"
 
         - name: "Isabelle (Winter Outfit)"
           owned: true
+          id: 1
           release: 11/13/2015
           image: "Isabelle (Winter Outfit).png"
 
         - name: "K.K. Slider"
           owned: true
+          id: 3
           release: 11/13/2015
           image: "K.K. Slider.png"
 
         - name: "Mabel"
           owned: true
+          id: 9
           release: 11/13/2015
           image: "Mabel.png"
 
         - name: "Tom Nook"
           owned: true
+          id: 4
           release: 11/13/2015
           image: "Tom Nook.png"
 
         - name: "Digby"
           owned: true
+          id: 5
           release: 11/13/2015
           image: "Digby.png"
 
         - name: "Reese"
           owned: true
+          id: 7
           release: 11/13/2015
           image: "Reese.png"
 
         - name: "Cyrus"
           owned: true
+          id: 6
           release: 11/13/2015
           image: "Cyrus.png"
         
         - name: "Lottie"
           owned: true
+          id: 8
           release: 11/22/2015
           image: "Lottie.png"
 
         - name: "Celeste"
           owned: true
+          id: 11
           release: 1/22/2016
           image: "Celeste.png"
 
         - name: "Resetti"
           owned: true
+          id: 13
           release: 1/22/2016
           image: "Resetti.png"
     
         - name: "Kicks"
           owned: true
+          id: 12
           release: 1/22/2016
           image: "Kicks.png"
 
         - name: "Timmy & Tommy"
           owned: true
+          id: 14
           release: 3/18/2016
           image: "Timmy and Tommy.png"
 
         - name: "Kapp'n"
           owned: true
+          id: 15
           release: 3/18/2016
           image: "Kapp'n.png"
 
         - name: "Rover"
           owned: true
+          id: 16
           release: 3/18/2016
           image: "Rover.png"
 
         - name: "Isabelle (Summer Outfit)"
           owned: false
+          id: 2
           release: 6/10/2016
           image: "Isabelle (Summer Outfit).png"
+
+    - title: "Splatoon"
+      folder-path: "splatoon/"
+      characters:
+        - name: "Inkling Girl"
+          owned: true
+          id: 1
+          release: 5/29/2015
+          image: "Inkling Girl.png"
+
+        - name: "Inkling Boy"
+          owned: true
+          id: 2
+          release: 5/29/2015
+          image: "Inkling Boy.png"
+          
+        - name: "Inkling Squid"
+          owned: true
+          id: 3
+          release: 5/29/2015
+          image: "Inkling Squid.png"
+
+        - name: "Inkling Girl (Lime Green)"
+          owned: false
+          id: 4
+          release: 7/8/2016
+          image: "Inkling Girl (Lime Green).png"
+
+        - name: "Inkling Boy (Purple)"
+          owned: false
+          id: 5
+          release: 7/8/2016
+          image: "Inkling Boy (Purple).png"
+          
+        - name: "Inkling Squid (Orange)"
+          owned: false
+          id: 6
+          release: 7/8/2016
+          image: "Inkling Squid (Orange).png"
+          
+        - name: "Callie"
+          owned: false
+          id: 7
+          release: 7/8/2016
+          image: "Callie.png"
+          
+        - name: "Marie"
+          owned: false
+          id: 8
+          release: 7/8/2016
+          image: "Marie.png"
+
+        - name: "Inkling Girl (Neon Pink)"
+          owned: false
+          id: 9
+          release: 7/21/2017
+          image: "Inkling Girl (Neon Pink).png"
+
+        - name: "Inkling Boy (Neon Green)"
+          owned: false
+          id: 10
+          release: 7/21/2017
+          image: "Inkling Boy (Neon Green).png"
+          
+        - name: "Inkling Squid (Neon Purple)"
+          owned: false
+          id: 11
+          release: 7/21/2017
+          image: "Inkling Squid (Neon Purple).png"
+
+        - name: "Pearl"
+          owned: false
+          id: 12
+          release: 7/13/2018
+          image: "Pearl.png"
+          
+        - name: "Marina"
+          owned: false
+          id: 13
+          release: 7/13/2018
+          image: "Marina.png"
+                    
+        - name: "Octoling Girl"
+          owned: false
+          id: 14
+          release: 12/7/2018
+          image: "Octoling Girl.png"
+                    
+        - name: "Octoling Boy"
+          owned: false
+          id: 15
+          release: 12/7/2018
+          image: "Octoling Boy.png"
+                    
+        - name: "Octoling Octopus"
+          owned: false
+          id: 16
+          release: 12/7/2018
+          image: "Octoling Octopus.png"
+
+    - title: "Super Nintendo World"
+      folder-path: "super-nintendo-world/"
+      characters:
+        - name: "Mario Power-Up Band"
+          owned: false
+          id: 1
+          release: 2/4/2021
+          image: "Mario Power-Up Band.png"
+
+        - name: "Luigi Power-Up Band"
+          owned: false
+          id: 2
+          release: 2/4/2021
+          image: "Luigi Power-Up Band.png"
+
+        - name: "Peach Power-Up Band"
+          owned: false
+          id: 3
+          release: 2/4/2021
+          image: "Peach Power-Up Band.png"
+
+        - name: "Daisy Power-Up Band"
+          owned: false
+          id: 4
+          release: 2/4/2021
+          image: "Daisy Power-Up Band.png"
+          
+        - name: "Toad Power-Up Band"
+          owned: false
+          id: 5
+          release: 2/4/2021
+          image: "Toad Power-Up Band.png"
+          
+        - name: "Yoshi Power-Up Band"
+          owned: false
+          id: 6
+          release: 2/4/2021
+          image: "Yoshi Power-Up Band.png"
+
+    - title: "Metroid"
+      folder-path: "metroid/"
+      characters:
+        - name: "Samus Aran"
+          owned: false
+          id: 1
+          release: 9/15/2017
+          image: "Samus Aran.png"
+
+        - name: "Metroid"
+          owned: false
+          id: 2
+          release: 9/15/2017
+          image: "Metroid.png"
+
+        - name: "Samus"
+          owned: true
+          id: 3
+          release: 10/8/2021
+          image: "Samus.png"
+
+        - name: "E.M.M.I."
+          owned: true
+          id: 4
+          release: 10/8/2021
+          image: "E.M.M.I..png"
+
+    - title: "Fire Emblem"
+      folder-path: "fire-emblem/"
+      characters:
+        - name: "Alm"
+          owned: false
+          id: 1
+          release: 5/19/2017
+          image: "Alm.png"
+
+        - name: "Celica"
+          owned: false
+          id: 2
+          release: 5/19/2017
+          image: "Celica.png"
+
+        - name: "Chrom"
+          owned: false
+          id: 3
+          release: 10/20/2017
+          image: "Chrom.png"
+
+        - name: "Tiki"
+          owned: false
+          id: 4
+          release: 10/20/2017
+          image: "Tiki.png"
+
+    - title: "Kirby"
+      folder-path: "kirby/"
+      characters:
+        - name: "Kirby"
+          owned: true
+          id: 1
+          release: 6/10/2016
+          image: "Kirby.png"
+
+        - name: "King Dedede"
+          owned: true
+          id: 2
+          release: 6/10/2016
+          image: "King Dedede.png"
+
+        - name: "Meta Knight"
+          owned: true
+          id: 3
+          release: 6/10/2016
+          image: "Meta Knight.png"
+
+        - name: "Waddle Dee"
+          owned: false
+          id: 4
+          release: 6/10/2016
+          image: "Waddle Dee.png"
 
     - title: "Yoshi's Wooly World"
       folder-path: "yoshi-wooly-world/"
       characters:
         - name: "Light-Blue Yarn Yoshi"
           owned: true
+          id: 2
           release: 10/16/2015
           image: "Light-Blue Yarn Yoshi.png"
 
         - name: "Pink Yarn Yoshi"
           owned: true
+          id: 3
           release: 10/16/2015
           image: "Pink Yarn Yoshi.png"
 
         - name: "Green Yarn Yoshi"
           owned: true
+          id: 1
           release: 10/16/2015
           image: "Green Yarn Yoshi.png"
 
         - name: "Mega Yarn Yoshi"
           owned: false
+          id: 4
           release: 11/15/2015
           image: "Mega Yarn Yoshi.png"
 
         - name: "Poochy"
           owned: true
+          id: 5
           release: 2/3/2017
           image: "Poochy.png"
 
     - title: "Monster Hunter"
       folder-path: "monster-hunter/"
       characters:
+        - name: "One-Eyed Rathalos & Rider (Boy)"
+          owned: false
+          id: 1
+          release: 10/8/2016
+          image: "One-Eyed Rathalos and Rider (Boy).png"
+
+        - name: "One-Eyed Rathalos & Rider (Girl)"
+          owned: false
+          id: 2
+          release: 10/8/2016
+          image: "One-Eyed Rathalos and Rider (Girl).png"
+
+        - name: "Qurupeco & Dan"
+          owned: false
+          id: 3
+          release: 12/8/2016
+          image: "Qurupeco and Dan.png"
+          
+        - name: "Barioth & Ayuria"
+          owned: false
+          id: 4
+          release: 12/8/2016
+          image: "Barioth and Ayuria.png"
+
+        - name: "Rathian & Cheval"
+          owned: false
+          id: 5
+          release: 12/8/2016
+          image: "Rathian and Cheval.png"
+
         - name: "Navirou"
           owned: false
+          id: 6
           release: 10/8/2016
           image: "Navirou.png"
+          
+        - name: "Ena"
+          owned: false
+          id: 7
+          release: 7/9/2021
+          image: "Ena.png"
+          
+        - name: "Razewing Ratha"
+          owned: false
+          id: 8
+          release: 7/9/2021
+          image: "Razewing Ratha.png"
+          
+        - name: "Tsukino"
+          owned: false
+          id: 9
+          release: 7/9/2021
+          image: "Tsukino.png"
+                    
+        - name: "Magnamalo"
+          owned: false
+          id: 10
+          release: 3/26/2021
+          image: "Magnamalo.png"
+                    
+        - name: "Palamute"
+          owned: false
+          id: 11
+          release: 3/26/2021
+          image: "Palamute.png"
+                    
+        - name: "Palico"
+          owned: false
+          id: 12
+          release: 3/26/2021
+          image: "Palico.png"
+                    
+        - name: "Malzeno"
+          owned: false
+          id: 13
+          release: 6/30/2022
+          image: "Malzeno.png"
+                    
+        - name: "Palamute (Canyne Malzeno X)"
+          owned: false
+          id: 14
+          release: 6/30/2022
+          image: "Palamute (Canyne Malzeno X).png"
+                    
+        - name: "Palico (Felyne Malzeno X)"
+          owned: false
+          id: 15
+          release: 6/30/2022
+          image: "Palico (Felyne Malzeno X).png"
 
     - title: "Miscellaneous"
       folder-path: "miscellaneous/"
       characters:
         - name: "Qbby"
           owned: false
+          id: 2
           release: 2/2/2017
           image: "Qbby.png"
 
         - name: "Mega Man"
           owned: false
+          id: 1
           release: 10/2/2018
           image: "Mega Man.png"
 
-        - name: "Gold Mega Man"
-          owned: false
-          release: 2/23/2016
-          image: "Gold Mega Man.png"
-
         - name: "Chibi-Robo"
           owned: true
+          id: 3
           release: 10/9/2015
           image: "Chibi-Robo.png"
 
         - name: "Pikmin"
           owned: false
+          id: 4
           release: 7/28/2017
           image: "Pikmin.png"
 
         - name: "Super Mario Cereal"
           owned: true
+          id: 5
           release: 12/11/2017
           image: "Cereal.png"
 
         - name: "Detective Pikachu"
           owned: true
+          id: 6
           release: 3/23/2018
           image: "Detective Pikachu.png"
 
         - name: "Solaire of Astora"
           owned: false
+          id: 7
           release: 10/19/2018
           image: "Solaire of Astora.png"
 
         - name: "Loot Goblin"
           owned: false
+          id: 8
           release: 12/21/2018
           image: "Loot Goblin.png"
 
-    - title: "Skylanders"
+    - title: "Skylanders: SuperChargers"
       folder-path: "skylanders/"
       characters:
         - name: "Dark Hammer Slam Bowser"
           owned: false
+          id: 2
           release: 11/20/2015
           image: "Dark Hammer Slam Bowser.png"
 
         - name: "Hammer Slam Bowser"
           owned: false
+          id: 1
           release: 11/20/2015
           image: "Hammer Slam Bowser.png"
 
         - name: "Dark Turbo Charge Donkey Kong"
           owned: false
+          id: 4
           release: 11/20/2015
           image: "Dark Turbo Charge Donkey Kong.png"
 
         - name: "Turbo Charge Donkey Kong"
           owned: false
+          id: 3
           release: 11/20/2015
           image: "Turbo Charge Donkey Kong.png"
 
@@ -204,25 +1374,86 @@ series:
       characters:
         - name: "Gold Shovel Knight"
           owned: true
+          id: 2
           release: 12/10/2019
           image: "Gold Shovel Knight.png"
 
         - name: "Shovel Knight"
           owned: false
+          id: 1
           release: 1/8/2016
           image: "Shovel Knight.png"
 
         - name: "King Knight"
           owned: true
+          id: 5
           release: 12/10/2019
           image: "King Knight.png"
 
         - name: "Plague Knight"
           owned: true
+          id: 3
           release: 12/10/2019
           image: "Plague Knight.png"
 
         - name: "Specter Knight"
           owned: true
+          id: 4
           release: 12/10/2019
           image: "Specter Knight.png"
+    - title: "Cards"
+      folder-path: "cards/"
+      characters:
+        - name: "Mario Sports Superstars"
+          owned: true
+          id: 1
+          release: 3/24/2017
+          image: "Mario Sports Superstars.png"
+
+        - name: "Animal Crossing Series 1"
+          owned: true
+          id: 2
+          release: 9/25/2015
+          image: "Animal Crossing Series 1.png"
+         
+        - name: "Animal Crossing Series 1"
+          owned: true
+          id: 3
+          release: 9/25/2015
+          image: "Animal Crossing Series 1.png"
+          
+        - name: "Animal Crossing Series 2"
+          owned: true
+          id: 4
+          release: 1/22/2016
+          image: "Animal Crossing Series 2.png"
+          
+        - name: "Animal Crossing Series 3"
+          owned: true
+          id: 5
+          release: 3/18/2016
+          image: "Animal Crossing Series 3.png"
+          
+        - name: "Animal Crossing Series 4"
+          owned: true
+          id: 6
+          release: 6/10/2016
+          image: "Animal Crossing Series 4.png" 
+                    
+        - name: "Animal Crossing Series 5"
+          owned: true
+          id: 7
+          release: 11/5/2021
+          image: "Animal Crossing Series 1.png" 
+                              
+        - name: "Animal Crossing New Leaf"
+          owned: false
+          id: 8
+          release: 12/2/2016
+          image: "Animal Crossing New Leaf.png" 
+                                        
+        - name: "Shadow Mewtwo"
+          owned: false
+          id: 9
+          release: 3/18/2016
+          image: "Shadow Mewtwo.png" 

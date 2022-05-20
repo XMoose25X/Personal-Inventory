@@ -28,7 +28,7 @@ permalink: /amiibo/
         </div>
         <div class="series-container">
 
-            {% assign sortedAmiibo = series.characters | sort_natural: "name" %}
+            {% assign sortedAmiibo = series.characters | sort: "id" %}
             {% for amiibo in sortedAmiibo %}
             <div 
                 class="amiibo-container tooltip {% if amiibo.owned %}owned-amiibo{% endif %}"
