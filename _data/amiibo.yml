@@ -662,7 +662,7 @@ series:
           image: "Waluigi.png"
 
         - name: "Daisy"
-          owned: false
+          owned: true
           id: 14
           release: 11/4/2016
           image: "Daisy.png"
@@ -962,7 +962,7 @@ series:
           image: "Inkling Boy.png"
 
         - name: "Inkling Squid"
-          owned: true
+          owned: false
           id: 3
           release: 5/29/2015
           image: "Inkling Squid.png"
