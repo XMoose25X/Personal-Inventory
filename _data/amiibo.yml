@@ -41,7 +41,7 @@ series:
           image: "Yoshi.png"
 
         - name: "Kirby"
-          owned: false
+          owned: true
           id: 7
           release: 11/21/2014
           image: "Kirby.png"
@@ -167,7 +167,7 @@ series:
           image: "Mewtwo.png"
 
         - name: "Roy"
-          owned: false
+          owned: true
           id: 28
           release: 3/18/2016
           image: "Roy.png"
@@ -590,7 +590,7 @@ series:
           image: "Mario.png"
 
         - name: "Luigi"
-          owned: false
+          owned: true
           id: 2
           release: 3/20/2015
           image: "Luigi.png"
@@ -620,13 +620,13 @@ series:
           image: "Bowser.png"
 
         - name: "Mario (Gold Edition)"
-          owned: false
+          owned: true
           id: 7
           release: 5/29/2015
           image: "Mario (Gold Edition).png"
 
         - name: "Mario (Silver Edition)"
-          owned: false
+          owned: true
           id: 8
           release: 3/20/2015
           image: "Mario (Silver Edition).png"
@@ -644,7 +644,7 @@ series:
           image: "Rosalina.png"
 
         - name: "Boo"
-          owned: false
+          owned: true
           id: 11
           release: 11/4/2016
           image: "Boo.png"
@@ -674,7 +674,7 @@ series:
           image: "Diddy Kong.png"
 
         - name: "Goomba"
-          owned: false
+          owned: true
           id: 16
           release: 10/6/2017
           image: "Goomba.png"
@@ -941,7 +941,7 @@ series:
           image: "Rover.png"
 
         - name: "Isabelle (Summer Outfit)"
-          owned: false
+          owned: true
           id: 2
           release: 6/10/2016
           image: "Isabelle (Summer Outfit).png"
@@ -1379,7 +1379,7 @@ series:
           image: "Gold Shovel Knight.png"
 
         - name: "Shovel Knight"
-          owned: false
+          owned: true
           id: 1
           release: 1/8/2016
           image: "Shovel Knight.png"
