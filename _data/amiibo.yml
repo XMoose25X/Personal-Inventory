@@ -209,7 +209,7 @@ series:
           image: "Zero Suit Samus.png"
 
         - name: "Wario"
-          owned: false
+          owned: true
           id: 35
           release: 5/29/2015
           image: "Wario.png"
@@ -443,7 +443,7 @@ series:
           image: "Bayonetta.png"
 
         - name: "Bayonetta (Player 2)"
-          owned: false
+          owned: true
           id: 74
           release: 7/21/2017
           image: "Bayonetta (Player 2).png"
