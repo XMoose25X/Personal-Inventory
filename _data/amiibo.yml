@@ -11,7 +11,7 @@ series:
           image: "Mario.png"
 
         - name: "Donkey Kong"
-          owned: false
+          owned: true
           id: 2
           release: 11/21/2014
           image: "Donkey Kong.png"
@@ -329,7 +329,7 @@ series:
           image: "Wii Fit Trainer.png"
 
         - name: "Rosalina"
-          owned: false
+          owned: true
           id: 55
           release: 2/1/2015
           image: "Rosalina.png"
@@ -650,7 +650,7 @@ series:
           image: "Boo.png"
 
         - name: "Donkey Kong"
-          owned: false
+          owned: true
           id: 12
           release: 11/4/2016
           image: "Donkey Kong.png"
@@ -668,7 +668,7 @@ series:
           image: "Daisy.png"
 
         - name: "Diddy Kong"
-          owned: false
+          owned: true
           id: 15
           release: 11/4/2016
           image: "Diddy Kong.png"
@@ -806,7 +806,7 @@ series:
           image: "Link (Rider).png"
 
         - name: "Zelda"
-          owned: false
+          owned: true
           id: 13
           release: 3/3/2017
           image: "Zelda.png"
