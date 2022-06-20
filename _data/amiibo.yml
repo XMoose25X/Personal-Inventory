@@ -89,7 +89,7 @@ series:
           image: "Peach.png"
 
         - name: "Daisy"
-          owned: false
+          owned: true
           id: 15
           release: 4/12/2019
           image: "Daisy.png"
@@ -149,7 +149,7 @@ series:
           image: "Lucina.png"
 
         - name: "Young Link"
-          owned: false
+          owned: true
           id: 25
           release: 4/12/2019
           image: "Young Link.png"
@@ -407,7 +407,7 @@ series:
           image: "Ryu.png"
 
         - name: "Ken"
-          owned: false
+          owned: true
           id: 68
           release: 4/12/2019
           image: "Ken.png"
