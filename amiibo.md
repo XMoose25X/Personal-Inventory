@@ -37,6 +37,7 @@ permalink: /amiibo/
                     Released on {{amiibo.release}}
                 </span>
                 <img 
+                    style="width: 100px; height: 118px;"
                     src="{% link {{site.data.amiibo.image-path}}{{series.folder-path}}{{amiibo.image}} %}"
                     alt="{{amiibo.name}}"
                 />
