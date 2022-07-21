@@ -108,7 +108,7 @@ series:
           image: "Ice Climbers.png"
 
         - name: "Sheik"
-          owned: false
+          owned: true
           id: 18
           release: 2/1/2015
           image: "Sheik.png"
