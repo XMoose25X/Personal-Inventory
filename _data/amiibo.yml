@@ -450,7 +450,7 @@ series:
           image: "Bayonetta (Player 2).png"
 
         - name: "Inkling"
-          owned: false
+          owned: true
           id: 75
           release: 12/7/2018
           image: "Inkling.png"
@@ -1096,13 +1096,13 @@ series:
       characters:
 
         - name: "Samus Aran"
-          owned: false
+          owned: true
           id: 1
           release: 9/15/2017
           image: "Samus Aran.png"
 
         - name: "Metroid"
-          owned: false
+          owned: true
           id: 2
           release: 9/15/2017
           image: "Metroid.png"
