@@ -1428,37 +1428,37 @@ series:
       characters:
 
         - name: "Mario (Soccer)"
-          owned: false
+          owned: true
           id: 1
           release: 3/24/2017
           image: "Mario (Soccer).png"
 
         - name: "Mario (Baseball)"
-          owned: false
+          owned: true
           id: 2
           release: 3/24/2017
           image: "Mario (Baseball).png"
 
         - name: "Mario (Tennis)"
-          owned: false
+          owned: true
           id: 3
           release: 3/24/2017
           image: "Mario (Tennis).png"
 
         - name: "Mario (Golf)"
-          owned: false
+          owned: true
           id: 4
           release: 3/24/2017
           image: "Mario (Golf).png"
 
         - name: "Mario (Horse Racing)"
-          owned: false
+          owned: true
           id: 5
           release: 3/24/2017
           image: "Mario (Horse Racing).png"
 
         - name: "Luigi (Soccer)"
-          owned: false
+          owned: true
           id: 6
           release: 3/24/2017
           image: "Luigi (Soccer).png"
@@ -1470,7 +1470,7 @@ series:
           image: "Luigi (Baseball).png"
 
         - name: "Luigi (Tennis)"
-          owned: false
+          owned: true
           id: 8
           release: 3/24/2017
           image: "Luigi (Tennis).png"
@@ -1482,61 +1482,61 @@ series:
           image: "Luigi (Golf).png"
 
         - name: "Luigi (Horse Racing)"
-          owned: false
+          owned: true
           id: 10
           release: 3/24/2017
           image: "Luigi (Horse Racing).png"
 
         - name: "Peach (Soccer)"
-          owned: false
+          owned: true
           id: 11
           release: 3/24/2017
           image: "Peach (Soccer).png"
 
         - name: "Peach (Baseball)"
-          owned: false
+          owned: true
           id: 12
           release: 3/24/2017
           image: "Peach (Baseball).png"
 
         - name: "Peach (Tennis)"
-          owned: false
+          owned: true
           id: 13
           release: 3/24/2017
           image: "Peach (Tennis).png"
 
         - name: "Peach (Golf)"
-          owned: false
+          owned: true
           id: 14
           release: 3/24/2017
           image: "Peach (Golf).png"
 
         - name: "Peach (Horse Racing)"
-          owned: false
+          owned: true
           id: 15
           release: 3/24/2017
           image: "Peach (Horse Racing).png"
 
         - name: "Daisy (Soccer)"
-          owned: false
+          owned: true
           id: 16
           release: 3/24/2017
           image: "Daisy (Soccer).png"
 
         - name: "Daisy (Baseball)"
-          owned: false
+          owned: true
           id: 17
           release: 3/24/2017
           image: "Daisy (Baseball).png"
 
         - name: "Daisy (Tennis)"
-          owned: false
+          owned: true
           id: 18
           release: 3/24/2017
           image: "Daisy (Tennis).png"
 
         - name: "Daisy (Golf)"
-          owned: false
+          owned: true
           id: 19
           release: 3/24/2017
           image: "Daisy (Golf).png"
@@ -1560,7 +1560,7 @@ series:
           image: "Yoshi (Baseball).png"
 
         - name: "Yoshi (Tennis)"
-          owned: false
+          owned: true
           id: 23
           release: 3/24/2017
           image: "Yoshi (Tennis).png"
@@ -1572,31 +1572,31 @@ series:
           image: "Yoshi (Golf).png"
 
         - name: "Yoshi (Horse Racing)"
-          owned: false
+          owned: true
           id: 25
           release: 3/24/2017
           image: "Yoshi (Horse Racing).png"
 
         - name: "Wario (Soccer)"
-          owned: false
+          owned: true
           id: 26
           release: 3/24/2017
           image: "Wario (Soccer).png"
 
         - name: "Wario (Baseball)"
-          owned: false
+          owned: true
           id: 27
           release: 3/24/2017
           image: "Wario (Baseball).png"
 
         - name: "Wario (Tennis)"
-          owned: false
+          owned: true
           id: 28
           release: 3/24/2017
           image: "Wario (Tennis).png"
 
         - name: "Wario (Golf)"
-          owned: false
+          owned: true
           id: 29
           release: 3/24/2017
           image: "Wario (Golf).png"
@@ -1608,61 +1608,61 @@ series:
           image: "Wario (Horse Racing).png"
 
         - name: "Waluigi (Soccer)"
-          owned: false
+          owned: true
           id: 31
           release: 3/24/2017
           image: "Waluigi (Soccer).png"
 
         - name: "Waluigi (Baseball)"
-          owned: false
+          owned: true
           id: 32
           release: 3/24/2017
           image: "Waluigi (Baseball).png"
 
         - name: "Waluigi (Tennis)"
-          owned: false
+          owned: true
           id: 33
           release: 3/24/2017
           image: "Waluigi (Tennis).png"
 
         - name: "Waluigi (Golf)"
-          owned: false
+          owned: true
           id: 34
           release: 3/24/2017
           image: "Waluigi (Golf).png"
 
         - name: "Waluigi (Horse Racing)"
-          owned: false
+          owned: true
           id: 35
           release: 3/24/2017
           image: "Waluigi (Horse Racing).png"
 
         - name: "Donkey Kong (Soccer)"
-          owned: false
+          owned: true
           id: 36
           release: 3/24/2017
           image: "Donkey Kong (Soccer).png"
 
         - name: "Donkey Kong (Baseball)"
-          owned: false
+          owned: true
           id: 37
           release: 3/24/2017
           image: "Donkey Kong (Baseball).png"
 
         - name: "Donkey Kong (Tennis)"
-          owned: false
+          owned: true
           id: 38
           release: 3/24/2017
           image: "Donkey Kong (Tennis).png"
 
         - name: "Donkey Kong (Golf)"
-          owned: false
+          owned: true
           id: 39
           release: 3/24/2017
           image: "Donkey Kong (Golf).png"
 
         - name: "Donkey Kong (Horse Racing)"
-          owned: false
+          owned: true
           id: 40
           release: 3/24/2017
           image: "Donkey Kong (Horse Racing).png"
@@ -1674,37 +1674,37 @@ series:
           image: "Diddy Kong (Soccer).png"
 
         - name: "Diddy Kong (Baseball)"
-          owned: false
+          owned: true
           id: 42
           release: 3/24/2017
           image: "Diddy Kong (Baseball).png"
 
         - name: "Diddy Kong (Tennis)"
-          owned: false
+          owned: true
           id: 43
           release: 3/24/2017
           image: "Diddy Kong (Tennis).png"
 
         - name: "Diddy Kong (Golf)"
-          owned: false
+          owned: true
           id: 44
           release: 3/24/2017
           image: "Diddy Kong (Golf).png"
 
         - name: "Diddy Kong (Horse Racing)"
-          owned: false
+          owned: true
           id: 45
           release: 3/24/2017
           image: "Diddy Kong (Horse Racing).png"
 
         - name: "Bowser (Soccer)"
-          owned: false
+          owned: true
           id: 46
           release: 3/24/2017
           image: "Bowser (Soccer).png"
 
         - name: "Bowser (Baseball)"
-          owned: false
+          owned: true
           id: 47
           release: 3/24/2017
           image: "Bowser (Baseball).png"
@@ -1716,7 +1716,7 @@ series:
           image: "Bowser (Tennis).png"
 
         - name: "Bowser (Golf)"
-          owned: false
+          owned: true
           id: 49
           release: 3/24/2017
           image: "Bowser (Golf).png"
@@ -1728,13 +1728,13 @@ series:
           image: "Bowser (Horse Racing).png"
 
         - name: "Bowser Jr. (Soccer)"
-          owned: false
+          owned: true
           id: 51
           release: 3/24/2017
           image: "Bowser Jr. (Soccer).png"
 
         - name: "Bowser Jr. (Baseball)"
-          owned: false
+          owned: true
           id: 52
           release: 3/24/2017
           image: "Bowser Jr. (Baseball).png"
@@ -1746,13 +1746,13 @@ series:
           image: "Bowser Jr. (Tennis).png"
 
         - name: "Bowser Jr. (Golf)"
-          owned: false
+          owned: true
           id: 54
           release: 3/24/2017
           image: "Bowser Jr. (Golf).png"
 
         - name: "Bowser Jr. (Horse Racing)"
-          owned: false
+          owned: true
           id: 55
           release: 3/24/2017
           image: "Bowser Jr. (Horse Racing).png"
@@ -1764,19 +1764,19 @@ series:
           image: "Boo (Soccer).png"
 
         - name: "Boo (Baseball)"
-          owned: false
+          owned: true
           id: 57
           release: 3/24/2017
           image: "Boo (Baseball).png"
 
         - name: "Boo (Tennis)"
-          owned: false
+          owned: true
           id: 58
           release: 3/24/2017
           image: "Boo (Tennis).png"
 
         - name: "Boo (Golf)"
-          owned: false
+          owned: true
           id: 59
           release: 3/24/2017
           image: "Boo (Golf).png"
@@ -1788,31 +1788,31 @@ series:
           image: "Boo (Horse Racing).png"
 
         - name: "Baby Mario (Soccer)"
-          owned: false
+          owned: true
           id: 61
           release: 3/24/2017
           image: "Baby Mario (Soccer).png"
 
         - name: "Baby Mario (Baseball)"
-          owned: false
+          owned: true
           id: 62
           release: 3/24/2017
           image: "Baby Mario (Baseball).png"
 
         - name: "Baby Mario (Tennis)"
-          owned: false
+          owned: true
           id: 63
           release: 3/24/2017
           image: "Baby Mario (Tennis).png"
 
         - name: "Baby Mario (Golf)"
-          owned: false
+          owned: true
           id: 64
           release: 3/24/2017
           image: "Baby Mario (Golf).png"
 
         - name: "Baby Mario (Horse Racing)"
-          owned: false
+          owned: true
           id: 65
           release: 3/24/2017
           image: "Baby Mario (Horse Racing).png"
@@ -1830,7 +1830,7 @@ series:
           image: "Baby Luigi (Baseball).png"
 
         - name: "Baby Luigi (Tennis)"
-          owned: false
+          owned: true
           id: 68
           release: 3/24/2017
           image: "Baby Luigi (Tennis).png"
@@ -1842,25 +1842,25 @@ series:
           image: "Baby Luigi (Golf).png"
 
         - name: "Baby Luigi (Horse Racing)"
-          owned: false
+          owned: true
           id: 70
           release: 3/24/2017
           image: "Baby Luigi (Horse Racing).png"
 
         - name: "Birdo (Soccer)"
-          owned: false
+          owned: true
           id: 71
           release: 3/24/2017
           image: "Birdo (Soccer).png"
 
         - name: "Birdo (Baseball)"
-          owned: false
+          owned: true
           id: 72
           release: 3/24/2017
           image: "Birdo (Baseball).png"
 
         - name: "Birdo (Tennis)"
-          owned: false
+          owned: true
           id: 73
           release: 3/24/2017
           image: "Birdo (Tennis).png"
@@ -1872,19 +1872,19 @@ series:
           image: "Birdo (Golf).png"
 
         - name: "Birdo (Horse Racing)"
-          owned: false
+          owned: true
           id: 75
           release: 3/24/2017
           image: "Birdo (Horse Racing).png"
 
         - name: "Rosalina (Soccer)"
-          owned: false
+          owned: true
           id: 76
           release: 3/24/2017
           image: "Rosalina (Soccer).png"
 
         - name: "Rosalina (Baseball)"
-          owned: false
+          owned: true
           id: 77
           release: 3/24/2017
           image: "Rosalina (Baseball).png"
@@ -1902,7 +1902,7 @@ series:
           image: "Rosalina (Golf).png"
 
         - name: "Rosalina (Horse Racing)"
-          owned: false
+          owned: true
           id: 80
           release: 3/24/2017
           image: "Rosalina (Horse Racing).png"
@@ -1914,7 +1914,7 @@ series:
           image: "Metal Mario (Soccer).png"
 
         - name: "Metal Mario (Baseball)"
-          owned: false
+          owned: true
           id: 82
           release: 3/24/2017
           image: "Metal Mario (Baseball).png"
@@ -1926,13 +1926,13 @@ series:
           image: "Metal Mario (Tennis).png"
 
         - name: "Metal Mario (Golf)"
-          owned: false
+          owned: true
           id: 84
           release: 3/24/2017
           image: "Metal Mario (Golf).png"
 
         - name: "Metal Mario (Horse Racing)"
-          owned: false
+          owned: true
           id: 85
           release: 3/24/2017
           image: "Metal Mario (Horse Racing).png"
@@ -1944,25 +1944,25 @@ series:
           image: "Pink Gold Peach (Soccer).png"
 
         - name: "Pink Gold Peach (Baseball)"
-          owned: false
+          owned: true
           id: 87
           release: 3/24/2017
           image: "Pink Gold Peach (Baseball).png"
 
         - name: "Pink Gold Peach (Tennis)"
-          owned: false
+          owned: true
           id: 88
           release: 3/24/2017
           image: "Pink Gold Peach (Tennis).png"
 
         - name: "Pink Gold Peach (Golf)"
-          owned: false
+          owned: true
           id: 89
           release: 3/24/2017
           image: "Pink Gold Peach (Golf).png"
 
         - name: "Pink Gold Peach (Horse Racing)"
-          owned: false
+          owned: true
           id: 90
           release: 3/24/2017
           image: "Pink Gold Peach (Horse Racing).png"
