@@ -1051,6 +1051,24 @@ series:
           release: 12/7/2018
           image: "Octoling Octopus.png"
 
+        - name: "Inkling Girl (Yellow)"
+          owned: false
+          id: 17
+          release: 12/31/2022
+          image: "Inkling Girl (Yellow).png"
+
+        - name: "Octoling Boy (Blue)"
+          owned: false
+          id: 18
+          release: 12/31/2022
+          image: "Octoling Boy (Blue).png"
+
+        - name: "Smallfry"
+          owned: false
+          id: 19
+          release: 12/31/2022
+          image: "Smallfry.png"
+
     - title: "Super Nintendo World"
       folder-path: "super-nintendo-world/"
       characters:
