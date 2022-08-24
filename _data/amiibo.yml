@@ -420,7 +420,7 @@ series:
           image: "Cloud.png"
 
         - name: "Cloud (Player 2)"
-          owned: false
+          owned: true
           id: 70
           release: 7/21/2017
           image: "Cloud (Player 2).png"
