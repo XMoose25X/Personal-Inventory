@@ -798,7 +798,7 @@ series:
           image: "Zelda and Loftwing.png"
 
         - name: "Link (Archer)"
-          owned: false
+          owned: true
           id: 11
           release: 3/3/2017
           image: "Link (Archer).png"
@@ -816,7 +816,7 @@ series:
           image: "Zelda.png"
 
         - name: "Bokoblin"
-          owned: false
+          owned: true
           id: 14
           release: 3/3/2017
           image: "Bokoblin.png"
