@@ -1004,7 +1004,7 @@ series:
           image: "Marie.png"
 
         - name: "Inkling Girl (Neon Pink)"
-          owned: false
+          owned: true
           id: 9
           release: 7/21/2017
           image: "Inkling Girl (Neon Pink).png"
