@@ -992,13 +992,13 @@ series:
           image: "Inkling Squid (Orange).png"
 
         - name: "Callie"
-          owned: false
+          owned: true
           id: 7
           release: 7/8/2016
           image: "Callie.png"
 
         - name: "Marie"
-          owned: false
+          owned: true
           id: 8
           release: 7/8/2016
           image: "Marie.png"
