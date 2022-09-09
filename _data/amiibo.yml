@@ -762,13 +762,13 @@ series:
           image: "Link (Majora's Mask).png"
 
         - name: "Toon Link"
-          owned: false
+          owned: true
           id: 5
           release: 12/2/2016
           image: "Toon Link.png"
 
         - name: "Toon Zelda"
-          owned: false
+          owned: true
           id: 6
           release: 12/2/2016
           image: "Toon Zelda.png"
