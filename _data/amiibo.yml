@@ -540,15 +540,15 @@ series:
           image: "Min Min.png"
 
         - name: "Steve"
-          owned: false
+          owned: true
           id: 89
-          release: 12/31/2022
+          release: 09/09/2022
           image: "Steve.png"
 
         - name: "Alex"
-          owned: false
+          owned: true
           id: 90
-          release: 12/31/2022
+          release: 09/09/2022
           image: "Alex.png"
 
         - name: "Sephiroth"
