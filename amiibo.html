@@ -3,7 +3,13 @@ layout: full
 title: Amiibo
 permalink: /amiibo/
 ---
-
+<h1>
+    <img 
+        style="width: 300px; height: 87px;"
+        src="{% link {{site.data.amiibo.image-path}}amiibo-logo.png %}"
+        alt="Amiibo"
+    />
+</h1>
 {% assign owned = 0 %}
 {% assign total = 0 %}
 {% assign ratio = 0 %}
@@ -35,26 +41,27 @@ permalink: /amiibo/
         <label for="unowned-radio">Unowned</label>
     </div>  
 </div> {%- endcomment -%}
-
-{%- comment -%} <input type="radio" id="all-radio" name="content-filter" checked>
+<span>Filter:</span>
+<input type="radio" id="all-radio" name="content-filter" checked />
 <label for="all-radio">All</label>
 
-<input type="radio" id="owned-radio" name="content-filter">
+<input type="radio" id="owned-radio" name="content-filter" />
 <label for="owned-radio">Owned</label>
 
-<input type="radio" id="unowned-radio" name="content-filter">
-<label for="unowned-radio">Unowned</label>  {%- endcomment -%}
-<div  stlye="display: flex">
+<input type="radio" id="unowned-radio" name="content-filter" />
+<label for="unowned-radio">Unowned</label> 
+<div stlye="display: flex">
     {% for series in site.data.amiibo.series %}
     {% assign seriesOwned = series.characters | where: "owned", "true" | size %}
     {% assign seriesTotal = series.characters | size %}
-    <div id="{{series.title | slugify: 'pretty'}}-container">
+    <div id="{{series.title | slugify: 'pretty'}}-container" class="series-container {% if seriesOwned == seriesTotal %}owned-series{% endif %} {% if seriesOwned == 0 %}unowned-series{% endif %}">
         <details>
             <summary>
                 <span>{{series.title}}</span>
-                <span class="float-right">{{ series.characters | where: "owned", "true" | size }} / {{ series.characters | size }}</span>
+                <span class="float-right series-count">{{ series.characters | where: "owned", "true" | size }} / {{ series.characters | size }}</span>
+                <span class="float-right series-remainder">{{ series.characters | where: "owned", "false" | size }} Left</span>
             </summary>
-            <div class="series-container">
+            <div class="collection-container">
             {% assign sortedAmiibo = series.characters | sort: "id" %}
             {% for amiibo in sortedAmiibo %}
             <div class="amiibo-container tooltip {% if amiibo.owned %}owned-amiibo{% endif %}">
@@ -64,7 +71,7 @@ permalink: /amiibo/
                 <img 
                     style="width: 100px; height: 118px;"
                     src="{% link {{site.data.amiibo.image-path}}{{series.folder-path}}{{amiibo.image}} %}"
-                    alt="{{amiibo.name}}"
+                    alt="{{amiibo.name}}" loading="lazy"
                 />
                 <span style="font-size: 0.8em; height: 3em; text-align: center">{{amiibo.name}}</span>
             </div>

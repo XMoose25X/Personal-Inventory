@@ -44,6 +44,10 @@
   border-color: transparent transparent #555 transparent;
 }
 
+h1 {
+  text-align: center;
+}
+
 .full-width {
   max-width: 100vw;
   margin-right: auto;
@@ -74,11 +78,17 @@
   border: thin solid transparent;
 }
 
-#owned-radio:checked .amiibo-container:not(.owned-amiibo) {
-  display: none;
-}
 
-#unowned-radio:checked ~ div > .owned-amiibo {
+// Unowned should hide count (and show remainder), completed series, and owned amiibos
+#unowned-radio:checked ~ div .series-count,
+#unowned-radio:checked ~ div .owned-amiibo,
+#unowned-radio:checked ~ div .owned-series,
+// Owned should hide remainder (and show count), and hide unowned amiibo and completely-unowned series
+#owned-radio:checked ~ div .series-remainder,
+#owned-radio:checked ~ div .amiibo-container:not(.owned-amiibo),
+#owned-radio:checked ~ div .unowned-series,
+// All should just hide remainder (and show count)
+#all-radio:checked ~ div .series-remainder {
   display: none;
 }
 
@@ -106,7 +116,7 @@ summary {
   font-size: 1.2em;
 }
 
-.series-container {
+.collection-container {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
