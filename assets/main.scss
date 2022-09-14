@@ -52,6 +52,17 @@
   padding-left: $spacing-unit;
 }
 
+@media only screen and (max-width: 600px) {
+  .full-width {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
+
+.float-right {
+  float: right;
+}
+
 .amiibo-container {
   display: flex;
   flex-direction: column;
@@ -63,6 +74,14 @@
   border: thin solid transparent;
 }
 
+#owned-radio:checked .amiibo-container:not(.owned-amiibo) {
+  display: none;
+}
+
+#unowned-radio:checked ~ div > .owned-amiibo {
+  display: none;
+}
+
 .owned-amiibo {
   background: linear-gradient(#ddfcd4, #b8dea2);
   border: thin solid #8ab870;
@@ -71,7 +90,7 @@
   text-shadow: 1px 1px white;
 }
 
-.series-header {
+summary {
   box-shadow: inset 0px 1px 0px 0px white;
   background: linear-gradient(to bottom, #858585 5%, #4d4d4d 100%);
   background-color: #007dc1;
@@ -79,20 +98,20 @@
   border: 1px solid black;
   color: #ffffff;
   font-family: Arial;
-  padding: 6px 24px;
+  padding: 6px 12px;
   text-decoration: none;
   text-shadow: 0px 1px 0px #154682;
-  margin: 30px 0px 30px 0px;
+  margin: 5px 0px;
   text-align: left;
-  font-size: 1.3em;
-  display: flex;
-  justify-content: space-between;
+  font-size: 1.2em;
 }
 
 .series-container {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
 }
 
 .meter {
@@ -125,4 +144,9 @@
   text-align: center;
   color: #ffffff;
   line-height: 0.85em;
+}
+
+.amiibo-filter {
+  display: flex;
+  justify-content: space-evenly;
 }
