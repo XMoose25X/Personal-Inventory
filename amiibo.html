@@ -34,7 +34,7 @@ permalink: /amiibo/
 
 <input type="radio" id="unowned-radio" name="content-filter" />
 <label for="unowned-radio">Unowned</label> 
-<div class="all-series">
+<div>
     {% for series in site.data.amiibo.series %}
     {% assign seriesOwned = series.characters | where: "owned", "true" | size %}
     {% assign seriesTotal = series.characters | size %}
