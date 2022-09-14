@@ -5,7 +5,6 @@ permalink: /amiibo/
 ---
 <h1>
     <img 
-        style="width: 300px; height: 87px;"
         src="{% link {{site.data.amiibo.image-path}}amiibo-logo.png %}"
         alt="Amiibo"
     />
@@ -26,21 +25,6 @@ permalink: /amiibo/
 <div class="meter">
 	<span style="width: {{ratio}}%">{{ratio | floor }}%</span>
 </div>
-{%- comment -%} <div class="amiibo-filter">
-    <span>Filter:</span>
-    <div>
-        <input type="radio" id="all-radio" name="content-filter" checked>
-        <label for="all-radio">All</label>
-    </div>
-    <div>
-        <input type="radio" id="owned-radio" name="content-filter">
-        <label for="owned-radio">Owned</label>
-    </div>
-    <div>
-        <input type="radio" id="unowned-radio" name="content-filter">
-        <label for="unowned-radio">Unowned</label>
-    </div>  
-</div> {%- endcomment -%}
 <span>Filter:</span>
 <input type="radio" id="all-radio" name="content-filter" checked />
 <label for="all-radio">All</label>
@@ -50,7 +34,7 @@ permalink: /amiibo/
 
 <input type="radio" id="unowned-radio" name="content-filter" />
 <label for="unowned-radio">Unowned</label> 
-<div stlye="display: flex">
+<div class="all-series">
     {% for series in site.data.amiibo.series %}
     {% assign seriesOwned = series.characters | where: "owned", "true" | size %}
     {% assign seriesTotal = series.characters | size %}
