@@ -1010,7 +1010,7 @@ series:
           image: "Inkling Girl (Neon Pink).png"
 
         - name: "Inkling Boy (Neon Green)"
-          owned: false
+          owned: true
           id: 10
           release: 7/21/2017
           image: "Inkling Boy (Neon Green).png"
