@@ -1,0 +1,33 @@
+title: "Yoshi's Wooly World"
+sort-order: 11
+folder-path: "yoshi-wooly-world/"
+characters:
+    - name: "Green Yarn Yoshi"
+      owned: true
+      id: 1
+      release: 10/16/2015
+      image: "Green Yarn Yoshi.png"
+
+    - name: "Light-Blue Yarn Yoshi"
+      owned: true
+      id: 2
+      release: 10/16/2015
+      image: "Light-Blue Yarn Yoshi.png"
+
+    - name: "Pink Yarn Yoshi"
+      owned: true
+      id: 3
+      release: 10/16/2015
+      image: "Pink Yarn Yoshi.png"
+
+    - name: "Mega Yarn Yoshi"
+      owned: false
+      id: 4
+      release: 11/15/2015
+      image: "Mega Yarn Yoshi.png"
+
+    - name: "Poochy"
+      owned: true
+      id: 5
+      release: 2/3/2017
+      image: "Poochy.png"

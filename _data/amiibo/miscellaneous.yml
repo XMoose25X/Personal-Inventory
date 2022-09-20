@@ -1,0 +1,57 @@
+title: "Miscellaneous"
+sort-order: 13
+folder-path: "miscellaneous/"
+characters:
+    - name: "Mega Man"
+      owned: false
+      id: 1
+      release: 10/2/2018
+      image: "Mega Man.png"
+
+    - name: "Qbby"
+      owned: false
+      id: 2
+      release: 2/2/2017
+      image: "Qbby.png"
+
+    - name: "Chibi-Robo"
+      owned: true
+      id: 3
+      release: 10/9/2015
+      image: "Chibi-Robo.png"
+
+    - name: "Pikmin"
+      owned: false
+      id: 4
+      release: 7/28/2017
+      image: "Pikmin.png"
+
+    - name: "Super Mario Cereal"
+      owned: true
+      id: 5
+      release: 12/11/2017
+      image: "Cereal.png"
+
+    - name: "Detective Pikachu"
+      owned: true
+      id: 6
+      release: 3/23/2018
+      image: "Detective Pikachu.png"
+
+    - name: "Shadow Mewtwo"
+      owned: false
+      id: 7
+      release: 3/18/2016
+      image: "Shadow Mewtwo.png"
+
+    - name: "Solaire of Astora"
+      owned: false
+      id: 8
+      release: 10/19/2018
+      image: "Solaire of Astora.png"
+
+    - name: "Loot Goblin"
+      owned: false
+      id: 9
+      release: 12/21/2018
+      image: "Loot Goblin.png"

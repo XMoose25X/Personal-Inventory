@@ -5,22 +5,25 @@ permalink: /amiibo/
 ---
 <h1>
     <img 
-        src="{% link {{site.data.amiibo.image-path}}amiibo-logo.png %}"
+        src="{% link {{site.data.amiibo['metadata'].base-image-path}}{{site.data.amiibo['metadata'].logo}} %}"
         alt="Amiibo"
     />
 </h1>
 {% assign owned = 0 %}
 {% assign total = 0 %}
 {% assign ratio = 0 %}
-{% for series in site.data.amiibo.series %}
-  {% assign temp = series.characters | where: "owned", "true" | size %}
-  {% assign owned = owned | plus: temp %}
-  {% assign temp = series.characters | size %}
-  {% assign total = total | plus: temp %}
+{% assign amiibo-series = site.data.amiibo | where_exp: "item", "item.title != nil" | sort: 'sort-order' %}
+
+{% for series in amiibo-series %}
+    {% assign temp = series.characters | where: "owned", "true" | size %}
+    {% assign owned = owned | plus: temp %}
+    {% assign temp = series.characters | size %}
+    {% assign total = total | plus: temp %}
 {% endfor %}
-  {% assign total_as_float = total | times: 1.0 %}
-  {% assign ratio = owned | divided_by: total_as_float | times: 100 %}
-  {% assign ratio = owned | divided_by: total_as_float | times: 100 %}
+
+{% assign total_as_float = total | times: 1.0 %}
+{% assign ratio = owned | divided_by: total_as_float | times: 100 %}
+
 <span>Total Owned Amiibo: {{owned}} / {{total}}</span>
 <div class="meter">
 	<span style="width: {{ratio}}%">{{ratio | floor }}%</span>
@@ -35,7 +38,7 @@ permalink: /amiibo/
 <input type="radio" id="unowned-radio" name="content-filter" />
 <label for="unowned-radio">Unowned</label> 
 <div>
-    {% for series in site.data.amiibo.series %}
+    {% for series in amiibo-series %}
     {% assign seriesOwned = series.characters | where: "owned", "true" | size %}
     {% assign seriesTotal = series.characters | size %}
     <div id="{{series.title | slugify: 'pretty'}}-container" class="series-container {% if seriesOwned == seriesTotal %}owned-series{% endif %} {% if seriesOwned == 0 %}unowned-series{% endif %}">
@@ -54,7 +57,7 @@ permalink: /amiibo/
                 </span>
                 <img 
                     style="width: 100px; height: 118px;"
-                    src="{% link {{site.data.amiibo.image-path}}{{series.folder-path}}{{amiibo.image}} %}"
+                    src="{% link {{site.data.amiibo['metadata'].base-image-path}}{{series.folder-path}}{{amiibo.image}} %}"
                     alt="{{amiibo.name}}" loading="lazy"
                 />
                 <span style="font-size: 0.8em; height: 3em; text-align: center">{{amiibo.name}}</span>

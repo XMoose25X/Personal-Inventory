@@ -1,0 +1,117 @@
+title: "Splatoon"
+sort-order: 6
+folder-path: "splatoon/"
+characters:
+    - name: "Inkling Girl"
+      owned: true
+      id: 1
+      release: 5/29/2015
+      image: "Inkling Girl.png"
+
+    - name: "Inkling Boy"
+      owned: true
+      id: 2
+      release: 5/29/2015
+      image: "Inkling Boy.png"
+
+    - name: "Inkling Squid"
+      owned: false
+      id: 3
+      release: 5/29/2015
+      image: "Inkling Squid.png"
+
+    - name: "Inkling Girl (Lime Green)"
+      owned: false
+      id: 4
+      release: 7/8/2016
+      image: "Inkling Girl (Lime Green).png"
+
+    - name: "Inkling Boy (Purple)"
+      owned: false
+      id: 5
+      release: 7/8/2016
+      image: "Inkling Boy (Purple).png"
+
+    - name: "Inkling Squid (Orange)"
+      owned: false
+      id: 6
+      release: 7/8/2016
+      image: "Inkling Squid (Orange).png"
+
+    - name: "Callie"
+      owned: true
+      id: 7
+      release: 7/8/2016
+      image: "Callie.png"
+
+    - name: "Marie"
+      owned: true
+      id: 8
+      release: 7/8/2016
+      image: "Marie.png"
+
+    - name: "Inkling Girl (Neon Pink)"
+      owned: true
+      id: 9
+      release: 7/21/2017
+      image: "Inkling Girl (Neon Pink).png"
+
+    - name: "Inkling Boy (Neon Green)"
+      owned: true
+      id: 10
+      release: 7/21/2017
+      image: "Inkling Boy (Neon Green).png"
+
+    - name: "Inkling Squid (Neon Purple)"
+      owned: false
+      id: 11
+      release: 7/21/2017
+      image: "Inkling Squid (Neon Purple).png"
+
+    - name: "Pearl"
+      owned: false
+      id: 12
+      release: 7/13/2018
+      image: "Pearl.png"
+
+    - name: "Marina"
+      owned: false
+      id: 13
+      release: 7/13/2018
+      image: "Marina.png"
+
+    - name: "Octoling Girl"
+      owned: false
+      id: 14
+      release: 12/7/2018
+      image: "Octoling Girl.png"
+
+    - name: "Octoling Boy"
+      owned: false
+      id: 15
+      release: 12/7/2018
+      image: "Octoling Boy.png"
+
+    - name: "Octoling Octopus"
+      owned: false
+      id: 16
+      release: 12/7/2018
+      image: "Octoling Octopus.png"
+
+    - name: "Inkling Girl (Yellow)"
+      owned: false
+      id: 17
+      release: 12/31/2022
+      image: "Inkling Girl (Yellow).png"
+
+    - name: "Octoling Boy (Blue)"
+      owned: false
+      id: 18
+      release: 12/31/2022
+      image: "Octoling Boy (Blue).png"
+
+    - name: "Smallfry"
+      owned: false
+      id: 19
+      release: 12/31/2022
+      image: "Smallfry.png"

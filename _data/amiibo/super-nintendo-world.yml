@@ -1,0 +1,39 @@
+title: "Super Nintendo World"
+sort-order: 7
+folder-path: "super-nintendo-world/"
+characters:
+    - name: "Mario Power-Up Band"
+      owned: false
+      id: 1
+      release: 2/4/2021
+      image: "Mario Power-Up Band.png"
+
+    - name: "Luigi Power-Up Band"
+      owned: false
+      id: 2
+      release: 2/4/2021
+      image: "Luigi Power-Up Band.png"
+
+    - name: "Peach Power-Up Band"
+      owned: false
+      id: 3
+      release: 2/4/2021
+      image: "Peach Power-Up Band.png"
+
+    - name: "Daisy Power-Up Band"
+      owned: false
+      id: 4
+      release: 2/4/2021
+      image: "Daisy Power-Up Band.png"
+
+    - name: "Toad Power-Up Band"
+      owned: false
+      id: 5
+      release: 2/4/2021
+      image: "Toad Power-Up Band.png"
+
+    - name: "Yoshi Power-Up Band"
+      owned: false
+      id: 6
+      release: 2/4/2021
+      image: "Yoshi Power-Up Band.png"

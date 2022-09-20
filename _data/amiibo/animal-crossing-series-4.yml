@@ -1,0 +1,603 @@
+title: "Animal Crossing Series 4"
+sort-order: 20
+folder-path: "animal-crossing-series-4/"
+characters:
+    - name: "Isabelle"
+      owned: false
+      id: 301
+      release: 6/10/2016
+      image: "Isabelle.png"
+
+    - name: "Brewster"
+      owned: true
+      id: 302
+      release: 6/10/2016
+      image: "Brewster.png"
+
+    - name: "Katrina"
+      owned: false
+      id: 303
+      release: 6/10/2016
+      image: "Katrina.png"
+
+    - name: "Phineas"
+      owned: false
+      id: 304
+      release: 6/10/2016
+      image: "Phineas.png"
+
+    - name: "Celeste"
+      owned: true
+      id: 305
+      release: 6/10/2016
+      image: "Celeste.png"
+
+    - name: "Tommy"
+      owned: true
+      id: 306
+      release: 6/10/2016
+      image: "Tommy.png"
+
+    - name: "Gracie"
+      owned: true
+      id: 307
+      release: 6/10/2016
+      image: "Gracie.png"
+
+    - name: "Leilani"
+      owned: false
+      id: 308
+      release: 6/10/2016
+      image: "Leilani.png"
+
+    - name: "Resetti"
+      owned: true
+      id: 309
+      release: 6/10/2016
+      image: "Resetti.png"
+
+    - name: "Timmy"
+      owned: true
+      id: 310
+      release: 6/10/2016
+      image: "Timmy.png"
+
+    - name: "Lottie"
+      owned: false
+      id: 311
+      release: 6/10/2016
+      image: "Lottie.png"
+
+    - name: "Shrunk"
+      owned: false
+      id: 312
+      release: 6/10/2016
+      image: "Shrunk.png"
+
+    - name: "Pavé"
+      owned: true
+      id: 313
+      release: 6/10/2016
+      image: "Pavé.png"
+
+    - name: "Gulliver"
+      owned: true
+      id: 314
+      release: 6/10/2016
+      image: "Gulliver.png"
+
+    - name: "Redd"
+      owned: false
+      id: 315
+      release: 6/10/2016
+      image: "Redd.png"
+
+    - name: "Zipper"
+      owned: false
+      id: 316
+      release: 6/10/2016
+      image: "Zipper.png"
+
+    - name: "Goldie"
+      owned: false
+      id: 317
+      release: 6/10/2016
+      image: "Goldie.png"
+
+    - name: "Stitches"
+      owned: false
+      id: 318
+      release: 6/10/2016
+      image: "Stitches.png"
+
+    - name: "Pinky"
+      owned: false
+      id: 319
+      release: 6/10/2016
+      image: "Pinky.png"
+
+    - name: "Mott"
+      owned: true
+      id: 320
+      release: 6/10/2016
+      image: "Mott.png"
+
+    - name: "Mallary"
+      owned: false
+      id: 321
+      release: 6/10/2016
+      image: "Mallary.png"
+
+    - name: "Rocco"
+      owned: false
+      id: 322
+      release: 6/10/2016
+      image: "Rocco.png"
+
+    - name: "Katt"
+      owned: false
+      id: 323
+      release: 6/10/2016
+      image: "Katt.png"
+
+    - name: "Graham"
+      owned: true
+      id: 324
+      release: 6/10/2016
+      image: "Graham.png"
+
+    - name: "Peaches"
+      owned: false
+      id: 325
+      release: 6/10/2016
+      image: "Peaches.png"
+
+    - name: "Dizzy"
+      owned: false
+      id: 326
+      release: 6/10/2016
+      image: "Dizzy.png"
+
+    - name: "Penelope"
+      owned: false
+      id: 327
+      release: 6/10/2016
+      image: "Penelope.png"
+
+    - name: "Boone"
+      owned: true
+      id: 328
+      release: 6/10/2016
+      image: "Boone.png"
+
+    - name: "Broffina"
+      owned: false
+      id: 329
+      release: 6/10/2016
+      image: "Broffina.png"
+
+    - name: "Croque"
+      owned: true
+      id: 330
+      release: 6/10/2016
+      image: "Croque.png"
+
+    - name: "Pashmina"
+      owned: true
+      id: 331
+      release: 6/10/2016
+      image: "Pashmina.png"
+
+    - name: "Shep"
+      owned: true
+      id: 332
+      release: 6/10/2016
+      image: "Shep.png"
+
+    - name: "Lolly"
+      owned: false
+      id: 333
+      release: 6/10/2016
+      image: "Lolly.png"
+
+    - name: "Erik"
+      owned: true
+      id: 334
+      release: 6/10/2016
+      image: "Erik.png"
+
+    - name: "Dotty"
+      owned: true
+      id: 335
+      release: 6/10/2016
+      image: "Dotty.png"
+
+    - name: "Pierce"
+      owned: true
+      id: 336
+      release: 6/10/2016
+      image: "Pierce.png"
+
+    - name: "Queenie"
+      owned: false
+      id: 337
+      release: 6/10/2016
+      image: "Queenie.png"
+
+    - name: "Fang"
+      owned: true
+      id: 338
+      release: 6/10/2016
+      image: "Fang.png"
+
+    - name: "Frita"
+      owned: true
+      id: 339
+      release: 6/10/2016
+      image: "Frita.png"
+
+    - name: "Tex"
+      owned: true
+      id: 340
+      release: 6/10/2016
+      image: "Tex.png"
+
+    - name: "Melba"
+      owned: false
+      id: 341
+      release: 6/10/2016
+      image: "Melba.png"
+
+    - name: "Bones"
+      owned: false
+      id: 342
+      release: 6/10/2016
+      image: "Bones.png"
+
+    - name: "Anabelle"
+      owned: true
+      id: 343
+      release: 6/10/2016
+      image: "Anabelle.png"
+
+    - name: "Rudy"
+      owned: true
+      id: 344
+      release: 6/10/2016
+      image: "Rudy.png"
+
+    - name: "Naomi"
+      owned: false
+      id: 345
+      release: 6/10/2016
+      image: "Naomi.png"
+
+    - name: "Peewee"
+      owned: false
+      id: 346
+      release: 6/10/2016
+      image: "Peewee.png"
+
+    - name: "Tammy"
+      owned: false
+      id: 347
+      release: 6/10/2016
+      image: "Tammy.png"
+
+    - name: "Olaf"
+      owned: true
+      id: 348
+      release: 6/10/2016
+      image: "Olaf.png"
+
+    - name: "Lucy"
+      owned: false
+      id: 349
+      release: 6/10/2016
+      image: "Lucy.png"
+
+    - name: "Elmer"
+      owned: false
+      id: 350
+      release: 6/10/2016
+      image: "Elmer.png"
+
+    - name: "Puddles"
+      owned: false
+      id: 351
+      release: 6/10/2016
+      image: "Puddles.png"
+
+    - name: "Rory"
+      owned: true
+      id: 352
+      release: 6/10/2016
+      image: "Rory.png"
+
+    - name: "Elise"
+      owned: false
+      id: 353
+      release: 6/10/2016
+      image: "Elise.png"
+
+    - name: "Walt"
+      owned: false
+      id: 354
+      release: 6/10/2016
+      image: "Walt.png"
+
+    - name: "Mira"
+      owned: false
+      id: 355
+      release: 6/10/2016
+      image: "Mira.png"
+
+    - name: "Pietro"
+      owned: true
+      id: 356
+      release: 6/10/2016
+      image: "Pietro.png"
+
+    - name: "Aurora"
+      owned: false
+      id: 357
+      release: 6/10/2016
+      image: "Aurora.png"
+
+    - name: "Papi"
+      owned: true
+      id: 358
+      release: 6/10/2016
+      image: "Papi.png"
+
+    - name: "Apple"
+      owned: false
+      id: 359
+      release: 6/10/2016
+      image: "Apple.png"
+
+    - name: "Rod"
+      owned: true
+      id: 360
+      release: 6/10/2016
+      image: "Rod.png"
+
+    - name: "Purrl"
+      owned: false
+      id: 361
+      release: 6/10/2016
+      image: "Purrl.png"
+
+    - name: "Static"
+      owned: true
+      id: 362
+      release: 6/10/2016
+      image: "Static.png"
+
+    - name: "Celia"
+      owned: true
+      id: 363
+      release: 6/10/2016
+      image: "Celia.png"
+
+    - name: "Zucker"
+      owned: true
+      id: 364
+      release: 6/10/2016
+      image: "Zucker.png"
+
+    - name: "Peggy"
+      owned: false
+      id: 365
+      release: 6/10/2016
+      image: "Peggy.png"
+
+    - name: "Ribbot"
+      owned: true
+      id: 366
+      release: 6/10/2016
+      image: "Ribbot.png"
+
+    - name: "Annalise"
+      owned: true
+      id: 367
+      release: 6/10/2016
+      image: "Annalise.png"
+
+    - name: "Chow"
+      owned: true
+      id: 368
+      release: 6/10/2016
+      image: "Chow.png"
+
+    - name: "Sylvia"
+      owned: false
+      id: 369
+      release: 6/10/2016
+      image: "Sylvia.png"
+
+    - name: "Jacques"
+      owned: true
+      id: 370
+      release: 6/10/2016
+      image: "Jacques.png"
+
+    - name: "Sally"
+      owned: true
+      id: 371
+      release: 6/10/2016
+      image: "Sally.png"
+
+    - name: "Doc"
+      owned: true
+      id: 372
+      release: 6/10/2016
+      image: "Doc.png"
+
+    - name: "Pompom"
+      owned: false
+      id: 373
+      release: 6/10/2016
+      image: "Pompom.png"
+
+    - name: "Tank"
+      owned: false
+      id: 374
+      release: 6/10/2016
+      image: "Tank.png"
+
+    - name: "Becky"
+      owned: false
+      id: 375
+      release: 6/10/2016
+      image: "Becky.png"
+
+    - name: "Rizzo"
+      owned: true
+      id: 376
+      release: 6/10/2016
+      image: "Rizzo.png"
+
+    - name: "Sydney"
+      owned: false
+      id: 377
+      release: 6/10/2016
+      image: "Sydney.png"
+
+    - name: "Barold"
+      owned: false
+      id: 378
+      release: 6/10/2016
+      image: "Barold.png"
+
+    - name: "Nibbles"
+      owned: false
+      id: 379
+      release: 6/10/2016
+      image: "Nibbles.png"
+
+    - name: "Kevin"
+      owned: true
+      id: 380
+      release: 6/10/2016
+      image: "Kevin.png"
+
+    - name: "Gloria"
+      owned: false
+      id: 381
+      release: 6/10/2016
+      image: "Gloria.png"
+
+    - name: "Lobo"
+      owned: false
+      id: 382
+      release: 6/10/2016
+      image: "Lobo.png"
+
+    - name: "Hippeux"
+      owned: false
+      id: 383
+      release: 6/10/2016
+      image: "Hippeux.png"
+
+    - name: "Margie"
+      owned: true
+      id: 384
+      release: 6/10/2016
+      image: "Margie.png"
+
+    - name: "Lucky"
+      owned: false
+      id: 385
+      release: 6/10/2016
+      image: "Lucky.png"
+
+    - name: "Rosie"
+      owned: false
+      id: 386
+      release: 6/10/2016
+      image: "Rosie.png"
+
+    - name: "Rowan"
+      owned: false
+      id: 387
+      release: 6/10/2016
+      image: "Rowan.png"
+
+    - name: "Maelle"
+      owned: true
+      id: 388
+      release: 6/10/2016
+      image: "Maelle.png"
+
+    - name: "Bruce"
+      owned: false
+      id: 389
+      release: 6/10/2016
+      image: "Bruce.png"
+
+    - name: "O'Hare"
+      owned: true
+      id: 390
+      release: 6/10/2016
+      image: "O'Hare.png"
+
+    - name: "Gayle"
+      owned: true
+      id: 391
+      release: 6/10/2016
+      image: "Gayle.png"
+
+    - name: "Cranston"
+      owned: true
+      id: 392
+      release: 6/10/2016
+      image: "Cranston.png"
+
+    - name: "Frobert"
+      owned: false
+      id: 393
+      release: 6/10/2016
+      image: "Frobert.png"
+
+    - name: "Grizzly"
+      owned: true
+      id: 394
+      release: 6/10/2016
+      image: "Grizzly.png"
+
+    - name: "Cally"
+      owned: true
+      id: 395
+      release: 6/10/2016
+      image: "Cally.png"
+
+    - name: "Simon"
+      owned: true
+      id: 396
+      release: 6/10/2016
+      image: "Simon.png"
+
+    - name: "Iggly"
+      owned: false
+      id: 397
+      release: 6/10/2016
+      image: "Iggly.png"
+
+    - name: "Angus"
+      owned: true
+      id: 398
+      release: 6/10/2016
+      image: "Angus.png"
+
+    - name: "Twiggy"
+      owned: true
+      id: 399
+      release: 6/10/2016
+      image: "Twiggy.png"
+
+    - name: "Robin"
+      owned: false
+      id: 400
+      release: 6/10/2016
+      image: "Robin.png"

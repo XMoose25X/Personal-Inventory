@@ -1,0 +1,99 @@
+title: "Animal Crossing"
+sort-order: 5
+folder-path: "animal-crossing/"
+characters:
+    - name: "Isabelle (Winter Outfit)"
+      owned: true
+      id: 1
+      release: 11/13/2015
+      image: "Isabelle (Winter Outfit).png"
+
+    - name: "Isabelle (Summer Outfit)"
+      owned: true
+      id: 2
+      release: 6/10/2016
+      image: "Isabelle (Summer Outfit).png"
+
+    - name: "K.K. Slider"
+      owned: true
+      id: 3
+      release: 11/13/2015
+      image: "K.K. Slider.png"
+
+    - name: "Tom Nook"
+      owned: true
+      id: 4
+      release: 11/13/2015
+      image: "Tom Nook.png"
+
+    - name: "Digby"
+      owned: true
+      id: 5
+      release: 11/13/2015
+      image: "Digby.png"
+
+    - name: "Cyrus"
+      owned: true
+      id: 6
+      release: 11/13/2015
+      image: "Cyrus.png"
+
+    - name: "Reese"
+      owned: true
+      id: 7
+      release: 11/13/2015
+      image: "Reese.png"
+
+    - name: "Lottie"
+      owned: true
+      id: 8
+      release: 11/22/2015
+      image: "Lottie.png"
+
+    - name: "Mabel"
+      owned: true
+      id: 9
+      release: 11/13/2015
+      image: "Mabel.png"
+
+    - name: "Blathers"
+      owned: true
+      id: 10
+      release: 1/22/2016
+      image: "Blathers.png"
+
+    - name: "Celeste"
+      owned: true
+      id: 11
+      release: 1/22/2016
+      image: "Celeste.png"
+
+    - name: "Kicks"
+      owned: true
+      id: 12
+      release: 1/22/2016
+      image: "Kicks.png"
+
+    - name: "Resetti"
+      owned: true
+      id: 13
+      release: 1/22/2016
+      image: "Resetti.png"
+
+    - name: "Timmy & Tommy"
+      owned: true
+      id: 14
+      release: 3/18/2016
+      image: "Timmy and Tommy.png"
+
+    - name: "Kapp'n"
+      owned: true
+      id: 15
+      release: 3/18/2016
+      image: "Kapp'n.png"
+
+    - name: "Rover"
+      owned: true
+      id: 16
+      release: 3/18/2016
+      image: "Rover.png"

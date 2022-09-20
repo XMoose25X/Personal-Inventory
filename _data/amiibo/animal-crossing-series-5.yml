@@ -1,0 +1,291 @@
+title: "Animal Crossing Series 5"
+sort-order: 21
+folder-path: "animal-crossing-series-5/"
+characters:
+    - name: "Tom Nook"
+      owned: false
+      id: 401
+      release: 11/5/2021
+      image: "Tom Nook.png"
+
+    - name: "Timmy & Tommy"
+      owned: true
+      id: 402
+      release: 11/5/2021
+      image: "Timmy & Tommy.png"
+
+    - name: "Isabelle"
+      owned: false
+      id: 403
+      release: 11/5/2021
+      image: "Isabelle.png"
+
+    - name: "Orville"
+      owned: false
+      id: 404
+      release: 11/5/2021
+      image: "Orville.png"
+
+    - name: "Wilbur"
+      owned: false
+      id: 405
+      release: 11/5/2021
+      image: "Wilbur.png"
+
+    - name: "Blathers"
+      owned: false
+      id: 406
+      release: 11/5/2021
+      image: "Blathers.png"
+
+    - name: "Celeste"
+      owned: false
+      id: 407
+      release: 11/5/2021
+      image: "Celeste.png"
+
+    - name: "Mabel"
+      owned: true
+      id: 408
+      release: 11/5/2021
+      image: "Mabel.png"
+
+    - name: "Sable"
+      owned: false
+      id: 409
+      release: 11/5/2021
+      image: "Sable.png"
+
+    - name: "Label"
+      owned: false
+      id: 410
+      release: 11/5/2021
+      image: "Label.png"
+
+    - name: "K.K."
+      owned: false
+      id: 411
+      release: 11/5/2021
+      image: "K.K..png"
+
+    - name: "C.J."
+      owned: false
+      id: 412
+      release: 11/5/2021
+      image: "C.J..png"
+
+    - name: "Flick"
+      owned: false
+      id: 413
+      release: 11/5/2021
+      image: "Flick.png"
+
+    - name: "Daisy Mae"
+      owned: false
+      id: 414
+      release: 11/5/2021
+      image: "Daisy Mae.png"
+
+    - name: "Kicks"
+      owned: true
+      id: 415
+      release: 11/5/2021
+      image: "Kicks.png"
+
+    - name: "Saharah"
+      owned: true
+      id: 416
+      release: 11/5/2021
+      image: "Saharah.png"
+
+    - name: "Harvey"
+      owned: false
+      id: 417
+      release: 11/5/2021
+      image: "Harvey.png"
+
+    - name: "Gulliver"
+      owned: true
+      id: 418
+      release: 11/5/2021
+      image: "Gulliver.png"
+
+    - name: "Wisp"
+      owned: false
+      id: 419
+      release: 11/5/2021
+      image: "Wisp.png"
+
+    - name: "Lottie"
+      owned: false
+      id: 420
+      release: 11/5/2021
+      image: "Lottie.png"
+
+    - name: "Niko"
+      owned: false
+      id: 421
+      release: 11/5/2021
+      image: "Niko.png"
+
+    - name: "Wardell"
+      owned: true
+      id: 422
+      release: 11/5/2021
+      image: "Wardell.png"
+
+    - name: "Tom Nook"
+      owned: false
+      id: 423
+      release: 11/5/2021
+      image: "Tom Nook (Winter).png"
+
+    - name: "Isabelle"
+      owned: false
+      id: 424
+      release: 11/5/2021
+      image: "Isabelle (Winter).png"
+
+    - name: "Sherb"
+      owned: true
+      id: 425
+      release: 11/5/2021
+      image: "Sherb.png"
+
+    - name: "Megan"
+      owned: true
+      id: 426
+      release: 11/5/2021
+      image: "Megan.png"
+
+    - name: "Dom"
+      owned: true
+      id: 427
+      release: 11/5/2021
+      image: "Dom.png"
+
+    - name: "Audie"
+      owned: true
+      id: 428
+      release: 11/5/2021
+      image: "Audie.png"
+
+    - name: "Cyd"
+      owned: true
+      id: 429
+      release: 11/5/2021
+      image: "Cyd.png"
+
+    - name: "Judy"
+      owned: true
+      id: 430
+      release: 11/5/2021
+      image: "Judy.png"
+
+    - name: "Raymond"
+      owned: true
+      id: 431
+      release: 11/5/2021
+      image: "Raymond.png"
+
+    - name: "Reneigh"
+      owned: false
+      id: 432
+      release: 11/5/2021
+      image: "Reneigh.png"
+
+    - name: "Sasha"
+      owned: false
+      id: 433
+      release: 11/5/2021
+      image: "Sasha.png"
+
+    - name: "Ione"
+      owned: false
+      id: 434
+      release: 11/5/2021
+      image: "Ione.png"
+
+    - name: "Tiansheng"
+      owned: true
+      id: 435
+      release: 11/5/2021
+      image: "Tiansheng.png"
+
+    - name: "Shino"
+      owned: true
+      id: 436
+      release: 11/5/2021
+      image: "Shino.png"
+
+    - name: "Marlo"
+      owned: true
+      id: 437
+      release: 11/5/2021
+      image: "Marlo.png"
+
+    - name: "Petri"
+      owned: true
+      id: 438
+      release: 11/5/2021
+      image: "Petri.png"
+
+    - name: "Cephalobot"
+      owned: true
+      id: 439
+      release: 11/5/2021
+      image: "Cephalobot.png"
+
+    - name: "Quinn"
+      owned: false
+      id: 440
+      release: 11/5/2021
+      image: "Quinn.png"
+
+    - name: "Chabwick"
+      owned: false
+      id: 441
+      release: 11/5/2021
+      image: "Chabwick.png"
+
+    - name: "Zoe"
+      owned: false
+      id: 442
+      release: 11/5/2021
+      image: "Zoe.png"
+
+    - name: "Ace"
+      owned: true
+      id: 443
+      release: 11/5/2021
+      image: "Ace.png"
+
+    - name: "Rio"
+      owned: true
+      id: 444
+      release: 11/5/2021
+      image: "Rio.png"
+
+    - name: "Frett"
+      owned: false
+      id: 445
+      release: 11/5/2021
+      image: "Frett.png"
+
+    - name: "Azalea"
+      owned: true
+      id: 446
+      release: 11/5/2021
+      image: "Azalea.png"
+
+    - name: "Roswell"
+      owned: true
+      id: 447
+      release: 11/5/2021
+      image: "Roswell.png"
+
+    - name: "Faith"
+      owned: true
+      id: 448
+      release: 11/5/2021
+      image: "Faith.png"

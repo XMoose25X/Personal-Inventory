@@ -1,0 +1,27 @@
+title: "Skylanders: SuperChargers"
+sort-order: 14
+folder-path: "skylanders/"
+characters:
+    - name: "Hammer Slam Bowser"
+      owned: false
+      id: 1
+      release: 11/20/2015
+      image: "Hammer Slam Bowser.png"
+
+    - name: "Dark Hammer Slam Bowser"
+      owned: false
+      id: 2
+      release: 11/20/2015
+      image: "Dark Hammer Slam Bowser.png"
+
+    - name: "Turbo Charge Donkey Kong"
+      owned: false
+      id: 3
+      release: 11/20/2015
+      image: "Turbo Charge Donkey Kong.png"
+
+    - name: "Dark Turbo Charge Donkey Kong"
+      owned: false
+      id: 4
+      release: 11/20/2015
+      image: "Dark Turbo Charge Donkey Kong.png"

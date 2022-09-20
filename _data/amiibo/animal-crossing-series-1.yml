@@ -1,0 +1,603 @@
+title: "Animal Crossing Series 1"
+sort-order: 17
+folder-path: "animal-crossing-series-1/"
+characters:
+    - name: "Isabelle"
+      owned: true
+      id: 1
+      release: 9/25/2015
+      image: "Isabelle.png"
+
+    - name: "Tom Nook"
+      owned: true
+      id: 2
+      release: 9/25/2015
+      image: "Tom Nook.png"
+
+    - name: "DJ KK"
+      owned: false
+      id: 3
+      release: 9/25/2015
+      image: "DJ KK.png"
+
+    - name: "Sable"
+      owned: false
+      id: 4
+      release: 9/25/2015
+      image: "Sable.png"
+
+    - name: "Kapp'n"
+      owned: false
+      id: 5
+      release: 9/25/2015
+      image: "Kapp'n.png"
+
+    - name: "Resetti"
+      owned: true
+      id: 6
+      release: 9/25/2015
+      image: "Resetti.png"
+
+    - name: "Joan"
+      owned: false
+      id: 7
+      release: 9/25/2015
+      image: "Joan.png"
+
+    - name: "Timmy"
+      owned: false
+      id: 8
+      release: 9/25/2015
+      image: "Timmy.png"
+
+    - name: "Digby"
+      owned: false
+      id: 9
+      release: 9/25/2015
+      image: "Digby.png"
+
+    - name: "Pascal"
+      owned: false
+      id: 10
+      release: 9/25/2015
+      image: "Pascal.png"
+
+    - name: "Harriet"
+      owned: true
+      id: 11
+      release: 9/25/2015
+      image: "Harriet.png"
+
+    - name: "Redd"
+      owned: false
+      id: 12
+      release: 9/25/2015
+      image: "Redd.png"
+
+    - name: "Saharah"
+      owned: false
+      id: 13
+      release: 9/25/2015
+      image: "Saharah.png"
+
+    - name: "Luna"
+      owned: false
+      id: 14
+      release: 9/25/2015
+      image: "Luna.png"
+
+    - name: "Tortimer"
+      owned: true
+      id: 15
+      release: 9/25/2015
+      image: "Tortimer.png"
+
+    - name: "Lyle"
+      owned: false
+      id: 16
+      release: 9/25/2015
+      image: "Lyle.png"
+
+    - name: "Lottie"
+      owned: true
+      id: 17
+      release: 9/25/2015
+      image: "Lottie.png"
+
+    - name: "Bob"
+      owned: false
+      id: 18
+      release: 9/25/2015
+      image: "Bob.png"
+
+    - name: "Fauna"
+      owned: false
+      id: 19
+      release: 9/25/2015
+      image: "Fauna.png"
+
+    - name: "Curt"
+      owned: false
+      id: 20
+      release: 9/25/2015
+      image: "Curt.png"
+
+    - name: "Portia"
+      owned: true
+      id: 21
+      release: 9/25/2015
+      image: "Portia.png"
+
+    - name: "Leonardo"
+      owned: true
+      id: 22
+      release: 9/25/2015
+      image: "Leonardo.png"
+
+    - name: "Cheri"
+      owned: false
+      id: 23
+      release: 9/25/2015
+      image: "Cheri.png"
+
+    - name: "Kyle"
+      owned: false
+      id: 24
+      release: 9/25/2015
+      image: "Kyle.png"
+
+    - name: "Al"
+      owned: true
+      id: 25
+      release: 9/25/2015
+      image: "Al.png"
+
+    - name: "Renée"
+      owned: true
+      id: 26
+      release: 9/25/2015
+      image: "Renée.png"
+
+    - name: "Lopez"
+      owned: false
+      id: 27
+      release: 9/25/2015
+      image: "Lopez.png"
+
+    - name: "Jambette"
+      owned: true
+      id: 28
+      release: 9/25/2015
+      image: "Jambette.png"
+
+    - name: "Rasher"
+      owned: false
+      id: 29
+      release: 9/25/2015
+      image: "Rasher.png"
+
+    - name: "Tiffany"
+      owned: false
+      id: 30
+      release: 9/25/2015
+      image: "Tiffany.png"
+
+    - name: "Sheldon"
+      owned: true
+      id: 31
+      release: 9/25/2015
+      image: "Sheldon.png"
+
+    - name: "Bluebear"
+      owned: true
+      id: 32
+      release: 9/25/2015
+      image: "Bluebear.png"
+
+    - name: "Bill"
+      owned: false
+      id: 33
+      release: 9/25/2015
+      image: "Bill.png"
+
+    - name: "Kiki"
+      owned: false
+      id: 34
+      release: 9/25/2015
+      image: "Kiki.png"
+
+    - name: "Deli"
+      owned: false
+      id: 35
+      release: 9/25/2015
+      image: "Deli.png"
+
+    - name: "Alli"
+      owned: false
+      id: 36
+      release: 9/25/2015
+      image: "Alli.png"
+
+    - name: "Kabuki"
+      owned: true
+      id: 37
+      release: 9/25/2015
+      image: "Kabuki.png"
+
+    - name: "Patty"
+      owned: true
+      id: 38
+      release: 9/25/2015
+      image: "Patty.png"
+
+    - name: "Jitters"
+      owned: false
+      id: 39
+      release: 9/25/2015
+      image: "Jitters.png"
+
+    - name: "Gigi"
+      owned: true
+      id: 40
+      release: 9/25/2015
+      image: "Gigi.png"
+
+    - name: "Quillson"
+      owned: false
+      id: 41
+      release: 9/25/2015
+      image: "Quillson.png"
+
+    - name: "Marcie"
+      owned: false
+      id: 42
+      release: 9/25/2015
+      image: "Marcie.png"
+
+    - name: "Puck"
+      owned: true
+      id: 43
+      release: 9/25/2015
+      image: "Puck.png"
+
+    - name: "Shari"
+      owned: true
+      id: 44
+      release: 9/25/2015
+      image: "Shari.png"
+
+    - name: "Octavian"
+      owned: false
+      id: 45
+      release: 9/25/2015
+      image: "Octavian.png"
+
+    - name: "Winnie"
+      owned: false
+      id: 46
+      release: 9/25/2015
+      image: "Winnie.png"
+
+    - name: "Knox"
+      owned: false
+      id: 47
+      release: 9/25/2015
+      image: "Knox.png"
+
+    - name: "Sterling"
+      owned: true
+      id: 48
+      release: 9/25/2015
+      image: "Sterling.png"
+
+    - name: "Bonbon"
+      owned: false
+      id: 49
+      release: 9/25/2015
+      image: "Bonbon.png"
+
+    - name: "Punchy"
+      owned: false
+      id: 50
+      release: 9/25/2015
+      image: "Punchy.png"
+
+    - name: "Opal"
+      owned: true
+      id: 51
+      release: 9/25/2015
+      image: "Opal.png"
+
+    - name: "Poppy"
+      owned: false
+      id: 52
+      release: 9/25/2015
+      image: "Poppy.png"
+
+    - name: "Limberg"
+      owned: true
+      id: 53
+      release: 9/25/2015
+      image: "Limberg.png"
+
+    - name: "Deena"
+      owned: false
+      id: 54
+      release: 9/25/2015
+      image: "Deena.png"
+
+    - name: "Snake"
+      owned: false
+      id: 55
+      release: 9/25/2015
+      image: "Snake.png"
+
+    - name: "Bangle"
+      owned: false
+      id: 56
+      release: 9/25/2015
+      image: "Bangle.png"
+
+    - name: "Phil"
+      owned: true
+      id: 57
+      release: 9/25/2015
+      image: "Phil.png"
+
+    - name: "Monique"
+      owned: false
+      id: 58
+      release: 9/25/2015
+      image: "Monique.png"
+
+    - name: "Nate"
+      owned: false
+      id: 59
+      release: 9/25/2015
+      image: "Nate.png"
+
+    - name: "Samson"
+      owned: true
+      id: 60
+      release: 9/25/2015
+      image: "Samson.png"
+
+    - name: "Tutu"
+      owned: true
+      id: 61
+      release: 9/25/2015
+      image: "Tutu.png"
+
+    - name: "T-Bone"
+      owned: true
+      id: 62
+      release: 9/25/2015
+      image: "T-Bone.png"
+
+    - name: "Mint"
+      owned: true
+      id: 63
+      release: 9/25/2015
+      image: "Mint.png"
+
+    - name: "Pudge"
+      owned: false
+      id: 64
+      release: 9/25/2015
+      image: "Pudge.png"
+
+    - name: "Midge"
+      owned: false
+      id: 65
+      release: 9/25/2015
+      image: "Midge.png"
+
+    - name: "Gruff"
+      owned: false
+      id: 66
+      release: 9/25/2015
+      image: "Gruff.png"
+
+    - name: "Flurry"
+      owned: false
+      id: 67
+      release: 9/25/2015
+      image: "Flurry.png"
+
+    - name: "Clyde"
+      owned: true
+      id: 68
+      release: 9/25/2015
+      image: "Clyde.png"
+
+    - name: "Bella"
+      owned: true
+      id: 69
+      release: 9/25/2015
+      image: "Bella.png"
+
+    - name: "Biff"
+      owned: true
+      id: 70
+      release: 9/25/2015
+      image: "Biff.png"
+
+    - name: "Yuka"
+      owned: false
+      id: 71
+      release: 9/25/2015
+      image: "Yuka.png"
+
+    - name: "Lionel"
+      owned: true
+      id: 72
+      release: 9/25/2015
+      image: "Lionel.png"
+
+    - name: "Flo"
+      owned: false
+      id: 73
+      release: 9/25/2015
+      image: "Flo.png"
+
+    - name: "Cobb"
+      owned: true
+      id: 74
+      release: 9/25/2015
+      image: "Cobb.png"
+
+    - name: "Amelia"
+      owned: false
+      id: 75
+      release: 9/25/2015
+      image: "Amelia.png"
+
+    - name: "Jeremiah"
+      owned: false
+      id: 76
+      release: 9/25/2015
+      image: "Jeremiah.png"
+
+    - name: "Cherry"
+      owned: false
+      id: 77
+      release: 9/25/2015
+      image: "Cherry.png"
+
+    - name: "Roscoe"
+      owned: true
+      id: 78
+      release: 9/25/2015
+      image: "Roscoe.png"
+
+    - name: "Truffles"
+      owned: false
+      id: 79
+      release: 9/25/2015
+      image: "Truffles.png"
+
+    - name: "Eugene"
+      owned: false
+      id: 80
+      release: 9/25/2015
+      image: "Eugene.png"
+
+    - name: "Eunice"
+      owned: true
+      id: 81
+      release: 9/25/2015
+      image: "Eunice.png"
+
+    - name: "Goose"
+      owned: false
+      id: 82
+      release: 9/25/2015
+      image: "Goose.png"
+
+    - name: "Annalisa"
+      owned: false
+      id: 83
+      release: 9/25/2015
+      image: "Annalisa.png"
+
+    - name: "Benjamin"
+      owned: false
+      id: 84
+      release: 9/25/2015
+      image: "Benjamin.png"
+
+    - name: "Pancetti"
+      owned: true
+      id: 85
+      release: 9/25/2015
+      image: "Pancetti.png"
+
+    - name: "Chief"
+      owned: false
+      id: 86
+      release: 9/25/2015
+      image: "Chief.png"
+
+    - name: "Bunnie"
+      owned: false
+      id: 87
+      release: 9/25/2015
+      image: "Bunnie.png"
+
+    - name: "Clay"
+      owned: false
+      id: 88
+      release: 9/25/2015
+      image: "Clay.png"
+
+    - name: "Diana"
+      owned: true
+      id: 89
+      release: 9/25/2015
+      image: "Diana.png"
+
+    - name: "Axel"
+      owned: true
+      id: 90
+      release: 9/25/2015
+      image: "Axel.png"
+
+    - name: "Muffy"
+      owned: false
+      id: 91
+      release: 9/25/2015
+      image: "Muffy.png"
+
+    - name: "Henry"
+      owned: true
+      id: 92
+      release: 9/25/2015
+      image: "Henry.png"
+
+    - name: "Bertha"
+      owned: false
+      id: 93
+      release: 9/25/2015
+      image: "Bertha.png"
+
+    - name: "Cyrano"
+      owned: true
+      id: 94
+      release: 9/25/2015
+      image: "Cyrano.png"
+
+    - name: "Peanut"
+      owned: true
+      id: 95
+      release: 9/25/2015
+      image: "Peanut.png"
+
+    - name: "Cole"
+      owned: true
+      id: 96
+      release: 9/25/2015
+      image: "Cole.png"
+
+    - name: "Willow"
+      owned: false
+      id: 97
+      release: 9/25/2015
+      image: "Willow.png"
+
+    - name: "Roald"
+      owned: false
+      id: 98
+      release: 9/25/2015
+      image: "Roald.png"
+
+    - name: "Molly"
+      owned: true
+      id: 99
+      release: 9/25/2015
+      image: "Molly.png"
+
+    - name: "Walker"
+      owned: false
+      id: 100
+      release: 9/25/2015
+      image: "Walker.png"

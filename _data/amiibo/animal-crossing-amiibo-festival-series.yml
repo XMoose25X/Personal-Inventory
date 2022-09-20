@@ -1,0 +1,21 @@
+title: "Animal Crossing Amiibo Festival"
+sort-order: 22
+folder-path: "animal-crossing-amiibo-festival-series/"
+characters:
+    - name: "Goldie"
+      owned: true
+      id: 1
+      release: 11/13/2015
+      image: "Goldie.png"
+
+    - name: "Stitches"
+      owned: true
+      id: 2
+      release: 11/13/2015
+      image: "Stitches.png"
+
+    - name: "Rosie"
+      owned: true
+      id: 3
+      release: 11/13/2015
+      image: "Rosie.png"

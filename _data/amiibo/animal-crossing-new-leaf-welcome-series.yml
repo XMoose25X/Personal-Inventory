@@ -1,0 +1,303 @@
+title: "Animal Crossing Welcome"
+sort-order: 23
+folder-path: "animal-crossing-new-leaf-welcome-series/"
+characters:
+    - name: "Vivian"
+      owned: false
+      id: 1
+      release: 12/2/2016
+      image: "Vivian.png"
+
+    - name: "Hopkins"
+      owned: false
+      id: 2
+      release: 12/2/2016
+      image: "Hopkins.png"
+
+    - name: "June"
+      owned: false
+      id: 3
+      release: 12/2/2016
+      image: "June.png"
+
+    - name: "Piper"
+      owned: false
+      id: 4
+      release: 12/2/2016
+      image: "Piper.png"
+
+    - name: "Paolo"
+      owned: false
+      id: 5
+      release: 12/2/2016
+      image: "Paolo.png"
+
+    - name: "Hornsby"
+      owned: false
+      id: 6
+      release: 12/2/2016
+      image: "Hornsby.png"
+
+    - name: "Stella"
+      owned: false
+      id: 7
+      release: 12/2/2016
+      image: "Stella.png"
+
+    - name: "Tybalt"
+      owned: false
+      id: 8
+      release: 12/2/2016
+      image: "Tybalt.png"
+
+    - name: "Huck"
+      owned: false
+      id: 9
+      release: 12/2/2016
+      image: "Huck.png"
+
+    - name: "Sylvana"
+      owned: false
+      id: 10
+      release: 12/2/2016
+      image: "Sylvana.png"
+
+    - name: "Boris"
+      owned: false
+      id: 11
+      release: 12/2/2016
+      image: "Boris.png"
+
+    - name: "Wade"
+      owned: false
+      id: 12
+      release: 12/2/2016
+      image: "Wade.png"
+
+    - name: "Carrie"
+      owned: false
+      id: 13
+      release: 12/2/2016
+      image: "Carrie.png"
+
+    - name: "Ketchup"
+      owned: false
+      id: 14
+      release: 12/2/2016
+      image: "Ketchup.png"
+
+    - name: "Rex"
+      owned: false
+      id: 15
+      release: 12/2/2016
+      image: "Rex.png"
+
+    - name: "Stu"
+      owned: false
+      id: 16
+      release: 12/2/2016
+      image: "Stu.png"
+
+    - name: "Ursala"
+      owned: false
+      id: 17
+      release: 12/2/2016
+      image: "Ursala.png"
+
+    - name: "Jacob"
+      owned: false
+      id: 18
+      release: 12/2/2016
+      image: "Jacob.png"
+
+    - name: "Maddie"
+      owned: false
+      id: 19
+      release: 12/2/2016
+      image: "Maddie.png"
+
+    - name: "Billy"
+      owned: false
+      id: 20
+      release: 12/2/2016
+      image: "Billy.png"
+
+    - name: "Boyd"
+      owned: false
+      id: 21
+      release: 12/2/2016
+      image: "Boyd.png"
+
+    - name: "Bitty"
+      owned: false
+      id: 22
+      release: 12/2/2016
+      image: "Bitty.png"
+
+    - name: "Maggie"
+      owned: false
+      id: 23
+      release: 12/2/2016
+      image: "Maggie.png"
+
+    - name: "Murphy"
+      owned: false
+      id: 24
+      release: 12/2/2016
+      image: "Murphy.png"
+
+    - name: "Plucky"
+      owned: false
+      id: 25
+      release: 12/2/2016
+      image: "Plucky.png"
+
+    - name: "Sandy"
+      owned: false
+      id: 26
+      release: 12/2/2016
+      image: "Sandy.png"
+
+    - name: "Claude"
+      owned: false
+      id: 27
+      release: 12/2/2016
+      image: "Claude.png"
+
+    - name: "Raddle"
+      owned: false
+      id: 28
+      release: 12/2/2016
+      image: "Raddle.png"
+
+    - name: "Julia"
+      owned: false
+      id: 29
+      release: 12/2/2016
+      image: "Julia.png"
+
+    - name: "Louie"
+      owned: false
+      id: 30
+      release: 12/2/2016
+      image: "Louie.png"
+
+    - name: "Bea"
+      owned: false
+      id: 31
+      release: 12/2/2016
+      image: "Bea.png"
+
+    - name: "Admiral"
+      owned: false
+      id: 32
+      release: 12/2/2016
+      image: "Admiral.png"
+
+    - name: "Ellie"
+      owned: false
+      id: 33
+      release: 12/2/2016
+      image: "Ellie.png"
+
+    - name: "Boots"
+      owned: false
+      id: 34
+      release: 12/2/2016
+      image: "Boots.png"
+
+    - name: "Weber"
+      owned: false
+      id: 35
+      release: 12/2/2016
+      image: "Weber.png"
+
+    - name: "Candi"
+      owned: false
+      id: 36
+      release: 12/2/2016
+      image: "Candi.png"
+
+    - name: "Leopold"
+      owned: false
+      id: 37
+      release: 12/2/2016
+      image: "Leopold.png"
+
+    - name: "Spike"
+      owned: false
+      id: 38
+      release: 12/2/2016
+      image: "Spike.png"
+
+    - name: "Cashmere"
+      owned: false
+      id: 39
+      release: 12/2/2016
+      image: "Cashmere.png"
+
+    - name: "Tad"
+      owned: false
+      id: 40
+      release: 12/2/2016
+      image: "Tad.png"
+
+    - name: "Norma"
+      owned: false
+      id: 41
+      release: 12/2/2016
+      image: "Norma.png"
+
+    - name: "Gonzo"
+      owned: false
+      id: 42
+      release: 12/2/2016
+      image: "Gonzo.png"
+
+    - name: "Sprocket"
+      owned: false
+      id: 43
+      release: 12/2/2016
+      image: "Sprocket.png"
+
+    - name: "Snooty"
+      owned: false
+      id: 44
+      release: 12/2/2016
+      image: "Snooty.png"
+
+    - name: "Olive"
+      owned: false
+      id: 45
+      release: 12/2/2016
+      image: "Olive.png"
+
+    - name: "Dobie"
+      owned: false
+      id: 46
+      release: 12/2/2016
+      image: "Dobie.png"
+
+    - name: "Buzz"
+      owned: false
+      id: 47
+      release: 12/2/2016
+      image: "Buzz.png"
+
+    - name: "Cleo"
+      owned: false
+      id: 48
+      release: 12/2/2016
+      image: "Cleo.png"
+
+    - name: "Ike"
+      owned: false
+      id: 49
+      release: 12/2/2016
+      image: "Ike.png"
+
+    - name: "Tasha"
+      owned: false
+      id: 50
+      release: 12/2/2016
+      image: "Tasha.png"

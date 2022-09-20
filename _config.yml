@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines
 domain: "xmoose25x.github.io"
 baseurl: "/Personal-Inventory/" # the subpath of your site, e.g. /blog
 url: "https://xmoose25x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: xmoose25x
+github_username:  xmoose25x
 
 # Build settings
 theme: minima

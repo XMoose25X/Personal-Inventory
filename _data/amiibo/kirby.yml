@@ -1,0 +1,27 @@
+title: "Kirby"
+sort-order: 10
+folder-path: "kirby/"
+characters:
+    - name: "Kirby"
+      owned: true
+      id: 1
+      release: 6/10/2016
+      image: "Kirby.png"
+
+    - name: "King Dedede"
+      owned: true
+      id: 2
+      release: 6/10/2016
+      image: "King Dedede.png"
+
+    - name: "Meta Knight"
+      owned: true
+      id: 3
+      release: 6/10/2016
+      image: "Meta Knight.png"
+
+    - name: "Waddle Dee"
+      owned: true
+      id: 4
+      release: 6/10/2016
+      image: "Waddle Dee.png"
