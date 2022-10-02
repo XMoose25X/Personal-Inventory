@@ -63,7 +63,7 @@ characters:
       image: "Inkling Boy (Neon Green).png"
 
     - name: "Inkling Squid (Neon Purple)"
-      owned: false
+      owned: true
       id: 11
       release: 7/21/2017
       image: "Inkling Squid (Neon Purple).png"
