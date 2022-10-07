@@ -285,7 +285,7 @@ characters:
       image: "R.O.B..png"
 
     - name: "R.O.B. (Japan)"
-      owned: false
+      owned: true
       id: 48
       release: 3/18/2016
       image: "R.O.B. (Japan).png"
