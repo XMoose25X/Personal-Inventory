@@ -21,7 +21,7 @@ characters:
       image: "Chibi-Robo.png"
 
     - name: "Pikmin"
-      owned: false
+      owned: true
       id: 4
       release: 7/28/2017
       image: "Pikmin.png"
