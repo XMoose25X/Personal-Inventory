@@ -51,7 +51,7 @@ characters:
       image: "Solaire of Astora.png"
 
     - name: "Loot Goblin"
-      owned: false
+      owned: true
       id: 9
       release: 12/21/2018
       image: "Loot Goblin.png"
