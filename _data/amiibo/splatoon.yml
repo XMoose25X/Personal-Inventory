@@ -69,13 +69,13 @@ characters:
       image: "Inkling Squid (Neon Purple).png"
 
     - name: "Pearl"
-      owned: false
+      owned: true
       id: 12
       release: 7/13/2018
       image: "Pearl.png"
 
     - name: "Marina"
-      owned: false
+      owned: true
       id: 13
       release: 7/13/2018
       image: "Marina.png"
