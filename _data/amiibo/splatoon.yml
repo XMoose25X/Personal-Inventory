@@ -101,17 +101,17 @@ characters:
     - name: "Inkling Girl (Yellow)"
       owned: true
       id: 17
-      release: 12/31/2022
+      release: 11/11/2022
       image: "Inkling Girl (Yellow).png"
 
     - name: "Octoling Boy (Blue)"
       owned: true
       id: 18
-      release: 12/31/2022
+      release: 11/11/2022
       image: "Octoling Boy (Blue).png"
 
     - name: "Smallfry"
       owned: true
       id: 19
-      release: 12/31/2022
+      release: 11/11/2022
       image: "Smallfry.png"
