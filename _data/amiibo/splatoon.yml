@@ -99,19 +99,19 @@ characters:
       image: "Octoling Octopus.png"
 
     - name: "Inkling Girl (Yellow)"
-      owned: false
+      owned: true
       id: 17
       release: 12/31/2022
       image: "Inkling Girl (Yellow).png"
 
     - name: "Octoling Boy (Blue)"
-      owned: false
+      owned: true
       id: 18
       release: 12/31/2022
       image: "Octoling Boy (Blue).png"
 
     - name: "Smallfry"
-      owned: false
+      owned: true
       id: 19
       release: 12/31/2022
       image: "Smallfry.png"
