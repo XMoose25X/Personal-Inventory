@@ -181,6 +181,126 @@ games:
     release: 12/3/2020
     genre: [Action]
 
+  - name: "JoJo's Bizarre Adventure: All-Star Battle R"
+    release: 9/2/2022
+    genre: [Fighting]
+
+  - name: "Jump Force - Deluxe Edition"
+    release: 8/28/2020
+    genre: [Action, Fighting]
+
+  - name: "Just Dance 2018"
+    release: 10/26/2017
+    genre: [Party]
+
+  - name: "Just Dance 2020"
+    release: 11/5/2019
+    genre: [Party]
+
+  - name: "Katamari Damacy Reroll"
+    release: 12/7/2018
+    genre: [Puzzle]
+
+  - name: "Killer Queen Black"
+    release: 10/11/2019
+    genre: [Arcade, Action, Platformer, Strategy]
+
+  - name: "Kirby and the Forgotten Land"
+    release: 3/25/2022
+    genre: [Platformer, Action]
+
+  - name: "Kirby Star Allies"
+    release: 3/16/2018
+    genre: [Action, Platformer]
+
+  - name: "Nintendo Labo Toy-Con 01: Variety Kit"
+    release: 4/20/2018
+    genre: [Puzzle]
+
+  - name: "Nintendo Labo Toy-Con 02: Robot Kit"
+    release: 4/20/2018
+    genre: [Puzzle]
+
+  - name: "Nintendo Labo Toy-Con 03: Vehicle Kit"
+    release: 9/14/2018
+    genre: [Puzzle]
+
+  - name: "Nintendo Labo Toy-Con 04: VR Kit"
+    release: 4/12/2019
+    genre: [Puzzle]
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
+  - name: "Placeholder"
+    release: 
+    genre: []
+
   - name: "Placeholder"
     release: 
     genre: []

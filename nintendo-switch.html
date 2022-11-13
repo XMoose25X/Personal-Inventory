@@ -28,6 +28,7 @@ permalink: /switch/
             - Removes "The" if it's the beginning word of a game
             - Removes "Sid Meier's" from Civ 6
             - Replaces '|' in FFX/X-2 with ' ' for proper order
+            - Removes "Nintendo" from Labo entries
         {% endcomment %}
         {% for game in collection.games %}
             {% assign titleInParts = game.name | downcase | split: " " %}
@@ -35,7 +36,7 @@ permalink: /switch/
                 {% assign corrected = game.name | downcase | replace_first: "the", "" | strip %}
                 {% assign game = game | addProp: "title", corrected %}
             {% else %}
-                {% assign corrected = game.name | downcase | replace: '|', ' ' | replace: "sid meier’s", '' | strip %}
+                {% assign corrected = game.name | downcase | replace: '|', ' ' | replace: "sid meier’s", '' | replace: "nintendo", '' | strip %}
                 {% assign game = game | addProp: "title", corrected %}
             {% endif %}
         {% endfor %}
