@@ -1,0 +1,43 @@
+base-image-path: /assets/images/nintendo-switch-games/
+logo: Nintendo Switch Logo.png
+games:
+    - name: "Mario Kart 8 Deluxe"
+      release: 04/28/2017
+      genre: [Racing, Multiplayer]
+
+    - name: "Pikmin 3 Deluxe"
+      release: 10/30/2020
+      genre: [Action, Adventure, Strategy, Multiplayer]
+
+    - name: "Pokémon Legends Arceus"
+      release: 1/28/2022
+      genre: [Action, Role-Playing]
+
+    - name: "Diablo III Eternal Collection"
+      release: 11/2/2018
+      genre: [Action, Adventure, Role-Playing, Party]
+
+    - name: "American Ninja Warrior Challenge"
+      release: 3/19/2019
+      genre: [Sports, Action, Multiplayer]
+
+    - name: "Animal Crossing New Horizons"
+      release: 3/20/2020
+      genre: [Simulation]
+
+    - name: "Arms"
+      release: 6/16/2017
+      genre: [Fighting, Multiplayer, Action]
+
+    - name: "Astral Chain"
+      release: 8/30/2019
+      genre: [Action]
+
+    - name: "Bayonetta 2"
+      release: 12/22/2021
+      genre: [Action]
+    
+    - name: "The Binding of Isaac Afterbirth+"
+      release: 3/17/2017
+      genre: [Action, Adventure]
+      

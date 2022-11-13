@@ -1,0 +1,53 @@
+---
+layout: full
+title: Nintendo Switch Games
+permalink: /switch/
+---
+{% assign collection = site.data.nintendo-switch-games.collection %}
+<h1>
+    <img 
+        src="{% link {{collection.base-image-path}}{{collection.logo}} %}"
+        alt="Nintendo Switch Logo"
+    />
+</h1>
+{% assign owned = collection.games.size %}
+{% assign amiibo-series = site.data.amiibo | where_exp: "item", "item.title != nil" | sort: 'sort-order' %}
+
+{% for series in amiibo-series %}
+    {% assign temp = series.characters | where: "owned", "true" | size %}
+    {% assign temp = series.characters | size %}
+    {% assign total = total | plus: temp %}
+{% endfor %}
+
+<div>Total Owned: {{owned}}</div>
+<div>
+    <div class="collection-container">
+        {% comment %}
+            This whole block of code adds a "title" field to each game that is used for sorting.
+            It strips out the word "The" from the beginning of game titles for a more natural sorting solution.
+        {% endcomment %}
+        {% for game in collection.games %}
+            {% assign titleInParts = game.name | downcase | split: " " %}
+            {% if titleInParts[0] == "the" %}
+                {% assign corrected = game.name | downcase | replace_first: "the", "" | strip %}
+                {% assign game = game | addProp: "title", corrected %}
+            {% else %}
+                {% assign game = game | addProp: "title", game.name | downcase | strip %}
+            {% endif %}
+        {% endfor %}
+        {% assign sortedGames = collection.games | sort_natural: "title" %}
+        {% for game in sortedGames %}
+        <div class="amiibo-container tooltip">
+            <span class="tooltiptext">
+                Released on {{game.release}}
+            </span>
+            <img 
+                style="width: 100px; height: 162px;"
+                src="{% link {{collection.base-image-path}}{{game.name}}.jpg %}"
+                alt="{{game.name}}" loading="lazy"
+            />
+            <span class="amiibo-name">{{game.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
+</div>

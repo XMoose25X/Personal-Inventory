@@ -60,7 +60,7 @@ permalink: /amiibo/
                     src="{% link {{site.data.amiibo['metadata'].base-image-path}}{{series.folder-path}}{{amiibo.image}} %}"
                     alt="{{amiibo.name}}" loading="lazy"
                 />
-                <span style="font-size: 0.8em; height: 3em; text-align: center">{{amiibo.name}}</span>
+                <span class="amiibo-name">{{amiibo.name}}</span>
             </div>
             {% endfor %}
         </div>
