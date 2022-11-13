@@ -24,7 +24,10 @@ permalink: /switch/
     <div class="collection-container">
         {% comment %}
             This whole block of code adds a "title" field to each game that is used for sorting.
-            It strips out the word "The" from the beginning of game titles for a more natural sorting solution.
+            It makes the following adjustments for more natural sorting:
+            - Removes "The" if it's the beginning word of a game
+            - Removes "Sid Meier's" from Civ 6
+            - Replaces '|' in FFX/X-2 with ' ' for proper order
         {% endcomment %}
         {% for game in collection.games %}
             {% assign titleInParts = game.name | downcase | split: " " %}
@@ -32,7 +35,8 @@ permalink: /switch/
                 {% assign corrected = game.name | downcase | replace_first: "the", "" | strip %}
                 {% assign game = game | addProp: "title", corrected %}
             {% else %}
-                {% assign game = game | addProp: "title", game.name | downcase | strip %}
+                {% assign corrected = game.name | downcase | replace: '|', ' ' | replace: "sid meier’s", '' | strip %}
+                {% assign game = game | addProp: "title", corrected %}
             {% endif %}
         {% endfor %}
         {% assign sortedGames = collection.games | sort_natural: "title" %}
@@ -43,7 +47,7 @@ permalink: /switch/
             </span>
             <img 
                 style="width: 100px; height: 162px;"
-                src="{% link {{collection.base-image-path}}{{game.name}}.jpg %}"
+                src="{% link {{collection.base-image-path}}{{game.name | replace: ':', '' | replace: '|', ' '}}.jpg %}"
                 alt="{{game.name}}" loading="lazy"
             />
             <span class="amiibo-name">{{game.name}}</span>

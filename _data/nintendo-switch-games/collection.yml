@@ -1,43 +1,192 @@
 base-image-path: /assets/images/nintendo-switch-games/
 logo: Nintendo Switch Logo.png
 games:
-    - name: "Mario Kart 8 Deluxe"
-      release: 04/28/2017
-      genre: [Racing, Multiplayer]
+  - name: "Mario Kart 8 Deluxe"
+    release: 04/28/2017
+    genre: [Racing, Multiplayer]
 
-    - name: "Pikmin 3 Deluxe"
-      release: 10/30/2020
-      genre: [Action, Adventure, Strategy, Multiplayer]
+  - name: "Pikmin 3 Deluxe"
+    release: 10/30/2020
+    genre: [Action, Adventure, Strategy, Multiplayer]
 
-    - name: "Pokémon Legends Arceus"
-      release: 1/28/2022
-      genre: [Action, Role-Playing]
+  - name: "Pokémon Legends: Arceus"
+    release: 1/28/2022
+    genre: [Action, Role-Playing]
 
-    - name: "Diablo III Eternal Collection"
-      release: 11/2/2018
-      genre: [Action, Adventure, Role-Playing, Party]
+  - name: "American Ninja Warrior: Challenge"
+    release: 3/19/2019
+    genre: [Sports, Action, Multiplayer]
 
-    - name: "American Ninja Warrior Challenge"
-      release: 3/19/2019
-      genre: [Sports, Action, Multiplayer]
+  - name: "Animal Crossing: New Horizons"
+    release: 3/20/2020
+    genre: [Simulation]
 
-    - name: "Animal Crossing New Horizons"
-      release: 3/20/2020
-      genre: [Simulation]
+  - name: "Arms"
+    release: 6/16/2017
+    genre: [Fighting, Multiplayer, Action]
 
-    - name: "Arms"
-      release: 6/16/2017
-      genre: [Fighting, Multiplayer, Action]
+  - name: "Astral Chain"
+    release: 8/30/2019
+    genre: [Action]
 
-    - name: "Astral Chain"
-      release: 8/30/2019
-      genre: [Action]
+  - name: "Bayonetta 2"
+    release: 12/22/2021
+    genre: [Action]
 
-    - name: "Bayonetta 2"
-      release: 12/22/2021
-      genre: [Action]
+  - name: "The Binding of Isaac Afterbirth+"
+    release: 3/17/2017
+    genre: [Action, Adventure]
+
+  - name: "BioShock: The Collection"
+    release: 5/29/2020
+    genre: [First-Person, Action]
+
+  - name: "Borderlands Legendary Collection"
+    release: 5/29/2020
+    genre: [Action, First-Person]
+
+  - name: "Bravely Default II"
+    release: 02/26/2021
+    genre: [Role-Playing]
+
+  - name: "Bug Fables: The Everlasting Sapling"
+    release: 5/28/2020
+    genre: [Role-Playing, Adventure, Puzzle]
+
+  - name: "Burnout Paradise Remastered"
+    release: 6/19/2020
+    genre: [Racing]
+
+  - name: "Captain Toad: Treasure Tracker"
+    release: 07/13/2018
+    genre: [Puzzle, Platformer]
+
+  - name: "Cars 3: Driven to Win"
+    release: 06/13/2017
+    genre: [Racing]
+
+  - name: "Catherine: Full Body"
+    release: 7/7/2020
+    genre: [Action, Puzzle, Multiplayer]
+
+  - name: "Cave Story+"
+    release: 6/20/2017
+    genre: [Platformer, Adventure, Action]
+
+  - name: "Sid Meier’s Civilization VI"
+    release: 11/16/2018
+    genre: [Strategy]
+
+  - name: "Collection of Mana"
+    release: 6/11/2019
+    genre: [Role-Playing, Action, Adventure]
+
+  - name: "Cooking Mama: Cookstar"
+    release: 3/25/2021
+    genre: [Puzzle, Strategy]
+
+  - name: "Crash Bandicoot N. Sane Trilogy"
+    release: 6/29/2018
+    genre: [Action, Platformer]
+
+  - name: "Crash Bandicoot 4: It’s About Time"
+    release: 3/11/2021
+    genre: [Platformer]
+
+  - name: "Crash Team Racing Nitro-Fueled"
+    release: 6/21/2019
+    genre: [Racing, Arcade]
+
+  - name: "Cris Tales"
+    release: 7/20/2021
+    genre: [Role-Playing, Adventure, Action]
+
+  - name: "CrossCode"
+    release: 7/9/2020
+    genre: [Role-Playing, Action]
+
+  - name: "Daemon X Machina"
+    release: 9/13/2019
+    genre: [Action]
+
+  - name: "Diablo III: Eternal Collection"
+    release: 11/2/2018
+    genre: [Action, Adventure, Role-Playing, Party]
+
+  - name: "Disgaea 5 Complete"
+    release: 5/23/2017
+    genre: [Role-Playing]
+
+  - name: "Donkey Kong Country: Tropical Freeze"
+    release: 5/4/2018
+    genre: [Platformer, Action]
+
+  - name: "Dragon Ball FighterZ"
+    release: 9/28/2018
+    genre: [Fighting, Action]
+
+  - name: "Dragon Ball Xenoverse 2"
+    release: 9/22/2017
+    genre: [Fighting, Action]
+
+  - name: "Dragon Ball Z Kakarot + A New Power Awakens Set"
+    release: 9/24/2021
+    genre: [Action, Role-Playing]
+
+  - name: "Dragon Quest Builders 2"
+    release: 7/12/2019
+    genre: [Role-Playing, Action]
+
+  - name: "Final Fantasy X|X-2 HD Remaster"
+    release: 4/16/2019
+    genre: [Role-Playing]
+
+  - name: "Final Fantasy XII The Zodiac Age"
+    release: 4/30/2019
+    genre: [Role-Playing]
+
+  - name: "Fire Emblem: Three Houses"
+    release: 7/26/2019
+    genre: [Role-Playing, Strategy]
+
+  - name: "Fire Emblem Warriors: Three Hopes"
+    release: 6/24/2022
+    genre: [Action, Strategy, Role-Playing, Simulation]
+
+  - name: "Forager"
+    release: 7/30/2019
+    genre: [Adventure, Strategy, Simulation, Puzzle]
+
+  - name: "Hades"
+    release: 9/17/2020
+    genre: [Action, Adventure, Role-Playing]
+
+  - name: "Hasbro Game Night"
+    release: 10/30/2018
+    genre: [Party, Board Game, Multiplayer, Strategy]
+
+  - name: "Hot Wheels Unleashed - Challenge Accepted Edition"
+    release: 9/30/2021
+    genre: [Racing, Arcade]
+
+  - name: "Hyrule Warriors: Age of Calamity"
+    release: 11/20/2020
+    genre: [Action, Adventure, Fighting]
+
+  - name: "Hyrule Warriors: Definitive Edition"
+    release: 5/18/2018
+    genre: [Action, Adventure, Fighting]
+
+  - name: "Immortals Fenyx Rising"
+    release: 12/3/2020
+    genre: [Action]
+
+  - name: "Placeholder"
+    release: 
+    genre: []
     
-    - name: "The Binding of Isaac Afterbirth+"
-      release: 3/17/2017
-      genre: [Action, Adventure]
-      
+
+
+
+
+  
