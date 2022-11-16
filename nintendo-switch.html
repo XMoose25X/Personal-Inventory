@@ -19,7 +19,19 @@ permalink: /switch/
     {% assign total = total | plus: temp %}
 {% endfor %}
 
-<div>Total Owned: {{owned}}</div>
+<div>
+    <span>Total Owned: {{owned}}</span>
+    <div style="display: flex; justify-content: space-between;">
+        <div></div>
+        <input type="text" id="game-search" onkeyup="filterGames()" placeholder="Filter games..."/>
+        <div></div>
+    </div>
+    <div style="display: flex; justify-content: space-between;">
+        <div></div>
+        <span>Displaying <span id="filter-count">{{owned}}</span> results:</span>
+        <div></div>
+    </div>
+</div>
 <div>
     <div class="collection-container">
         {% comment %}
@@ -28,15 +40,36 @@ permalink: /switch/
             - Removes "The" if it's the beginning word of a game
             - Removes "Sid Meier's" from Civ 6
             - Replaces '|' in FFX/X-2 with ' ' for proper order
+            - Removes ':' for proper order
+            - Replaces " + " with " " for Mario Rabbids
+            - Replaces " & " with " " for Mario and Sonic
             - Removes "Nintendo" from Labo entries
         {% endcomment %}
         {% for game in collection.games %}
             {% assign titleInParts = game.name | downcase | split: " " %}
             {% if titleInParts[0] == "the" %}
-                {% assign corrected = game.name | downcase | replace_first: "the", "" | strip %}
+                {% assign corrected = game.name 
+                    | downcase 
+                    | replace_first: "the", "" 
+                    | replace: "elder scrolls v: ", ''
+                    | strip %}
                 {% assign game = game | addProp: "title", corrected %}
             {% else %}
-                {% assign corrected = game.name | downcase | replace: '|', ' ' | replace: "sid meier’s", '' | replace: "nintendo", '' | strip %}
+                {% assign corrected = game.name 
+                    | downcase 
+                    | replace: '|', ' ' 
+                    | replace: ':', '' 
+                    | replace: " & ", '' 
+                    | replace: " + ", ' ' 
+                    | replace: 'new pokémon', 'pokémon'
+                    | replace: 'new super', 'super'
+                    | replace: 'é', 'e'
+                    | replace: "sid meier’s", '' 
+                    | replace: "nintendo labo", "labo" 
+                    | replace: "my friend peppa", 'peppa'
+                    | replace: 'disney', ''
+                    | replace: "placeholder", 'zzzz' 
+                    | strip %}
                 {% assign game = game | addProp: "title", corrected %}
             {% endif %}
         {% endfor %}
@@ -56,3 +89,19 @@ permalink: /switch/
         {% endfor %}
     </div>
 </div>
+<script>
+    const gameContainers = document.getElementsByClassName("amiibo-container");
+    const titleToFilter = Object.fromEntries([...gameContainers].map((el) => el.getElementsByClassName("amiibo-name")[0].innerText).map(name => [name, name.replace('é', 'e').replace(/[^a-z0-9 ]/gi, '').toUpperCase()]));
+    filterGames = () => {
+    var filter = document.getElementById("game-search").value.toUpperCase();
+    var filteredCount = 0;
+    for (var i = 0; i < gameContainers.length; i++) {
+        var gameContainer = gameContainers[i];
+        var gameTitle = gameContainer.getElementsByClassName("amiibo-name")[0].innerText;
+        var found = titleToFilter[gameTitle].indexOf(filter) > -1;
+        gameContainer.style.display = found ? "flex" : "none";
+        filteredCount += (found ? 1 : 0);
+    }
+    document.getElementById('filter-count').innerText = filteredCount;
+}
+</script>

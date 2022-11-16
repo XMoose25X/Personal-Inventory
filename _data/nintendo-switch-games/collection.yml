@@ -1,18 +1,6 @@
 base-image-path: /assets/images/nintendo-switch-games/
 logo: Nintendo Switch Logo.png
 games:
-  - name: "Mario Kart 8 Deluxe"
-    release: 04/28/2017
-    genre: [Racing, Multiplayer]
-
-  - name: "Pikmin 3 Deluxe"
-    release: 10/30/2020
-    genre: [Action, Adventure, Strategy, Multiplayer]
-
-  - name: "Pokémon Legends: Arceus"
-    release: 1/28/2022
-    genre: [Action, Role-Playing]
-
   - name: "American Ninja Warrior: Challenge"
     release: 3/19/2019
     genre: [Sports, Action, Multiplayer]
@@ -229,81 +217,430 @@ games:
     release: 4/12/2019
     genre: [Puzzle]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Layton's Mystery Journey: Katrielle and the Millionaires’ Conspiracy - Deluxe Edition"
+    release: 11/8/2019
+    genre: [Adventure]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "The Legend of Zelda: Breath of the Wild"
+    release: 3/3/2017
+    genre: [Adventure, Action, Role-Playing]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "The Legend of Zelda: Link’s Awakening"
+    release: 9/20/2019
+    genre: [Action, Adventure]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "The Legend of Zelda: Skyward Sword HD"
+    release: 7/16/2021
+    genre: [Adventure, Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego City Undercover"
+    release: 4/4/2017
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego DC Super-Villains"
+    release: 10/16/2018
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego Harry Potter Collection"
+    release: 10/30/2018
+    genre: [Adventure, Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego The Incredibles"
+    release: 6/15/2018
+    genre: [Action, Platformer]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego Jurassic World"
+    release: 9/17/2019
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "The Lego Movie 2 Video Game"
+    release: 2/26/2019
+    genre: [Adventure, Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego Marvel Super Heroes 2"
+    release: 11/14/2017
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "The Lego Ninjago Movie Video Game"
+    release: 9/22/2017
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego Star Wars: The Skywalker Saga Deluxe Edition"
+    release: 4/5/2022
+    genre: [Action]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Lego Worlds"
+    release: 9/5/2017
+    genre: [Adventure, Puzzle]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Live A Live"
+    release: 7/22/2022
+    genre: [Role-Playing]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Luigi’s Mansion 3"
+    release: 10/31/2019
+    genre: [Action, Adventure]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Mario Golf: Super Rush"
+    release: 6/25/2021
+    genre: [Sports, Multiplayer]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Mario Kart 8 Deluxe"
+    release: 04/28/2017
+    genre: [Racing, Multiplayer]
 
-  - name: "Placeholder"
-    release: 
-    genre: []
+  - name: "Mario Party Superstars"
+    release: 10/29/2021
+    genre: [Party, Multiplayer]
+
+  - name: "Mario + Rabbids Kingdom Battle"
+    release: 8/29/2017
+    genre: [Strategy, Adventure]
+
+  - name: "Mario + Rabbids Sparks of Hope Gold Edition"
+    release: 10/20/2022
+    genre: [Adventure, Role-Playing, Strategy]
+
+  - name: "Mario Strikers: Battle League"
+    release: 6/10/2022
+    genre: [Sports]
+
+  - name: "Mario & Sonic at the Olympic Games Tokyo 2020"
+    release: 11/5/2019
+    genre: [Mario & Sonic at the Olympic Games Tokyo 2020]
+
+  - name: "Mega Man Legacy Collection 1 + 2"
+    release: 5/22/2018
+    genre: [Action]
+
+  - name: "Metroid Dread"
+    release: 10/8/2021
+    genre: [Action, Adventure]
+
+  - name: "Minecraft"
+    release: 6/20/2018
+    genre: [Action, Adventure, Strategy, Simulation]
+
+  - name: "Minecraft Dungeons Hero Edition"
+    release: 5/26/2020
+    genre: [Action, Adventure, Role-Playing]
+
+  - name: "Monster Hunter Generations Ultimate"
+    release: 8/28/2018
+    genre: [Action]
+
+  - name: "Monster Jam Steel Titans"
+    release: 11/26/2019
+    genre: [Racing, Sports, Simulation]
+
+  - name: "My Friend Pedro"
+    release: 6/20/2019
+    genre: [Arcade, Action, Adventure, Platformer]
+
+  - name: "My Hero One's Justice"
+    release: 10/26/2018
+    genre: [Fighting]
+
+  - name: "My Hero One's Justice 2"
+    release: 3/13/2020
+    genre: [Fighting]
+
+  - name: "Need for Speed Hot Pursuit Remastered"
+    release: 11/13/2020
+    genre: [Racing]
+
+  - name: "NEO: The World Ends with You"
+    release: 7/27/2021
+    genre: [Action, Role-Playing]
+
+  - name: "Nerf Legends"
+    release: 11/19/2021
+    genre: [First-Person, Action, Adventure]
+
+  - name: "Nickelodeon All-Star Brawl"
+    release: 10/5/2021
+    genre: [Action, Fighting, Multiplayer, Party]
+
+  - name: "Ni no Kuni: Wrath of the White Witch"
+    release: 9/20/2019
+    genre: [Role-Playing, Adventure]
+
+  - name: "Nintendo Switch Sports"
+    release: 4/29/2022
+    genre: [Sports, Multiplayer, Party]
+
+  - name: "Octopath Traveler"
+    release: 7/13/2018
+    genre: [Role-Playing, Adventure]
+
+  - name: "Olympic Games Tokyo 2020 – The Official Video Game"
+    release: 7/21/2021
+    genre: [Sports, Multiplayer, Action]
+
+  - name: "One Piece: Pirate Warriors 4"
+    release: 3/27/2020
+    genre: [Action]
+
+  - name: "Ori: The Collection"
+    release: 2/9/2021
+    genre: [Action, Adventure]
+
+  - name: "Overcooked! All You Can Eat"
+    release: 3/23/2021
+    genre: [Simulation, Multiplayer, Strategy]
+
+  - name: "Paper Mario: The Origami King"
+    release: 7/17/2020
+    genre: [Action, Adventure]
+
+  - name: "Paw Patrol: On a Roll!"
+    release: 10/23/2018
+    genre: [Platformer]
+
+  - name: "Paw Patrol: Mighty Pups Save Adventure Bay"
+    release: 11/6/2020
+    genre: [Action, Platformer]
+
+  - name: "Paw Patrol The Movie: Adventure City Calls"
+    release: 8/13/2021
+    genre: [Platformer, Action]
+
+  - name: "My Friend Peppa Pig"
+    release: 10/22/2021
+    genre: [Adventure, Platformer]
+
+  - name: "Pikmin 3 Deluxe"
+    release: 10/30/2020
+    genre: [Action, Adventure, Strategy, Multiplayer]
+
+  - name: "Pixark"
+    release: 5/31/2019
+    genre: [Adventure, Role-Playing, Multiplayer, Action]
+
+  - name: "Plants vs. Zombies: Battle for Neighborville Complete Edition"
+    release: 3/19/2021
+    genre: [Action, Adventure, Multiplayer]
+
+  - name: "Pokémon Legends: Arceus"
+    release: 1/28/2022
+    genre: [Action, Role-Playing]
+    
+  - name: "Pokémon Brilliant Diamond"
+    release: 11/19/2021
+    genre: [Adventure, Role-Playing]
+
+  - name: "Pokémon: Let’s Go, Pikachu!"
+    release: 11/16/2018
+    genre: [Adventure, Role-Playing, Multiplayer]
+
+  - name: "Pokémon Shining Pearl"
+    release: 11/19/2021
+    genre: [Adventure, Role-Playing]
+
+  - name: "Pokémon Shield"
+    release: 11/15/2019
+    genre: [Adventure, Role-Playing]
+
+  - name: "New Pokémon Snap"
+    release: 4/30/2021
+    genre: [Simulation]
+
+  - name: "Pokémon Sword"
+    release: 11/15/2019
+    genre: [Adventure, Role-Playing]
+
+  - name: "Pokkén Tournament DX"
+    release: 9/22/2017
+    genre: [Fighting, Action]
+
+  - name: "Puyo Puyo Tetris"
+    release: 4/25/2017
+    genre: [Puzzle]
+
+  - name: "Rayman Legends Definitive Edition"
+    release: 9/12/2017
+    genre: [Rayman Legends Definitive Edition]
+
+  - name: "Rune Factory 4 Special"
+    release: 2/25/2020
+    genre: [Rune Factory 4 Special]
+
+  - name: "Ryan's Rescue Squad"
+    release: 3/4/2022
+    genre: [Platformer, Adventure]
+
+  - name: "Race with Ryan"
+    release: 11/1/2019
+    genre: [Racing]
+
+  - name: "Race With Ryan Road Trip Deluxe Edition"
+    release: 10/16/2020
+    genre: [Racing]
+
+  - name: "Saints Row: The Third - The Full Package"
+    release: 5/10/2019
+    genre: [Action]
+
+  - name: "Sakuna: Of Rice and Ruin"
+    release: 11/10/2020
+    genre: [Action, Simulation, Role-Playing, Platformer]
+
+  - name: "Scott Pilgrim vs. The World: The Game – Complete Edition"
+    release: 1/14/2021
+    genre: [Action, Fighting]
+
+  - name: "Scribblenauts Mega Pack"
+    release: 9/18/2018
+    genre: [Adventure, Puzzle]
+
+  - name: "Shantae: Half-Genie Hero – Ultimate Day One Edition"
+    release: 3/18/2018
+    genre: [Shantae and the Seven Sirens]
+
+  - name: "Shantae and the Seven Sirens"
+    release: 5/28/2020
+    genre: [Shantae and the Seven Sirens]
+
+  - name: "Shin Megami Tensei V Steelbook Edition"
+    release: 11/12/2021
+    genre: [Role-Playing, Strategy]
+
+  - name: "Shovel Knight: Treasure Trove"
+    release: 3/3/2017
+    genre: [Action, Adventure, Platformer]
+
+  - name: "Skylanders Imaginators"
+    release: 3/3/2017
+    genre: [Action, Adventure]
+
+  - name: "The Elder Scrolls V: Skyrim"
+    release: 11/17/2017
+    genre: [Role-Playing, Action]
+
+  - name: "Sonic Mania Plus"
+    release: 7/19/2018
+    genre: [Action, Platformer, Arcade, Multiplayer]
+
+  - name: "Splatoon 2"
+    release: 7/21/2017
+    genre: [Action, Multiplayer]
+
+  - name: "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+    release: 6/23/2020
+    genre: [Platformer, Action, Adventure]
+
+  - name: "Spyro Reignited Trilogy"
+    release: 9/3/2019
+    genre: [Platformer, Adventure]
+
+  - name: "Star Wars Pinball"
+    release: 9/13/2019
+    genre: [Simulation, Arcade]
+
+  - name: "Super Bomberman R"
+    release: 3/3/2017
+    genre: [Action, Party, Puzzle, Multiplayer]
+
+  - name: "Super Mario 3D All-Stars"
+    release: 9/18/2020
+    genre: [Action, Platformer, Adventure]
+
+  - name: "Super Mario 3D World + Bowser’s Fury"
+    release: 2/12/2021
+    genre: [Platformer, Action]
+
+  - name: "New Super Mario Bros. U Deluxe"
+    release: 1/11/2019
+    genre: [Platformer, Action]
+
+  - name: "Super Mario Maker 2"
+    release: 6/28/2019
+    genre: [Action, Platformer]
+
+  - name: "Super Mario Odyssey"
+    release: 10/27/2017
+    genre: [Platformer, Action]
+
+  - name: "Super Mario Party"
+    release: 10/5/2018
+    genre: [Party, Multiplayer]
+
+  - name: "Super Monkey Ball: Banana Blitz HD"
+    release: 10/29/2019
+    genre: [Arcade, Action, Platformer, Party]
+
+  - name: "Super Smash Bros. Ultimate"
+    release: 12/7/2018
+    genre: [Super Smash Bros. Ultimate]
+
+  - name: "Sushi Striker: The Way of Sushido"
+    release: 6/8/2018
+    genre: [Puzzle, Action]
+
+  - name: "Taiko no Tatsujin Drum 'n' Fun!"
+    release: 11/2/2018
+    genre: [Music, Party]
+
+  - name: "Taiko no Tatsujin: Rhythm Festival"
+    release: 9/23/2022
+    genre: [Music]
+
+  - name: "Terraria"
+    release: 6/27/2019
+    genre: [Action, Role-Playing, Multiplayer]
+
+  - name: "Trials of Mana"
+    release: 4/24/2020
+    genre: [Role-Playing, Action]
+
+  - name: "Triangle Strategy"
+    release: 3/4/2022
+    genre: [Role-Playing, Strategy, Adventure]
+
+  - name: "Trine: Ultimate Collection"
+    release: 10/8/2019
+    genre: [Adventure, Platformer, Puzzle, Action]
+
+  - name: "Disney Tsum Tsum Festival"
+    release: 11/8/2019
+    genre: [Party, Puzzle]
+
+  - name: "Ugly Dolls: An Imperfect Adventure"
+    release: 4/26/2019
+    genre: [Adventure, Action]
+
+  - name: "Undertale"
+    release: 9/18/2018
+    genre: [Role-Playing]
+
+  - name: "Wargroove Deluxe Edition"
+    release: 2/1/2019
+    genre: [Strategy, Multiplayer]
+
+  - name: "WarioWare: Get It Together!"
+    release: 9/10/2021
+    genre: [Action, Party]
+
+  - name: "The Witcher 3: Wild Hunt — Complete Edition"
+    release: 10/15/2019
+    genre: [Role-Playing]
+
+  - name: "Xenoblade Chronicles 2"
+    release: 12/1/2017
+    genre: [Role-Playing]
+
+  - name: "Xenoblade Chronicles 3"
+    release: 7/29/2022
+    genre: [Role-Playing]
+
+  - name: "Yooka-Laylee and the Impossible Lair"
+    release: 10/8/2019
+    genre: [Platformer, Action, Adventure]
+
+  - name: "Yoshi’s Crafted World"
+    release: 3/29/2019
+    genre: [Action, Platformer]
+
     
 
 
