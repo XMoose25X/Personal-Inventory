@@ -307,7 +307,7 @@ games:
 
   - name: "Mario & Sonic at the Olympic Games Tokyo 2020"
     release: 11/5/2019
-    genre: [Mario & Sonic at the Olympic Games Tokyo 2020]
+    genre: [Sports, Party, Multiplayer, Action]
 
   - name: "Mega Man Legacy Collection 1 + 2"
     release: 5/22/2018
@@ -409,6 +409,10 @@ games:
     release: 10/22/2021
     genre: [Adventure, Platformer]
 
+  - name: "Persona 5 Royal"
+    release: 10/21/2022
+    genre: [Role-Playing]
+
   - name: "Pikmin 3 Deluxe"
     release: 10/30/2020
     genre: [Action, Adventure, Strategy, Multiplayer]
@@ -433,6 +437,10 @@ games:
     release: 11/16/2018
     genre: [Adventure, Role-Playing, Multiplayer]
 
+  - name: "Pokémon Scarlet"
+    release: 11/18/2022
+    genre: [Adventure, Role-Playing]
+
   - name: "Pokémon Shining Pearl"
     release: 11/19/2021
     genre: [Adventure, Role-Playing]
@@ -449,6 +457,10 @@ games:
     release: 11/15/2019
     genre: [Adventure, Role-Playing]
 
+  - name: "Pokémon Violet"
+    release: 11/18/2022
+    genre: [Adventure, Role-Playing]
+
   - name: "Pokkén Tournament DX"
     release: 9/22/2017
     genre: [Fighting, Action]
@@ -457,13 +469,17 @@ games:
     release: 4/25/2017
     genre: [Puzzle]
 
+  - name: "Rabbids: Party of Legends"
+    release: 6/30/2022
+    genre: [Adventure, Strategy]
+
   - name: "Rayman Legends Definitive Edition"
     release: 9/12/2017
-    genre: [Rayman Legends Definitive Edition]
+    genre: [Platformer, Action, Adventure]
 
   - name: "Rune Factory 4 Special"
     release: 2/25/2020
-    genre: [Rune Factory 4 Special]
+    genre: [Role-Playing, Simulation, Action]
 
   - name: "Ryan's Rescue Squad"
     release: 3/4/2022
@@ -495,11 +511,11 @@ games:
 
   - name: "Shantae: Half-Genie Hero – Ultimate Day One Edition"
     release: 3/18/2018
-    genre: [Shantae and the Seven Sirens]
+    genre: [Platformer, Action, Adventure]
 
   - name: "Shantae and the Seven Sirens"
     release: 5/28/2020
-    genre: [Shantae and the Seven Sirens]
+    genre: [Adventure, Platformer]
 
   - name: "Shin Megami Tensei V Steelbook Edition"
     release: 11/12/2021
@@ -516,6 +532,10 @@ games:
   - name: "The Elder Scrolls V: Skyrim"
     release: 11/17/2017
     genre: [Role-Playing, Action]
+
+  - name: "Slime Rancher: Plortable Edition"
+    release: 8/11/2021
+    genre: [Adventure, First-Person, Simulation]
 
   - name: "Sonic Mania Plus"
     release: 7/19/2018
@@ -571,7 +591,7 @@ games:
 
   - name: "Super Smash Bros. Ultimate"
     release: 12/7/2018
-    genre: [Super Smash Bros. Ultimate]
+    genre: [Action, Fighting, Multiplayer]
 
   - name: "Sushi Striker: The Way of Sushido"
     release: 6/8/2018

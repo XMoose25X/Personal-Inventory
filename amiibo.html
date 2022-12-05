@@ -52,7 +52,7 @@ permalink: /amiibo/
             {% assign sortedAmiibo = series.characters | sort: "id" %}
             {% for amiibo in sortedAmiibo %}
             <div class="amiibo-container tooltip {% if amiibo.owned %}owned-amiibo{% endif %}">
-                <span class="tooltiptext">
+                <span class="tooltiptext-below">
                     Released on {{amiibo.release}}
                 </span>
                 <img 

@@ -8,7 +8,7 @@
   position: relative;
 }
 
-.tooltip .tooltiptext {
+.tooltip .tooltiptext-below {
   visibility: hidden;
   width: 100px;
   background-color: #555;
@@ -28,20 +28,54 @@
   transition: opacity 1s;
 }
 
-.tooltip:hover .tooltiptext {
+.tooltip .tooltiptext-above {
+  visibility: hidden;
+  width: 100px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -50px;
+  text-shadow: none;
+
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext-below,
+.tooltip:hover .tooltiptext-above {
   visibility: visible;
   opacity: 1;
 }
 
-.tooltiptext::after {
+.tooltiptext-below::after,
+.tooltiptext-above:before {
   content: "";
   position: absolute;
-  bottom: 100%;
   left: 50%;
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: transparent transparent #555 transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+}
+
+.tooltiptext-below::after {
+  bottom: 100%;
+  border-top-color: transparent;
+  border-bottom-color: #555;
+}
+
+.tooltiptext-above:before {
+  top: 100%;
+  border-bottom-color: transparent;
+  border-top-color: #555;
 }
 
 h1 {
@@ -76,8 +110,6 @@ h1 > img {
   float: right;
 }
 
-
-
 .amiibo-container {
   display: flex;
   flex-direction: column;
@@ -88,7 +120,6 @@ h1 > img {
   cursor: pointer;
   border: thin solid transparent;
 }
-
 
 // Unowned should hide count (and show remainder), completed series, and owned amiibos
 #unowned-radio:checked ~ div .series-count,
@@ -178,6 +209,12 @@ summary {
   text-align: center;
 }
 
-input[type="text"] {
+input[type="text"],
+select {
   font-size: 16px;
+}
+
+.flex-evenly {
+  display: flex;
+  justify-content: space-between;
 }

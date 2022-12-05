@@ -11,22 +11,29 @@ permalink: /switch/
     />
 </h1>
 {% assign owned = collection.games.size %}
-{% assign amiibo-series = site.data.amiibo | where_exp: "item", "item.title != nil" | sort: 'sort-order' %}
-
-{% for series in amiibo-series %}
-    {% assign temp = series.characters | where: "owned", "true" | size %}
-    {% assign temp = series.characters | size %}
-    {% assign total = total | plus: temp %}
+{% assign allGenres = site.emptyArray %}
+{% assign genreLists = collection.games | map: "genre" %}
+{% for genreList in genreLists %}
+    {% assign allGenres = allGenres | concat: genreList %}
 {% endfor %}
+{% assign allGenres = allGenres | uniq | sort %}
 
 <div>
     <span>Total Owned: {{owned}}</span>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="flex-evenly">
         <div></div>
-        <input type="text" id="game-search" onkeyup="filterGames()" placeholder="Filter games..."/>
+        <div>        
+            <input type="text" id="game-search" onkeyup="filterGames()" placeholder="Filter games..."/>
+            <select id="genre-select" onchange="filterGames()">
+                <option value="default">--Filter by genre--</option>
+                {% for genre in allGenres %}
+                    <option value="{{genre}}">{{genre}}</option>
+                {% endfor %}
+              </select>
+        </div>
         <div></div>
     </div>
-    <div style="display: flex; justify-content: space-between;">
+    <div class="flex-evenly">
         <div></div>
         <span>Displaying <span id="filter-count">{{owned}}</span> results:</span>
         <div></div>
@@ -76,7 +83,10 @@ permalink: /switch/
         {% assign sortedGames = collection.games | sort_natural: "title" %}
         {% for game in sortedGames %}
         <div class="amiibo-container tooltip">
-            <span class="tooltiptext">
+            <span class="tooltiptext-above game-genres">
+                {{ game.genre | sort | join: ', ' | trim }}
+            </span>
+            <span class="tooltiptext-below">
                 Released on {{game.release}}
             </span>
             <img 
@@ -91,17 +101,23 @@ permalink: /switch/
 </div>
 <script>
     const gameContainers = document.getElementsByClassName("amiibo-container");
-    const titleToFilter = Object.fromEntries([...gameContainers].map((el) => el.getElementsByClassName("amiibo-name")[0].innerText).map(name => [name, name.replace('é', 'e').replace(/[^a-z0-9 ]/gi, '').toUpperCase()]));
+    const titleToFilter = Object.fromEntries([...gameContainers].map((el) => el.getElementsByClassName("amiibo-name")[0].innerHTML).map(name => [name, name.replace('é', 'e').replace(/[^a-z0-9 ]/gi, '').toUpperCase()]));
     filterGames = () => {
-    var filter = document.getElementById("game-search").value.toUpperCase();
-    var filteredCount = 0;
-    for (var i = 0; i < gameContainers.length; i++) {
-        var gameContainer = gameContainers[i];
-        var gameTitle = gameContainer.getElementsByClassName("amiibo-name")[0].innerText;
-        var found = titleToFilter[gameTitle].indexOf(filter) > -1;
-        gameContainer.style.display = found ? "flex" : "none";
-        filteredCount += (found ? 1 : 0);
+        var titlefilter = document.getElementById("game-search").value.toUpperCase();
+        var genreFilter = document.getElementById("genre-select").value.toUpperCase();
+        var filteredCount = 0;
+        for (var i = 0; i < gameContainers.length; i++) {
+            var gameContainer = gameContainers[i];
+            var gameTitle = gameContainer.getElementsByClassName("amiibo-name")[0].innerHTML;
+            var genreList = gameContainer.getElementsByClassName("game-genres")[0].innerHTML.split(',').map((item) => item.toUpperCase().trim());
+            var inGenre = true;
+            if (genreFilter !== 'DEFAULT') {
+                inGenre = genreList.includes(genreFilter);
+            }
+            var found = inGenre && (titleToFilter[gameTitle].indexOf(titlefilter) > -1);
+            gameContainer.style.display = found ? "flex" : "none";
+            filteredCount += (found ? 1 : 0);
+        }
+        document.getElementById('filter-count').innerHTML = filteredCount;
     }
-    document.getElementById('filter-count').innerText = filteredCount;
-}
 </script>
