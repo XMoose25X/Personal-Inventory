@@ -15,7 +15,7 @@ characters:
       image: "Inkling Boy.png"
 
     - name: "Inkling Squid"
-      owned: false
+      owned: true
       id: 3
       release: 5/29/2015
       image: "Inkling Squid.png"
