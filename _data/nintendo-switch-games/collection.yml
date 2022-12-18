@@ -93,6 +93,10 @@ games:
     release: 7/9/2020
     genre: [Role-Playing, Action]
 
+  - name: "Cuphead"
+    release: 4/18/2019
+    genre: [Action, Arcade, Platformer]
+
   - name: "Daemon X Machina"
     release: 9/13/2019
     genre: [Action]
