@@ -89,6 +89,10 @@ games:
     release: 7/20/2021
     genre: [Role-Playing, Adventure, Action]
 
+  - name: "Crisis Core - Final Fantasy VII - Reunion"
+    release: 12/13/2022
+    genre: [Role-Playing]
+
   - name: "CrossCode"
     release: 7/9/2020
     genre: [Role-Playing, Action]
@@ -481,6 +485,10 @@ games:
     release: 9/12/2017
     genre: [Platformer, Action, Adventure]
 
+  - name: "Ring Fit Adventure"
+    release: 10/18/2019
+    genre: [Health & Fitness, Lifestyle]
+
   - name: "Rune Factory 4 Special"
     release: 2/25/2020
     genre: [Role-Playing, Simulation, Action]
@@ -540,6 +548,10 @@ games:
   - name: "Slime Rancher: Plortable Edition"
     release: 8/11/2021
     genre: [Adventure, First-Person, Simulation]
+
+  - name: "Sonic Frontiers"
+    release: 11/8/2022
+    genre: [Action]
 
   - name: "Sonic Mania Plus"
     release: 7/19/2018
