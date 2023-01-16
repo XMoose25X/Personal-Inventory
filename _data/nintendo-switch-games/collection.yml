@@ -21,6 +21,10 @@ games:
     release: 12/22/2021
     genre: [Action]
 
+  - name: "Bayonetta 3"
+    release: 10/28/2022
+    genre: [Action]
+
   - name: "The Binding of Isaac Afterbirth+"
     release: 3/17/2017
     genre: [Action, Adventure]
@@ -64,6 +68,10 @@ games:
   - name: "Sid Meier’s Civilization VI"
     release: 11/16/2018
     genre: [Strategy]
+
+  - name: "Cobra Kai: The Karate Kid Saga Continues"
+    release: 10/27/2020
+    genre: [Action, Arcade, Fighting, Adventure]
 
   - name: "Collection of Mana"
     release: 6/11/2019
@@ -177,6 +185,10 @@ games:
     release: 12/3/2020
     genre: [Action]
 
+  - name: "The Jackbox Party Pack 7"
+    release: 10/15/2020
+    genre: [Party]
+
   - name: "JoJo's Bizarre Adventure: All-Star Battle R"
     release: 9/2/2022
     genre: [Fighting]
@@ -240,6 +252,10 @@ games:
   - name: "The Legend of Zelda: Skyward Sword HD"
     release: 7/16/2021
     genre: [Adventure, Action]
+
+  - name: "Lego Brawls"
+    release: 9/2/2022
+    genre: [Fighting, Action, Arcade, Platformer]
 
   - name: "Lego City Undercover"
     release: 4/4/2017
@@ -316,6 +332,10 @@ games:
   - name: "Mario & Sonic at the Olympic Games Tokyo 2020"
     release: 11/5/2019
     genre: [Sports, Party, Multiplayer, Action]
+
+  - name: "Marvel Ultimate Alliance 3: The Black Order"
+    release: 7/19/2019
+    genre: [Action, Role-Playing]
 
   - name: "Mega Man Legacy Collection 1 + 2"
     release: 5/22/2018
@@ -445,6 +465,10 @@ games:
     release: 11/16/2018
     genre: [Adventure, Role-Playing, Multiplayer]
 
+  - name: "Pokémon Mystery Dungeon: Rescue Team DX"
+    release: 3/6/2020
+    genre: [Role-Playing, Adventure]
+
   - name: "Pokémon Scarlet"
     release: 11/18/2022
     genre: [Adventure, Role-Playing]
@@ -559,6 +583,10 @@ games:
 
   - name: "Splatoon 2"
     release: 7/21/2017
+    genre: [Action, Multiplayer]
+
+  - name: "Splatoon 3"
+    release: 9/9/2022
     genre: [Action, Multiplayer]
 
   - name: "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
