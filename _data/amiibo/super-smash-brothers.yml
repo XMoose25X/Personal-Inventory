@@ -549,31 +549,31 @@ characters:
       image: "Alex.png"
 
     - name: "Sephiroth"
-      owned: false
+      owned: true
       id: 91
-      release: 12/31/2022
+      release: 01/13/2023
       image: "Sephiroth.png"
+
+    - name: "Kazuya"
+      owned: true
+      id: 92
+      release: 01/13/2023
+      image: "Kazuya.png"
 
     - name: "Pyra"
       owned: false
-      id: 92
-      release: 12/31/2022
+      id: 93
+      release: 12/31/2023
       image: "Pyra.png"
 
     - name: "Mythra"
       owned: false
-      id: 93
-      release: 12/31/2022
-      image: "Mythra.png"
-
-    - name: "Kazuya"
-      owned: false
       id: 94
-      release: 12/31/2022
-      image: "Kazuya.png"
+      release: 12/31/2023
+      image: "Mythra.png"
 
     - name: "Sora"
       owned: false
       id: 95
-      release: 12/31/2022
+      release: 12/31/2023
       image: "Sora.png"

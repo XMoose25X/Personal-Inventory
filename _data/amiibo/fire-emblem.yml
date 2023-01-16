@@ -15,7 +15,7 @@ characters:
       image: "Celica.png"
 
     - name: "Chrom"
-      owned: false
+      owned: true
       id: 3
       release: 10/20/2017
       image: "Chrom.png"
