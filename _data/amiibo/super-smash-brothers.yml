@@ -429,7 +429,7 @@ characters:
       image: "Corrin.png"
 
     - name: "Corrin (Player 2)"
-      owned: false
+      owned: true
       id: 72
       release: 7/21/2017
       image: "Corrin (Player 2).png"
