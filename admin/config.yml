@@ -1,26 +1,13 @@
 backend:
     name: git-gateway
     branch: main
-media_folder: "/assets/images/uploads"
-public_folder: "/assets/images/uploads"
-# collections:
-#     - name: "amiibo" # Used in routes, e.g., /admin/collections/blog
-#       label: "Amiibo" # Used in the UI
-#       folder: "_posts/blog" # The path to the folder where the documents are stored
-#       create: true # Allow users to create new documents in this collection
-#       slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-#       fields: # The fields for each document, usually in front matter
-#         - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-#         - {label: "Title", name: "title", widget: "string"}
-#         - {label: "Publish Date", name: "date", widget: "datetime"}
-#         - {label: "Featured Image", name: "thumbnail", widget: "image"}
-#         - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-#         - {label: "Body", name: "body", widget: "markdown"}
+media_folder: "/assets/images/"
+public_folder: "/assets/images/"
 collections:
-    - label: "Collectibles"
+    - label: "Nintendo Switch Games"
       name: "collectibles"
       files:
-      - label: "Nintendo Switch Games"
+      - label: "Game Collection"
         name: "switch"
         file: "/_data/nintendo-switch-games/collection.yml"
         fields:
@@ -34,3 +21,366 @@ collections:
               - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
               - {label: Genres, name: genre, widget: select, multiple: true, min: 1, options: ["Action", "Adventure", "Arcade", "Board Game", "Education", "Fighting", "First-Person", "Indie", "Lifestyle", "Multiplayer", "Music", "Other", "Party", "Platformer", "Practical", "Puzzle", "Racing", "Role-Playing", "Shooter", "Simulation", "Sports", "Strategy", "Study", "Training", "Utility", "Video"]}
               - {label: Boxart, name: boxart, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/nintendo-switch-games'}
+    - label: "Amiibo"
+      name: "amiibo"
+      files:      
+      - label: "Super Smash Brothers"
+        name: "super-smash-brothers"
+        file: "/_data/amiibo/super-smash-brothers.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-smash-brothers/'}
+      - label: "Super Mario"
+        name: "super-mario"
+        file: "/_data/amiibo/super-mario.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-mario/'}
+      - label: "Mario 35th Anniversary"
+        name: "mario-anniversary"
+        file: "/_data/amiibo/mario-anniversary.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/mario-anniversary/'}
+      - label: "Legend of Zelda"
+        name: "zelda"
+        file: "/_data/amiibo/zelda.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/zelda/'}
+      - label: "Animal Crossing"
+        name: "animal-crossing"
+        file: "/_data/amiibo/animal-crossing.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing/'}
+      - label: "Splatoon"
+        name: "splatoon"
+        file: "/_data/amiibo/splatoon.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/splatoon/'}
+      - label: "Super Nintendo World"
+        name: "super-nintendo-world"
+        file: "/_data/amiibo/super-nintendo-world.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-nintendo-world/'}
+      - label: "Metroid"
+        name: "metroid"
+        file: "/_data/amiibo/metroid.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/metroid/'}
+      - label: "Fire Emblem"
+        name: "fire-emblem"
+        file: "/_data/amiibo/fire-emblem.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/fire-emblem/'}
+      - label: "Kirby"
+        name: "kirby"
+        file: "/_data/amiibo/kirby.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/kirby/'}
+      - label: "Yoshi's Wooly World"
+        name: "yoshi-wooly-world"
+        file: "/_data/amiibo/yoshi-wooly-world.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/yoshi-wooly-world/'}
+      - label: "Monster Hunter"
+        name: "monster-hunter"
+        file: "/_data/amiibo/monster-hunter.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/monster-hunter/'}
+      - label: "Miscellaneous"
+        name: "miscellaneous"
+        file: "/_data/amiibo/miscellaneous.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/miscellaneous/'}
+      - label: "Skylanders: SuperChargers"
+        name: "skylanders"
+        file: "/_data/amiibo/skylanders.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/skylanders/'}
+      - label: "Shovel Knight"
+        name: "shovel-knight"
+        file: "/_data/amiibo/shovel-knight.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/shovel-knight/'}
+      - label: "Mario Sports Superstars"
+        name: "mario-sports-superstars"
+        file: "/_data/amiibo/mario-sports-superstars.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/mario-sports-superstars/'}
+      - label: "Animal Crossing Series 1"
+        name: "animal-crossing-series-1"
+        file: "/_data/amiibo/animal-crossing-series-1.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-1/'}
+      - label: "Animal Crossing Series 2"
+        name: "animal-crossing-series-2"
+        file: "/_data/amiibo/animal-crossing-series-2.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-2/'}
+      - label: "Animal Crossing Series 3"
+        name: "animal-crossing-series-3"
+        file: "/_data/amiibo/animal-crossing-series-3.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-3/'}
+      - label: "Animal Crossing Series 4"
+        name: "animal-crossing-series-4"
+        file: "/_data/amiibo/animal-crossing-series-4.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-4/'}
+      - label: "Animal Crossing Series 5"
+        name: "animal-crossing-series-5"
+        file: "/_data/amiibo/animal-crossing-series-5.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-5/'}
+      - label: "Animal Crossing Amiibo Festival"
+        name: "animal-crossing-amiibo-festival-series"
+        file: "/_data/amiibo/animal-crossing-amiibo-festival-series.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-amiibo-festival-series/'}
+      - label: "Animal Crossing New Leaf Welcome Series"
+        name: "animal-crossing-new-leaf-welcome-series"
+        file: "/_data/amiibo/animal-crossing-new-leaf-welcome-series.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/'}
+      - label: "Animal Crossing Sanrio"
+        name: "animal-crossing-sanrio-series"
+        file: "/_data/amiibo/animal-crossing-sanrio-series.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Sort Order, name: sort-order, widget: number, value_type: "int", min: 1, step: 1}
+          - label: Characters
+            name: characters
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Owned, name: owned, widget: boolean}
+              - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-sanrio-series/'}

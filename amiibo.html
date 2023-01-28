@@ -5,7 +5,7 @@ permalink: /amiibo/
 ---
 <h1>
     <img 
-        src="{% link {{site.data.amiibo['metadata'].base-image-path}}{{site.data.amiibo['metadata'].logo}} %}"
+        src="{% link /assets/images/amiibo/amiibo-logo.png %}"
         alt="Amiibo"
     />
 </h1>
@@ -57,7 +57,7 @@ permalink: /amiibo/
                 </span>
                 <img 
                     style="width: 100px; height: 118px;"
-                    src="{% link {{site.data.amiibo['metadata'].base-image-path}}{{series.folder-path}}{{amiibo.image}} %}"
+                    src="{% link {{amiibo.image}} %}"
                     alt="{{amiibo.name}}" loading="lazy"
                 />
                 <span class="amiibo-name">{{amiibo.name}}</span>

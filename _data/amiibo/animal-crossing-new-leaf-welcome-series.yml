@@ -1,303 +1,302 @@
 title: "Animal Crossing Welcome"
 sort-order: 23
-folder-path: "animal-crossing-new-leaf-welcome-series/"
 characters:
     - name: "Vivian"
       owned: false
       id: 1
       release: 12/2/2016
-      image: "Vivian.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Vivian.png"
 
     - name: "Hopkins"
       owned: false
       id: 2
       release: 12/2/2016
-      image: "Hopkins.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Hopkins.png"
 
     - name: "June"
       owned: false
       id: 3
       release: 12/2/2016
-      image: "June.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/June.png"
 
     - name: "Piper"
       owned: false
       id: 4
       release: 12/2/2016
-      image: "Piper.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Piper.png"
 
     - name: "Paolo"
       owned: false
       id: 5
       release: 12/2/2016
-      image: "Paolo.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Paolo.png"
 
     - name: "Hornsby"
       owned: false
       id: 6
       release: 12/2/2016
-      image: "Hornsby.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Hornsby.png"
 
     - name: "Stella"
       owned: false
       id: 7
       release: 12/2/2016
-      image: "Stella.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Stella.png"
 
     - name: "Tybalt"
       owned: false
       id: 8
       release: 12/2/2016
-      image: "Tybalt.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Tybalt.png"
 
     - name: "Huck"
       owned: false
       id: 9
       release: 12/2/2016
-      image: "Huck.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Huck.png"
 
     - name: "Sylvana"
       owned: false
       id: 10
       release: 12/2/2016
-      image: "Sylvana.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Sylvana.png"
 
     - name: "Boris"
       owned: false
       id: 11
       release: 12/2/2016
-      image: "Boris.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Boris.png"
 
     - name: "Wade"
       owned: false
       id: 12
       release: 12/2/2016
-      image: "Wade.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Wade.png"
 
     - name: "Carrie"
       owned: false
       id: 13
       release: 12/2/2016
-      image: "Carrie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Carrie.png"
 
     - name: "Ketchup"
       owned: false
       id: 14
       release: 12/2/2016
-      image: "Ketchup.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Ketchup.png"
 
     - name: "Rex"
       owned: false
       id: 15
       release: 12/2/2016
-      image: "Rex.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Rex.png"
 
     - name: "Stu"
       owned: false
       id: 16
       release: 12/2/2016
-      image: "Stu.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Stu.png"
 
     - name: "Ursala"
       owned: false
       id: 17
       release: 12/2/2016
-      image: "Ursala.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Ursala.png"
 
     - name: "Jacob"
       owned: false
       id: 18
       release: 12/2/2016
-      image: "Jacob.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Jacob.png"
 
     - name: "Maddie"
       owned: false
       id: 19
       release: 12/2/2016
-      image: "Maddie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Maddie.png"
 
     - name: "Billy"
       owned: false
       id: 20
       release: 12/2/2016
-      image: "Billy.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Billy.png"
 
     - name: "Boyd"
       owned: false
       id: 21
       release: 12/2/2016
-      image: "Boyd.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Boyd.png"
 
     - name: "Bitty"
       owned: false
       id: 22
       release: 12/2/2016
-      image: "Bitty.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Bitty.png"
 
     - name: "Maggie"
       owned: false
       id: 23
       release: 12/2/2016
-      image: "Maggie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Maggie.png"
 
     - name: "Murphy"
       owned: false
       id: 24
       release: 12/2/2016
-      image: "Murphy.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Murphy.png"
 
     - name: "Plucky"
       owned: false
       id: 25
       release: 12/2/2016
-      image: "Plucky.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Plucky.png"
 
     - name: "Sandy"
       owned: false
       id: 26
       release: 12/2/2016
-      image: "Sandy.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Sandy.png"
 
     - name: "Claude"
       owned: false
       id: 27
       release: 12/2/2016
-      image: "Claude.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Claude.png"
 
     - name: "Raddle"
       owned: false
       id: 28
       release: 12/2/2016
-      image: "Raddle.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Raddle.png"
 
     - name: "Julia"
       owned: false
       id: 29
       release: 12/2/2016
-      image: "Julia.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Julia.png"
 
     - name: "Louie"
       owned: false
       id: 30
       release: 12/2/2016
-      image: "Louie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Louie.png"
 
     - name: "Bea"
       owned: false
       id: 31
       release: 12/2/2016
-      image: "Bea.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Bea.png"
 
     - name: "Admiral"
       owned: false
       id: 32
       release: 12/2/2016
-      image: "Admiral.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Admiral.png"
 
     - name: "Ellie"
       owned: false
       id: 33
       release: 12/2/2016
-      image: "Ellie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Ellie.png"
 
     - name: "Boots"
       owned: false
       id: 34
       release: 12/2/2016
-      image: "Boots.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Boots.png"
 
     - name: "Weber"
       owned: false
       id: 35
       release: 12/2/2016
-      image: "Weber.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Weber.png"
 
     - name: "Candi"
       owned: false
       id: 36
       release: 12/2/2016
-      image: "Candi.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Candi.png"
 
     - name: "Leopold"
       owned: false
       id: 37
       release: 12/2/2016
-      image: "Leopold.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Leopold.png"
 
     - name: "Spike"
       owned: false
       id: 38
       release: 12/2/2016
-      image: "Spike.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Spike.png"
 
     - name: "Cashmere"
       owned: false
       id: 39
       release: 12/2/2016
-      image: "Cashmere.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Cashmere.png"
 
     - name: "Tad"
       owned: false
       id: 40
       release: 12/2/2016
-      image: "Tad.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Tad.png"
 
     - name: "Norma"
       owned: false
       id: 41
       release: 12/2/2016
-      image: "Norma.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Norma.png"
 
     - name: "Gonzo"
       owned: false
       id: 42
       release: 12/2/2016
-      image: "Gonzo.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Gonzo.png"
 
     - name: "Sprocket"
       owned: false
       id: 43
       release: 12/2/2016
-      image: "Sprocket.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Sprocket.png"
 
     - name: "Snooty"
       owned: false
       id: 44
       release: 12/2/2016
-      image: "Snooty.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Snooty.png"
 
     - name: "Olive"
       owned: false
       id: 45
       release: 12/2/2016
-      image: "Olive.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Olive.png"
 
     - name: "Dobie"
       owned: false
       id: 46
       release: 12/2/2016
-      image: "Dobie.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Dobie.png"
 
     - name: "Buzz"
       owned: false
       id: 47
       release: 12/2/2016
-      image: "Buzz.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Buzz.png"
 
     - name: "Cleo"
       owned: false
       id: 48
       release: 12/2/2016
-      image: "Cleo.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Cleo.png"
 
     - name: "Ike"
       owned: false
       id: 49
       release: 12/2/2016
-      image: "Ike.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Ike.png"
 
     - name: "Tasha"
       owned: false
       id: 50
       release: 12/2/2016
-      image: "Tasha.png"
+      image: "/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/Tasha.png"

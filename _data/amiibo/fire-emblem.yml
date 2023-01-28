@@ -1,27 +1,26 @@
 title: "Fire Emblem"
 sort-order: 9
-folder-path: "fire-emblem/"
 characters:
     - name: "Alm"
       owned: false
       id: 1
       release: 5/19/2017
-      image: "Alm.png"
+      image: "/assets/images/amiibo/fire-emblem/Alm.png"
 
     - name: "Celica"
       owned: false
       id: 2
       release: 5/19/2017
-      image: "Celica.png"
+      image: "/assets/images/amiibo/fire-emblem/Celica.png"
 
     - name: "Chrom"
       owned: true
       id: 3
       release: 10/20/2017
-      image: "Chrom.png"
+      image: "/assets/images/amiibo/fire-emblem/Chrom.png"
 
     - name: "Tiki"
       owned: false
       id: 4
       release: 10/20/2017
-      image: "Tiki.png"
+      image: "/assets/images/amiibo/fire-emblem/Tiki.png"

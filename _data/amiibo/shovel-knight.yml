@@ -1,33 +1,32 @@
 title: "Shovel Knight"
 sort-order: 15
-folder-path: "shovel-knight/"
 characters:
     - name: "Shovel Knight"
       owned: true
       id: 1
       release: 1/8/2016
-      image: "Shovel Knight.png"
+      image: "/assets/images/amiibo/shovel-knight/Shovel Knight.png"
 
     - name: "Gold Shovel Knight"
       owned: true
       id: 2
       release: 12/10/2019
-      image: "Gold Shovel Knight.png"
+      image: "/assets/images/amiibo/shovel-knight/Gold Shovel Knight.png"
 
     - name: "Plague Knight"
       owned: true
       id: 3
       release: 12/10/2019
-      image: "Plague Knight.png"
+      image: "/assets/images/amiibo/shovel-knight/Plague Knight.png"
 
     - name: "Specter Knight"
       owned: true
       id: 4
       release: 12/10/2019
-      image: "Specter Knight.png"
+      image: "/assets/images/amiibo/shovel-knight/Specter Knight.png"
 
     - name: "King Knight"
       owned: true
       id: 5
       release: 12/10/2019
-      image: "King Knight.png"
+      image: "/assets/images/amiibo/shovel-knight/King Knight.png"

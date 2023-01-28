@@ -1,117 +1,116 @@
 title: "The Legend of Zelda"
 sort-order: 4
-folder-path: "zelda/"
 characters:
     - name: "Link (8-Bit)"
       owned: true
       id: 1
       release: 12/2/2016
-      image: "Link (8-Bit).png"
+      image: "/assets/images/amiibo/zelda/Link (8-Bit).png"
 
     - name: "Link (Link's Awakening)"
       owned: true
       id: 2
       release: 9/20/2019
-      image: "Link (Link's Awakening).png"
+      image: "/assets/images/amiibo/zelda/Link (Link's Awakening).png"
 
     - name: "Link (Ocarina of Time)"
       owned: false
       id: 3
       release: 12/2/2016
-      image: "Link (Ocarina of Time).png"
+      image: "/assets/images/amiibo/zelda/Link (Ocarina of Time).png"
 
     - name: "Link (Majora's Mask)"
       owned: true
       id: 4
       release: 6/23/2017
-      image: "Link (Majora's Mask).png"
+      image: "/assets/images/amiibo/zelda/Link (Majora's Mask).png"
 
     - name: "Toon Link"
       owned: true
       id: 5
       release: 12/2/2016
-      image: "Toon Link.png"
+      image: "/assets/images/amiibo/zelda/Toon Link.png"
 
     - name: "Toon Zelda"
       owned: true
       id: 6
       release: 12/2/2016
-      image: "Toon Zelda.png"
+      image: "/assets/images/amiibo/zelda/Toon Zelda.png"
 
     - name: "Link (Twilight Princess)"
       owned: false
       id: 7
       release: 6/23/2017
-      image: "Link (Twilight Princess).png"
+      image: "/assets/images/amiibo/zelda/Link (Twilight Princess).png"
 
     - name: "Wolf Link"
       owned: true
       id: 8
       release: 3/4/2016
-      image: "Wolf Link.png"
+      image: "/assets/images/amiibo/zelda/Wolf Link.png"
 
     - name: "Link (Skyward Sword)"
       owned: false
       id: 9
       release: 6/23/2017
-      image: "Link (Skyward Sword).png"
+      image: "/assets/images/amiibo/zelda/Link (Skyward Sword).png"
 
     - name: "Zelda & Loftwing"
       owned: true
       id: 10
       release: 6/23/2017
-      image: "Zelda and Loftwing.png"
+      image: "/assets/images/amiibo/zelda/Zelda and Loftwing.png"
 
     - name: "Link (Archer)"
       owned: true
       id: 11
       release: 3/3/2017
-      image: "Link (Archer).png"
+      image: "/assets/images/amiibo/zelda/Link (Archer).png"
 
     - name: "Link (Rider)"
       owned: true
       id: 12
       release: 3/3/2017
-      image: "Link (Rider).png"
+      image: "/assets/images/amiibo/zelda/Link (Rider).png"
 
     - name: "Zelda"
       owned: true
       id: 13
       release: 3/3/2017
-      image: "Zelda.png"
+      image: "/assets/images/amiibo/zelda/Zelda.png"
 
     - name: "Bokoblin"
       owned: true
       id: 14
       release: 3/3/2017
-      image: "Bokoblin.png"
+      image: "/assets/images/amiibo/zelda/Bokoblin.png"
 
     - name: "Guardian"
       owned: true
       id: 15
       release: 3/3/2017
-      image: "Guardian.png"
+      image: "/assets/images/amiibo/zelda/Guardian.png"
 
     - name: "Mipha (Zora Champion)"
       owned: true
       id: 16
       release: 11/10/2017
-      image: "Mipha (Zora Champion).png"
+      image: "/assets/images/amiibo/zelda/Mipha (Zora Champion).png"
 
     - name: "Daruk (Goron Champion)"
       owned: true
       id: 17
       release: 11/10/2017
-      image: "Daruk (Goron Champion).png"
+      image: "/assets/images/amiibo/zelda/Daruk (Goron Champion).png"
 
     - name: "Revali (Rito Champion)"
       owned: true
       id: 18
       release: 11/10/2017
-      image: "Revali (Rito Champion).png"
+      image: "/assets/images/amiibo/zelda/Revali (Rito Champion).png"
 
     - name: "Urbosa (Gerudo Champion)"
       owned: true
       id: 19
       release: 11/10/2017
-      image: "Urbosa (Gerudo Champion).png"
+      image: "/assets/images/amiibo/zelda/Urbosa (Gerudo Champion).png"

@@ -1,603 +1,602 @@
 title: "Animal Crossing Series 4"
 sort-order: 20
-folder-path: "animal-crossing-series-4/"
 characters:
     - name: "Isabelle"
       owned: false
       id: 301
       release: 6/10/2016
-      image: "Isabelle.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Isabelle.png"
 
     - name: "Brewster"
       owned: true
       id: 302
       release: 6/10/2016
-      image: "Brewster.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Brewster.png"
 
     - name: "Katrina"
       owned: false
       id: 303
       release: 6/10/2016
-      image: "Katrina.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Katrina.png"
 
     - name: "Phineas"
       owned: false
       id: 304
       release: 6/10/2016
-      image: "Phineas.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Phineas.png"
 
     - name: "Celeste"
       owned: true
       id: 305
       release: 6/10/2016
-      image: "Celeste.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Celeste.png"
 
     - name: "Tommy"
       owned: true
       id: 306
       release: 6/10/2016
-      image: "Tommy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Tommy.png"
 
     - name: "Gracie"
       owned: true
       id: 307
       release: 6/10/2016
-      image: "Gracie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Gracie.png"
 
     - name: "Leilani"
       owned: false
       id: 308
       release: 6/10/2016
-      image: "Leilani.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Leilani.png"
 
     - name: "Resetti"
       owned: true
       id: 309
       release: 6/10/2016
-      image: "Resetti.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Resetti.png"
 
     - name: "Timmy"
       owned: true
       id: 310
       release: 6/10/2016
-      image: "Timmy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Timmy.png"
 
     - name: "Lottie"
       owned: false
       id: 311
       release: 6/10/2016
-      image: "Lottie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Lottie.png"
 
     - name: "Shrunk"
       owned: false
       id: 312
       release: 6/10/2016
-      image: "Shrunk.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Shrunk.png"
 
     - name: "Pavé"
       owned: true
       id: 313
       release: 6/10/2016
-      image: "Pavé.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pavé.png"
 
     - name: "Gulliver"
       owned: true
       id: 314
       release: 6/10/2016
-      image: "Gulliver.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Gulliver.png"
 
     - name: "Redd"
       owned: false
       id: 315
       release: 6/10/2016
-      image: "Redd.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Redd.png"
 
     - name: "Zipper"
       owned: false
       id: 316
       release: 6/10/2016
-      image: "Zipper.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Zipper.png"
 
     - name: "Goldie"
       owned: false
       id: 317
       release: 6/10/2016
-      image: "Goldie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Goldie.png"
 
     - name: "Stitches"
       owned: false
       id: 318
       release: 6/10/2016
-      image: "Stitches.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Stitches.png"
 
     - name: "Pinky"
       owned: false
       id: 319
       release: 6/10/2016
-      image: "Pinky.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pinky.png"
 
     - name: "Mott"
       owned: true
       id: 320
       release: 6/10/2016
-      image: "Mott.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Mott.png"
 
     - name: "Mallary"
       owned: false
       id: 321
       release: 6/10/2016
-      image: "Mallary.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Mallary.png"
 
     - name: "Rocco"
       owned: false
       id: 322
       release: 6/10/2016
-      image: "Rocco.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rocco.png"
 
     - name: "Katt"
       owned: false
       id: 323
       release: 6/10/2016
-      image: "Katt.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Katt.png"
 
     - name: "Graham"
       owned: true
       id: 324
       release: 6/10/2016
-      image: "Graham.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Graham.png"
 
     - name: "Peaches"
       owned: false
       id: 325
       release: 6/10/2016
-      image: "Peaches.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Peaches.png"
 
     - name: "Dizzy"
       owned: false
       id: 326
       release: 6/10/2016
-      image: "Dizzy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Dizzy.png"
 
     - name: "Penelope"
       owned: false
       id: 327
       release: 6/10/2016
-      image: "Penelope.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Penelope.png"
 
     - name: "Boone"
       owned: true
       id: 328
       release: 6/10/2016
-      image: "Boone.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Boone.png"
 
     - name: "Broffina"
       owned: false
       id: 329
       release: 6/10/2016
-      image: "Broffina.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Broffina.png"
 
     - name: "Croque"
       owned: true
       id: 330
       release: 6/10/2016
-      image: "Croque.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Croque.png"
 
     - name: "Pashmina"
       owned: true
       id: 331
       release: 6/10/2016
-      image: "Pashmina.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pashmina.png"
 
     - name: "Shep"
       owned: true
       id: 332
       release: 6/10/2016
-      image: "Shep.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Shep.png"
 
     - name: "Lolly"
       owned: false
       id: 333
       release: 6/10/2016
-      image: "Lolly.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Lolly.png"
 
     - name: "Erik"
       owned: true
       id: 334
       release: 6/10/2016
-      image: "Erik.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Erik.png"
 
     - name: "Dotty"
       owned: true
       id: 335
       release: 6/10/2016
-      image: "Dotty.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Dotty.png"
 
     - name: "Pierce"
       owned: true
       id: 336
       release: 6/10/2016
-      image: "Pierce.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pierce.png"
 
     - name: "Queenie"
       owned: false
       id: 337
       release: 6/10/2016
-      image: "Queenie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Queenie.png"
 
     - name: "Fang"
       owned: true
       id: 338
       release: 6/10/2016
-      image: "Fang.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Fang.png"
 
     - name: "Frita"
       owned: true
       id: 339
       release: 6/10/2016
-      image: "Frita.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Frita.png"
 
     - name: "Tex"
       owned: true
       id: 340
       release: 6/10/2016
-      image: "Tex.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Tex.png"
 
     - name: "Melba"
       owned: false
       id: 341
       release: 6/10/2016
-      image: "Melba.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Melba.png"
 
     - name: "Bones"
       owned: false
       id: 342
       release: 6/10/2016
-      image: "Bones.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Bones.png"
 
     - name: "Anabelle"
       owned: true
       id: 343
       release: 6/10/2016
-      image: "Anabelle.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Anabelle.png"
 
     - name: "Rudy"
       owned: true
       id: 344
       release: 6/10/2016
-      image: "Rudy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rudy.png"
 
     - name: "Naomi"
       owned: false
       id: 345
       release: 6/10/2016
-      image: "Naomi.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Naomi.png"
 
     - name: "Peewee"
       owned: false
       id: 346
       release: 6/10/2016
-      image: "Peewee.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Peewee.png"
 
     - name: "Tammy"
       owned: false
       id: 347
       release: 6/10/2016
-      image: "Tammy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Tammy.png"
 
     - name: "Olaf"
       owned: true
       id: 348
       release: 6/10/2016
-      image: "Olaf.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Olaf.png"
 
     - name: "Lucy"
       owned: false
       id: 349
       release: 6/10/2016
-      image: "Lucy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Lucy.png"
 
     - name: "Elmer"
       owned: false
       id: 350
       release: 6/10/2016
-      image: "Elmer.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Elmer.png"
 
     - name: "Puddles"
       owned: false
       id: 351
       release: 6/10/2016
-      image: "Puddles.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Puddles.png"
 
     - name: "Rory"
       owned: true
       id: 352
       release: 6/10/2016
-      image: "Rory.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rory.png"
 
     - name: "Elise"
       owned: false
       id: 353
       release: 6/10/2016
-      image: "Elise.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Elise.png"
 
     - name: "Walt"
       owned: false
       id: 354
       release: 6/10/2016
-      image: "Walt.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Walt.png"
 
     - name: "Mira"
       owned: false
       id: 355
       release: 6/10/2016
-      image: "Mira.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Mira.png"
 
     - name: "Pietro"
       owned: true
       id: 356
       release: 6/10/2016
-      image: "Pietro.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pietro.png"
 
     - name: "Aurora"
       owned: false
       id: 357
       release: 6/10/2016
-      image: "Aurora.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Aurora.png"
 
     - name: "Papi"
       owned: true
       id: 358
       release: 6/10/2016
-      image: "Papi.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Papi.png"
 
     - name: "Apple"
       owned: false
       id: 359
       release: 6/10/2016
-      image: "Apple.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Apple.png"
 
     - name: "Rod"
       owned: true
       id: 360
       release: 6/10/2016
-      image: "Rod.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rod.png"
 
     - name: "Purrl"
       owned: false
       id: 361
       release: 6/10/2016
-      image: "Purrl.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Purrl.png"
 
     - name: "Static"
       owned: true
       id: 362
       release: 6/10/2016
-      image: "Static.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Static.png"
 
     - name: "Celia"
       owned: true
       id: 363
       release: 6/10/2016
-      image: "Celia.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Celia.png"
 
     - name: "Zucker"
       owned: true
       id: 364
       release: 6/10/2016
-      image: "Zucker.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Zucker.png"
 
     - name: "Peggy"
       owned: false
       id: 365
       release: 6/10/2016
-      image: "Peggy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Peggy.png"
 
     - name: "Ribbot"
       owned: true
       id: 366
       release: 6/10/2016
-      image: "Ribbot.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Ribbot.png"
 
     - name: "Annalise"
       owned: true
       id: 367
       release: 6/10/2016
-      image: "Annalise.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Annalise.png"
 
     - name: "Chow"
       owned: true
       id: 368
       release: 6/10/2016
-      image: "Chow.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Chow.png"
 
     - name: "Sylvia"
       owned: false
       id: 369
       release: 6/10/2016
-      image: "Sylvia.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Sylvia.png"
 
     - name: "Jacques"
       owned: true
       id: 370
       release: 6/10/2016
-      image: "Jacques.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Jacques.png"
 
     - name: "Sally"
       owned: true
       id: 371
       release: 6/10/2016
-      image: "Sally.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Sally.png"
 
     - name: "Doc"
       owned: true
       id: 372
       release: 6/10/2016
-      image: "Doc.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Doc.png"
 
     - name: "Pompom"
       owned: false
       id: 373
       release: 6/10/2016
-      image: "Pompom.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Pompom.png"
 
     - name: "Tank"
       owned: false
       id: 374
       release: 6/10/2016
-      image: "Tank.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Tank.png"
 
     - name: "Becky"
       owned: false
       id: 375
       release: 6/10/2016
-      image: "Becky.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Becky.png"
 
     - name: "Rizzo"
       owned: true
       id: 376
       release: 6/10/2016
-      image: "Rizzo.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rizzo.png"
 
     - name: "Sydney"
       owned: false
       id: 377
       release: 6/10/2016
-      image: "Sydney.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Sydney.png"
 
     - name: "Barold"
       owned: false
       id: 378
       release: 6/10/2016
-      image: "Barold.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Barold.png"
 
     - name: "Nibbles"
       owned: false
       id: 379
       release: 6/10/2016
-      image: "Nibbles.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Nibbles.png"
 
     - name: "Kevin"
       owned: true
       id: 380
       release: 6/10/2016
-      image: "Kevin.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Kevin.png"
 
     - name: "Gloria"
       owned: false
       id: 381
       release: 6/10/2016
-      image: "Gloria.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Gloria.png"
 
     - name: "Lobo"
       owned: false
       id: 382
       release: 6/10/2016
-      image: "Lobo.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Lobo.png"
 
     - name: "Hippeux"
       owned: false
       id: 383
       release: 6/10/2016
-      image: "Hippeux.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Hippeux.png"
 
     - name: "Margie"
       owned: true
       id: 384
       release: 6/10/2016
-      image: "Margie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Margie.png"
 
     - name: "Lucky"
       owned: false
       id: 385
       release: 6/10/2016
-      image: "Lucky.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Lucky.png"
 
     - name: "Rosie"
       owned: false
       id: 386
       release: 6/10/2016
-      image: "Rosie.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rosie.png"
 
     - name: "Rowan"
       owned: false
       id: 387
       release: 6/10/2016
-      image: "Rowan.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Rowan.png"
 
     - name: "Maelle"
       owned: true
       id: 388
       release: 6/10/2016
-      image: "Maelle.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Maelle.png"
 
     - name: "Bruce"
       owned: false
       id: 389
       release: 6/10/2016
-      image: "Bruce.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Bruce.png"
 
     - name: "O'Hare"
       owned: true
       id: 390
       release: 6/10/2016
-      image: "O'Hare.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/O'Hare.png"
 
     - name: "Gayle"
       owned: true
       id: 391
       release: 6/10/2016
-      image: "Gayle.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Gayle.png"
 
     - name: "Cranston"
       owned: true
       id: 392
       release: 6/10/2016
-      image: "Cranston.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Cranston.png"
 
     - name: "Frobert"
       owned: false
       id: 393
       release: 6/10/2016
-      image: "Frobert.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Frobert.png"
 
     - name: "Grizzly"
       owned: true
       id: 394
       release: 6/10/2016
-      image: "Grizzly.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Grizzly.png"
 
     - name: "Cally"
       owned: true
       id: 395
       release: 6/10/2016
-      image: "Cally.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Cally.png"
 
     - name: "Simon"
       owned: true
       id: 396
       release: 6/10/2016
-      image: "Simon.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Simon.png"
 
     - name: "Iggly"
       owned: false
       id: 397
       release: 6/10/2016
-      image: "Iggly.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Iggly.png"
 
     - name: "Angus"
       owned: true
       id: 398
       release: 6/10/2016
-      image: "Angus.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Angus.png"
 
     - name: "Twiggy"
       owned: true
       id: 399
       release: 6/10/2016
-      image: "Twiggy.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Twiggy.png"
 
     - name: "Robin"
       owned: false
       id: 400
       release: 6/10/2016
-      image: "Robin.png"
+      image: "/assets/images/amiibo/animal-crossing-series-4/Robin.png"

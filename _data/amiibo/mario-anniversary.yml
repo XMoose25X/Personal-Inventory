@@ -1,15 +1,14 @@
 title: "Mario 30th Anniversary"
 sort-order: 3
-folder-path: "mario-anniversary/"
 characters:
     - name: "Mario (Classic)"
       owned: true
       id: 1
       release: 9/11/2015
-      image: "Mario (Classic).png"
+      image: "/assets/images/amiibo/mario-anniversary/Mario (Classic).png"
 
     - name: "Mario (Modern)"
       owned: true
       id: 2
       release: 9/11/2015
-      image: "Mario (Modern).png"
+      image: "/assets/images/amiibo/mario-anniversary/Mario (Modern).png"

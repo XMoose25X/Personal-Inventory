@@ -1,93 +1,92 @@
 title: "Monster Hunter"
 sort-order: 12
-folder-path: "monster-hunter/"
 characters:
     - name: "One-Eyed Rathalos & Rider (Boy)"
       owned: false
       id: 1
       release: 10/8/2016
-      image: "One-Eyed Rathalos and Rider (Boy).png"
+      image: "/assets/images/amiibo/monster-hunter/One-Eyed Rathalos and Rider (Boy).png"
 
     - name: "One-Eyed Rathalos & Rider (Girl)"
       owned: false
       id: 2
       release: 10/8/2016
-      image: "One-Eyed Rathalos and Rider (Girl).png"
+      image: "/assets/images/amiibo/monster-hunter/One-Eyed Rathalos and Rider (Girl).png"
 
     - name: "Qurupeco & Dan"
       owned: false
       id: 3
       release: 12/8/2016
-      image: "Qurupeco and Dan.png"
+      image: "/assets/images/amiibo/monster-hunter/Qurupeco and Dan.png"
 
     - name: "Barioth & Ayuria"
       owned: false
       id: 4
       release: 12/8/2016
-      image: "Barioth and Ayuria.png"
+      image: "/assets/images/amiibo/monster-hunter/Barioth and Ayuria.png"
 
     - name: "Rathian & Cheval"
       owned: false
       id: 5
       release: 12/8/2016
-      image: "Rathian and Cheval.png"
+      image: "/assets/images/amiibo/monster-hunter/Rathian and Cheval.png"
 
     - name: "Navirou"
       owned: false
       id: 6
       release: 10/8/2016
-      image: "Navirou.png"
+      image: "/assets/images/amiibo/monster-hunter/Navirou.png"
 
     - name: "Ena"
       owned: false
       id: 7
       release: 7/9/2021
-      image: "Ena.png"
+      image: "/assets/images/amiibo/monster-hunter/Ena.png"
 
     - name: "Razewing Ratha"
       owned: false
       id: 8
       release: 7/9/2021
-      image: "Razewing Ratha.png"
+      image: "/assets/images/amiibo/monster-hunter/Razewing Ratha.png"
 
     - name: "Tsukino"
       owned: false
       id: 9
       release: 7/9/2021
-      image: "Tsukino.png"
+      image: "/assets/images/amiibo/monster-hunter/Tsukino.png"
 
     - name: "Magnamalo"
       owned: false
       id: 10
       release: 3/26/2021
-      image: "Magnamalo.png"
+      image: "/assets/images/amiibo/monster-hunter/Magnamalo.png"
 
     - name: "Palamute"
       owned: false
       id: 11
       release: 3/26/2021
-      image: "Palamute.png"
+      image: "/assets/images/amiibo/monster-hunter/Palamute.png"
 
     - name: "Palico"
       owned: false
       id: 12
       release: 3/26/2021
-      image: "Palico.png"
+      image: "/assets/images/amiibo/monster-hunter/Palico.png"
 
     - name: "Malzeno"
       owned: false
       id: 13
       release: 6/30/2022
-      image: "Malzeno.png"
+      image: "/assets/images/amiibo/monster-hunter/Malzeno.png"
 
     - name: "Palamute (Canyne Malzeno X)"
       owned: false
       id: 14
       release: 6/30/2022
-      image: "Palamute (Canyne Malzeno X).png"
+      image: "/assets/images/amiibo/monster-hunter/Palamute (Canyne Malzeno X).png"
 
     - name: "Palico (Felyne Malzeno X)"
       owned: false
       id: 15
       release: 6/30/2022
-      image: "Palico (Felyne Malzeno X).png"
+      image: "/assets/images/amiibo/monster-hunter/Palico (Felyne Malzeno X).png"

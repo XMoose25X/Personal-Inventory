@@ -1,39 +1,38 @@
 title: "Animal Crossing Sanrio"
 sort-order: 24
-folder-path: "animal-crossing-sanrio-series/"
 characters:
     - name: "Rilla"
       owned: true
       id: 1
       release: 3/26/2021
-      image: "Rilla.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Rilla.png"
 
     - name: "Marty"
       owned: true
       id: 2
       release: 3/26/2021
-      image: "Marty.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Marty.png"
 
     - name: "Étoile"
       owned: true
       id: 3
       release: 3/26/2021
-      image: "Étoile.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Étoile.png"
 
     - name: "Chai"
       owned: true
       id: 4
       release: 3/26/2021
-      image: "Chai.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Chai.png"
 
     - name: "Chelsea"
       owned: true
       id: 5
       release: 3/26/2021
-      image: "Chelsea.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Chelsea.png"
 
     - name: "Toby"
       owned: true
       id: 6
       release: 3/26/2021
-      image: "Toby.png"
+      image: "/assets/images/amiibo/animal-crossing-sanrio-series/Toby.png"

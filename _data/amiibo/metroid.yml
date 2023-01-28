@@ -1,27 +1,26 @@
 title: "Metroid"
 sort-order: 8
-folder-path: "metroid/"
 characters:
     - name: "Samus Aran"
       owned: true
       id: 1
       release: 9/15/2017
-      image: "Samus Aran.png"
+      image: "/assets/images/amiibo/metroid/Samus Aran.png"
 
     - name: "Metroid"
       owned: true
       id: 2
       release: 9/15/2017
-      image: "Metroid.png"
+      image: "/assets/images/amiibo/metroid/Metroid.png"
 
     - name: "Samus"
       owned: true
       id: 3
       release: 10/8/2021
-      image: "Samus.png"
+      image: "/assets/images/amiibo/metroid/Samus.png"
 
     - name: "E.M.M.I."
       owned: true
       id: 4
       release: 10/8/2021
-      image: "E.M.M.I..png"
+      image: "/assets/images/amiibo/metroid/E.M.M.I..png"
