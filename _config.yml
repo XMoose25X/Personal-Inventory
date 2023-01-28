@@ -23,9 +23,9 @@ email: mathewmoose95@gmail.com
 description: >- # this means to ignore newlines
   Personal inventory site for Mathew Moose using Jekyll!
   The idea was to correlate my family's assets into a single website for easy access.
-domain: "xmoose25x.github.io"
-baseurl: "/Personal-Inventory/" # the subpath of your site, e.g. /blog
-url: "https://xmoose25x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "collection.moose.software"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://collection.moose.software" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xmoose25x
 github_username:  xmoose25x
 

@@ -6,7 +6,7 @@ permalink: /switch/
 {% assign collection = site.data.nintendo-switch-games.collection %}
 <h1>
     <img 
-        src="{% link {{collection.base-image-path}}{{collection.logo}} %}"
+        src="{% link {{collection.logo}} %}"
         alt="Nintendo Switch Logo"
     />
 </h1>
@@ -91,7 +91,7 @@ permalink: /switch/
             </span>
             <img 
                 style="width: 100px; height: 162px;"
-                src="{% link {{collection.base-image-path}}{{game.name | replace: ':', '' | replace: '|', ' '}}.jpg %}"
+                src="{% link {{game.boxart}} %}"
                 alt="{{game.name}}" loading="lazy"
             />
             <span class="amiibo-name">{{game.name}}</span>

@@ -1,0 +1,36 @@
+backend:
+    name: git-gateway
+    branch: main
+media_folder: "/assets/images/uploads"
+public_folder: "/assets/images/uploads"
+# collections:
+#     - name: "amiibo" # Used in routes, e.g., /admin/collections/blog
+#       label: "Amiibo" # Used in the UI
+#       folder: "_posts/blog" # The path to the folder where the documents are stored
+#       create: true # Allow users to create new documents in this collection
+#       slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+#       fields: # The fields for each document, usually in front matter
+#         - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+#         - {label: "Title", name: "title", widget: "string"}
+#         - {label: "Publish Date", name: "date", widget: "datetime"}
+#         - {label: "Featured Image", name: "thumbnail", widget: "image"}
+#         - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+#         - {label: "Body", name: "body", widget: "markdown"}
+collections:
+    - label: "Collectibles"
+      name: "collectibles"
+      files:
+      - label: "Nintendo Switch Games"
+        name: "switch"
+        file: "/_data/nintendo-switch-games/collection.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Page Logo, name: logo,  widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/nintendo-switch-games'}
+          - label: Games
+            name: games
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Genres, name: genre, widget: select, multiple: true, min: 1, options: ["Action", "Adventure", "Arcade", "Board Game", "Education", "Fighting", "First-Person", "Indie", "Lifestyle", "Multiplayer", "Music", "Other", "Party", "Platformer", "Practical", "Puzzle", "Racing", "Role-Playing", "Shooter", "Simulation", "Sports", "Strategy", "Study", "Training", "Utility", "Video"]}
+              - {label: Boxart, name: boxart, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/nintendo-switch-games'}

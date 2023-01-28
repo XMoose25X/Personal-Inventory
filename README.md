@@ -1,20 +1,18 @@
 # Personal-Inventory
 App that catalogues all collectibles that I own.
 
-## [Live Site](https://xmoose25x.github.io/Personal-Inventory/)
+## [Live Site](https://collection.moose.software/)
 
 ## Technology
 * [Jekyll 4.2.2](https://jekyllrb.com/)
-* [GitHub Actions Workflow](https://docs.github.com/en/actions/using-workflows)
-    * [helaili's jekyll-action](https://github.com/helaili/jekyll-action) is used, though this should be updated to the [GitHub provided solution](https://github.com/github/pages-gem/issues/651).
-* [GitHub Pages](https://pages.github.com/)
+* [Netlify CMS](https://www.netlifycms.org/) for authenticated content management.
 
 ## Build & Run Locally
 * `bundle exec jekyll serve`
     * Runs at [http://localhost:4000](http://localhost:4000)
 
 ## Deployment
-* The [github-pages.yml](./.github/workflows/github-pages.yml) file controls automatic deployment [this page](https://xmoose25x.github.io/Personal-Inventory/).
+* [Netlify](https://app.netlify.com) handles all deployment automatically. Simply push to `main` and the site is re-deployed in seconds.
 
 ## Image Assets
 All images are manually added to this project's repository to ensure data longevity. As such, images are sourced from various sites when the original manufacturer's imagery is missing or out of date. The following table shows the expected size for each asset:
