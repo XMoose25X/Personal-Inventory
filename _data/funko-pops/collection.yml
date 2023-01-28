@@ -1,0 +1,600 @@
+title: "Funko Pops"
+figures:
+    - category: Animation
+      number: 1096
+      size: '6"'
+      license: Yu-Gi-Oh!
+      character: Black Luster Soldier
+      feature: Targetcon 2022
+      exclusive: Target
+      stickers: ["Targetcon 2022", "Yu-Go-Oh! 25th Anniversary"]
+      purchased: Toyland
+      grade: 7.5
+      protector: No
+      location: Box
+      comments: Cut on top, fringe folds on top and bottom
+    - category: Art Series
+      number: 62
+      size: '4"'
+      license: Batman Returns
+      character: Catwoman
+      feature: Art Series
+      exclusive: Target
+      stickers: ["Target", "Art Series"]
+      purchased: Toyland
+      grade: 8
+      protector: EcoTEK
+      location: Box
+      comments: Bowing in corners, slightly warped on top
+    - category: Art Series
+      number: 26
+      size: '4"'
+      license: Disney
+      character: Bambi
+      feature: Art Series
+      exclusive: Amazon
+      stickers: ["Amazon", "Art Series"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners slightly fringed
+    - category: Pop
+      number: 800
+      size: '4"'
+      license: Marvel
+      character: Rogue
+      feature: Blacklight
+      exclusive: Target
+      stickers: ["Target"]
+      purchased: Toyland
+      grade: 8.5
+      protector: TitanShield
+      location: Box
+      comments: Corners slightly damaged
+    - category: Television
+      number: 870
+      size: '4"'
+      license: The Office
+      character: Jim Halpert
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 8
+      protector: EcoTEK
+      location: Box
+      comments: Dented corner
+    - category: Television
+      number: 870
+      size: '4"'
+      license: The Office
+      character: Jim Halpert
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Tiny Water spot on bottom
+    - category: Television
+      number: 870
+      size: '4"'
+      license: The Office
+      character: Jim Halpert
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 8
+      protector: EcoTEK
+      location: Box
+      comments: Paint chip on nose, corners frayed
+    - category: Pop
+      number: 9
+      size: '4"'
+      license: Ralph Breaks the Internet
+      character: Yesss
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Scuff on glasses
+    - category: Pop
+      number: 449
+      size: '4"'
+      license: Marvel Avengers
+      character: Tony Stark
+      feature: GITD
+      exclusive: Target
+      stickers: ["GOTD", "Target"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Dirt on side of box
+    - category: Pop
+      number: 418
+      size: '4"'
+      license: Disney Moana
+      character: Grandma Tala
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 7
+      protector: EcoTEK
+      location: Box
+      comments: Side of box has dirt, corners frayed
+    - category: Animation
+      number: 947
+      size: '4"'
+      license: DragonBall Z
+      character: Cell (First Form)
+      feature: GITD
+      exclusive: Walmart
+      stickers: ["GITD", "Walmart"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners slightly frayed
+    - category: Pop
+      number: 910
+      size: '4"'
+      license: Marvel Avengers EndGame
+      character: Ant-Man
+      feature: Blacklight
+      exclusive: Target
+      stickers: ["Target"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners fringed, paint on mask is blury
+    - category: Pop
+      number: 1
+      size: '4"'
+      license: Furry n Fierce
+      character: "Furry N' Fierce"
+      feature: Flocked Chase
+      exclusive: Build-A-Bear
+      stickers: ["Furry N Fierce", "Flocked Chase"]
+      purchased: Toyland
+      grade: 8
+      protector: EcoTEK
+      location: Box
+      comments: Dirt scuff on front, corners frayed
+    - category: Movies
+      number: 1055
+      size: '4"'
+      license: Mortal Kombat
+      character: Scorpion
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 8
+      protector: EcoTEK
+      location: Box
+      comments: Scuff on side, frayed corners
+    - category: Art Series
+      number: 48
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Hulk
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Bottom two corners are frayed
+    - category: Art Series
+      number: 49
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Thor
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Art Series
+      number: 50
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Black Widow
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Art Series
+      number: 51
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Hawkeye
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Art Series
+      number: 47
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Iron Man
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Corner dented
+    - category: Art Series
+      number: 46
+      size: '4"'
+      license: Marvel Infinity Saga
+      character: Captain America
+      feature: Art Series
+      exclusive: None
+      stickers: ["Art Series"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Games
+      number: 3
+      size: "Movie Cover"
+      license: Diablo II
+      character: Dark Wanderer
+      feature: GITD
+      exclusive: Gamestop
+      stickers: ["GITD", "Gamestop (New)"]
+      purchased: Toyland
+      grade: 8.5
+      protector: None
+      location: Box
+      comments: Bottom corner separating
+    - category: Television
+      number: 938
+      size: '4"'
+      license: The Office
+      character: Dwight Schrute as Recyclops
+      feature: ECCC 2020
+      exclusive: Walmart
+      stickers: ["Shared ECCC 2020"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Television
+      number: 1145
+      size: '4"'
+      license: The Office
+      character: Stanley Hudson (Samurai)
+      feature: SDCC 2021
+      exclusive: Gamestop
+      stickers: ["Shared SDCC 2021"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: One Corner
+    - category: SNL
+      number: 6
+      size: '4"'
+      license: Saturday Night Live
+      character: Target Lady
+      feature: None
+      exclusive: Target
+      stickers: ["Target"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Dirt on top and side
+    - category: Pop
+      number: 915
+      size: '4"'
+      license: Marvel Avengers EndGame
+      character: Old Man Steve
+      feature: Year of the Shield
+      exclusive: Amazon
+      stickers: ["Year of the Shield", "Amazon"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Heroes
+      number: 402
+      size: '4"'
+      license: DC
+      character: Imperial Superman
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Scuff on DC logo
+    - category: Sesame Street
+      number: 11
+      size: '4"'
+      license: Sesame Street
+      character: Herry Monster
+      feature: None
+      exclusive: Multiple Retailers
+      stickers: ["Funko Specialty"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Pop
+      number: 966
+      size: '4"'
+      license: Marvel Venom
+      character: Poison Spider-Man
+      feature: None
+      exclusive: Entertainment Earth
+      stickers: ["Entertainment Earth"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Crooked sticker
+    - category: Animation
+      number: 15
+      size: '4"'
+      license: Hanna Barbera
+      character: Huckleberry Hound
+      feature: Flocked
+      exclusive: Gemini Collectibles
+      stickers: ["Flocked", "Gemini"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Crease in top back flap
+    - category: Games
+      number: 430
+      size: '4"'
+      license: Fortnite
+      character: Cuddle Team Leader
+      feature: Flocked
+      exclusive: Gamestop
+      stickers: ["Flocked", "Gamestop", "Fortnite"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Ad Icons
+      number: 14
+      size: '4"'
+      license: "Cap'n Crunch"
+      character: "Cap'n Crunch"
+      feature: None
+      exclusive: Target
+      stickers: ["Target"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Paint on face
+    - category: Heroes
+      number: 306
+      size: '4"'
+      license: Birds of Prey
+      character: Roman Sionis
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Crease on bottom corner
+    - category: Movies
+      number: 1064
+      size: '4"'
+      license: 40-Year-old Virgin
+      character: Andy Stitzer (holding Steve Austin)
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 1064
+      size: '4"'
+      license: 40-Year-old Virgin
+      character: Andy Stitzer (holding Steve Austin)
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 1064
+      size: '4"'
+      license: 40-Year-old Virgin
+      character: Andy Stitzer (holding Steve Austin)
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Animation
+      number: 516
+      size: '4"'
+      license: DragonBall Super
+      character: Jiren
+      feature: Dragoncon
+      exclusive: West Coast Toys
+      stickers: ["Limited Convention Edition (Purple)"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Animation
+      number: 836
+      size: '4"'
+      license: Samurai Jack
+      character: Scaramouche
+      feature: SDCC 2020
+      exclusive: Toy Tokyo
+      stickers: ["Shared SDCC 2020"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: 8-Bit
+      number: 31
+      size: '4"'
+      license: Wreck-It-Ralph
+      character: Fix-It Felix
+      feature: SDCC 2018
+      exclusive: Hot Topic
+      stickers: ["Shared SDCC 2018"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Scuff on window
+    - category: Animation
+      number: 719
+      size: '4"'
+      license: One Punch Man
+      character: Saitama (Casual)
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 9.5
+      protector: Vaulted Vinyl
+      location: Box
+      comments: Corners
+    - category: Animation
+      number: 67
+      size: '4"'
+      license: Fairy Tail
+      character: Natsu
+      feature: Silver Chrome
+      exclusive: Funimation
+      stickers: ["Funimation 25 Anniversary"]
+      purchased: Toyland
+      grade: 8.5
+      protector: EcoTEK
+      location: Box
+      comments: Dent on corners, spots on window
+    - category: Animation
+      number: 481
+      size: '4"'
+      license: Fairy Tail
+      character: Gajeel
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 934
+      size: '4"'
+      license: Ghostbusters Afterlife
+      character: Mini-Puft with Cocktail Umbrella
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 937
+      size: '4"'
+      license: Ghostbusters Afterlife
+      character: Mini-Puft with Graham Cracker
+      feature: None
+      exclusive: None
+      stickers: ["None"]
+      purchased: Toyland
+      grade: 9
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 939
+      size: '4"'
+      license: Ghostbusters Afterlife
+      character: Mini-Puft with Headphones
+      feature: None
+      exclusive: Walmart
+      stickers: ["Walmart"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Movies
+      number: 1053
+      size: '4"'
+      license: Ghostbusters Afterlife
+      character: Mini-Puft (Zapped)
+      feature: None
+      exclusive: Target
+      stickers: ["Target"]
+      purchased: Toyland
+      grade: 9.5
+      protector: EcoTEK
+      location: Box
+      comments: Corners
+    - category: Pin
+      number: 18
+      size: "Pin"
+      license: Marvel Venom
+      character: Corrupted Venom
+      feature: Chase
+      exclusive: None
+      stickers: ["Chase"]
+      purchased: Toyland
+      grade: 9.5
+      protector: Plastic Wrap, EcoTEK
+      location: Box
+      comments: Crease under number

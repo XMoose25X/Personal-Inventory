@@ -384,3 +384,28 @@ collections:
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
               - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-sanrio-series/'}
+    - label: "Funko"
+      name: "funko"
+      files:
+      - label: "Funko Pops"
+        name: "funko-pops"
+        file: "/_data/funko-pops/collection.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: Figures
+            name: figures
+            widget: list
+            fields:
+              - {label: Name, name: character, widget: string}
+              - {label: License, name: license, widget: string}
+              - {label: Category, name: category, widget: string}
+              - {label: Number, name: number, widget: number, value_type: "int", min: 1, step: 1}
+              - {label: Size, name: size, widget: string}
+              - {label: Feature, name: feature, widget: string}
+              - {label: Exclusive, name: exclusive, widget: string}
+              - {label: Stickers, name: stickers, widget: list}
+              - {label: Purchase Location, name: purchased, widget: string}
+              - {label: Grade, name: grade, widget: number, value_type: "float", min: 1, max: 10, step: 0.5}
+              - {label: Protector, name: protector, widget: string}
+              - {label: Location, name: location, widget: select, multiple: false, options: ["Box", "Toy Room Shelf", "Standee", "Max's Room", "Basement"], default: ["Box"]}
+              - {label: Comments, name: comments, widget: string}
