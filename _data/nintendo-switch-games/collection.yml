@@ -1107,3 +1107,9 @@ games:
       - Action
       - Platformer
     boxart: /assets/images/nintendo-switch-games/Yoshi’s Crafted World.jpg
+  - release: 06/29/2021
+    name: "Disgaea 6: Defiance of Destiny Unrelenting Edition"
+    genre:
+      - Role-Playing
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/disgaea-6-defiance-of-destiny-unrelenting-edition.jpg
