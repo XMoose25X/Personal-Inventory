@@ -1,134 +1,113 @@
-title: "Super Mario"
+title: Super Mario
 sort-order: 2
 characters:
-    - name: "Mario"
-      owned: true
-      id: 1
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Mario.png"
-
-    - name: "Luigi"
-      owned: true
-      id: 2
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Luigi.png"
-
-    - name: "Peach"
-      owned: true
-      id: 3
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Peach.png"
-
-    - name: "Yoshi"
-      owned: true
-      id: 4
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Yoshi.png"
-
-    - name: "Toad"
-      owned: true
-      id: 5
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Toad.png"
-
-    - name: "Bowser"
-      owned: true
-      id: 6
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Bowser.png"
-
-    - name: "Mario (Gold Edition)"
-      owned: true
-      id: 7
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-mario/Mario (Gold Edition).png"
-
-    - name: "Mario (Silver Edition)"
-      owned: true
-      id: 8
-      release: 3/20/2015
-      image: "/assets/images/amiibo/super-mario/Mario (Silver Edition).png"
-
-    - name: "Wario"
-      owned: true
-      id: 9
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Wario.png"
-
-    - name: "Rosalina"
-      owned: true
-      id: 10
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Rosalina.png"
-
-    - name: "Boo"
-      owned: true
-      id: 11
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Boo.png"
-
-    - name: "Donkey Kong"
-      owned: true
-      id: 12
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Donkey Kong.png"
-
-    - name: "Waluigi"
-      owned: true
-      id: 13
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Waluigi.png"
-
-    - name: "Daisy"
-      owned: true
-      id: 14
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Daisy.png"
-
-    - name: "Diddy Kong"
-      owned: true
-      id: 15
-      release: 11/4/2016
-      image: "/assets/images/amiibo/super-mario/Diddy Kong.png"
-
-    - name: "Goomba"
-      owned: true
-      id: 16
-      release: 10/6/2017
-      image: "/assets/images/amiibo/super-mario/Goomba.png"
-
-    - name: "Koopa Troopa"
-      owned: false
-      id: 17
-      release: 10/6/2017
-      image: "/assets/images/amiibo/super-mario/Koopa Troopa.png"
-
-    - name: "Mario (Wedding Outfit)"
-      owned: true
-      id: 18
-      release: 10/27/2017
-      image: "/assets/images/amiibo/super-mario/Mario (Wedding Outfit).png"
-
-    - name: "Peach (Wedding Outfit)"
-      owned: true
-      id: 19
-      release: 10/27/2017
-      image: "/assets/images/amiibo/super-mario/Peach (Wedding Outfit).png"
-
-    - name: "Bowser (Wedding Outfit)"
-      owned: true
-      id: 20
-      release: 10/27/2017
-      image: "/assets/images/amiibo/super-mario/Bowser (Wedding Outfit).png"
-
-    - name: "Cat Mario"
-      owned: true
-      id: 21
-      release: 2/12/2021
-      image: "/assets/images/amiibo/super-mario/Cat Mario.png"
-
-    - name: "Cat Peach"
-      owned: true
-      id: 22
-      release: 2/12/2021
-      image: "/assets/images/amiibo/super-mario/Cat Peach.png"
+  - name: Mario
+    owned: true
+    id: 1
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Mario.png
+  - name: Luigi
+    owned: true
+    id: 2
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Luigi.png
+  - name: Peach
+    owned: true
+    id: 3
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Peach.png
+  - name: Yoshi
+    owned: true
+    id: 4
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Yoshi.png
+  - name: Toad
+    owned: true
+    id: 5
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Toad.png
+  - name: Bowser
+    owned: true
+    id: 6
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Bowser.png
+  - name: Mario (Gold Edition)
+    owned: true
+    id: 7
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-mario/Mario (Gold Edition).png
+  - name: Mario (Silver Edition)
+    owned: true
+    id: 8
+    release: 3/20/2015
+    image: /assets/images/amiibo/super-mario/Mario (Silver Edition).png
+  - name: Wario
+    owned: true
+    id: 9
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Wario.png
+  - name: Rosalina
+    owned: true
+    id: 10
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Rosalina.png
+  - name: Boo
+    owned: true
+    id: 11
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Boo.png
+  - name: Donkey Kong
+    owned: true
+    id: 12
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Donkey Kong.png
+  - name: Waluigi
+    owned: true
+    id: 13
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Waluigi.png
+  - name: Daisy
+    owned: true
+    id: 14
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Daisy.png
+  - name: Diddy Kong
+    owned: true
+    id: 15
+    release: 11/4/2016
+    image: /assets/images/amiibo/super-mario/Diddy Kong.png
+  - name: Goomba
+    owned: true
+    id: 16
+    release: 10/6/2017
+    image: /assets/images/amiibo/super-mario/Goomba.png
+  - name: Koopa Troopa
+    owned: true
+    id: 17
+    release: 10/6/2017
+    image: /assets/images/amiibo/super-mario/Koopa Troopa.png
+  - name: Mario (Wedding Outfit)
+    owned: true
+    id: 18
+    release: 10/27/2017
+    image: /assets/images/amiibo/super-mario/Mario (Wedding Outfit).png
+  - name: Peach (Wedding Outfit)
+    owned: true
+    id: 19
+    release: 10/27/2017
+    image: /assets/images/amiibo/super-mario/Peach (Wedding Outfit).png
+  - name: Bowser (Wedding Outfit)
+    owned: true
+    id: 20
+    release: 10/27/2017
+    image: /assets/images/amiibo/super-mario/Bowser (Wedding Outfit).png
+  - name: Cat Mario
+    owned: true
+    id: 21
+    release: 2/12/2021
+    image: /assets/images/amiibo/super-mario/Cat Mario.png
+  - name: Cat Peach
+    owned: true
+    id: 22
+    release: 2/12/2021
+    image: /assets/images/amiibo/super-mario/Cat Peach.png
