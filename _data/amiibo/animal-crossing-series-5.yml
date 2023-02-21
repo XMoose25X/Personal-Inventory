@@ -1,290 +1,243 @@
-title: "Animal Crossing Series 5"
+title: Animal Crossing Series 5
 sort-order: 21
 characters:
-    - name: "Tom Nook"
-      owned: false
-      id: 401
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Tom Nook.png"
-
-    - name: "Timmy & Tommy"
-      owned: true
-      id: 402
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Timmy & Tommy.png"
-
-    - name: "Isabelle"
-      owned: false
-      id: 403
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Isabelle.png"
-
-    - name: "Orville"
-      owned: false
-      id: 404
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Orville.png"
-
-    - name: "Wilbur"
-      owned: false
-      id: 405
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Wilbur.png"
-
-    - name: "Blathers"
-      owned: false
-      id: 406
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Blathers.png"
-
-    - name: "Celeste"
-      owned: false
-      id: 407
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Celeste.png"
-
-    - name: "Mabel"
-      owned: true
-      id: 408
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Mabel.png"
-
-    - name: "Sable"
-      owned: false
-      id: 409
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Sable.png"
-
-    - name: "Label"
-      owned: false
-      id: 410
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Label.png"
-
-    - name: "K.K."
-      owned: false
-      id: 411
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/K.K..png"
-
-    - name: "C.J."
-      owned: false
-      id: 412
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/C.J..png"
-
-    - name: "Flick"
-      owned: false
-      id: 413
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Flick.png"
-
-    - name: "Daisy Mae"
-      owned: false
-      id: 414
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Daisy Mae.png"
-
-    - name: "Kicks"
-      owned: true
-      id: 415
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Kicks.png"
-
-    - name: "Saharah"
-      owned: true
-      id: 416
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Saharah.png"
-
-    - name: "Harvey"
-      owned: false
-      id: 417
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Harvey.png"
-
-    - name: "Gulliver"
-      owned: true
-      id: 418
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Gulliver.png"
-
-    - name: "Wisp"
-      owned: false
-      id: 419
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Wisp.png"
-
-    - name: "Lottie"
-      owned: false
-      id: 420
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Lottie.png"
-
-    - name: "Niko"
-      owned: false
-      id: 421
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Niko.png"
-
-    - name: "Wardell"
-      owned: true
-      id: 422
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Wardell.png"
-
-    - name: "Tom Nook"
-      owned: false
-      id: 423
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Tom Nook (Winter).png"
-
-    - name: "Isabelle"
-      owned: false
-      id: 424
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Isabelle (Winter).png"
-
-    - name: "Sherb"
-      owned: true
-      id: 425
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Sherb.png"
-
-    - name: "Megan"
-      owned: true
-      id: 426
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Megan.png"
-
-    - name: "Dom"
-      owned: true
-      id: 427
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Dom.png"
-
-    - name: "Audie"
-      owned: true
-      id: 428
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Audie.png"
-
-    - name: "Cyd"
-      owned: true
-      id: 429
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Cyd.png"
-
-    - name: "Judy"
-      owned: true
-      id: 430
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Judy.png"
-
-    - name: "Raymond"
-      owned: true
-      id: 431
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Raymond.png"
-
-    - name: "Reneigh"
-      owned: false
-      id: 432
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Reneigh.png"
-
-    - name: "Sasha"
-      owned: false
-      id: 433
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Sasha.png"
-
-    - name: "Ione"
-      owned: false
-      id: 434
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Ione.png"
-
-    - name: "Tiansheng"
-      owned: true
-      id: 435
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Tiansheng.png"
-
-    - name: "Shino"
-      owned: true
-      id: 436
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Shino.png"
-
-    - name: "Marlo"
-      owned: true
-      id: 437
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Marlo.png"
-
-    - name: "Petri"
-      owned: true
-      id: 438
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Petri.png"
-
-    - name: "Cephalobot"
-      owned: true
-      id: 439
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Cephalobot.png"
-
-    - name: "Quinn"
-      owned: false
-      id: 440
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Quinn.png"
-
-    - name: "Chabwick"
-      owned: false
-      id: 441
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Chabwick.png"
-
-    - name: "Zoe"
-      owned: false
-      id: 442
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Zoe.png"
-
-    - name: "Ace"
-      owned: true
-      id: 443
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Ace.png"
-
-    - name: "Rio"
-      owned: true
-      id: 444
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Rio.png"
-
-    - name: "Frett"
-      owned: false
-      id: 445
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Frett.png"
-
-    - name: "Azalea"
-      owned: true
-      id: 446
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Azalea.png"
-
-    - name: "Roswell"
-      owned: true
-      id: 447
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Roswell.png"
-
-    - name: "Faith"
-      owned: true
-      id: 448
-      release: 11/5/2021
-      image: "/assets/images/amiibo/animal-crossing-series-5/Faith.png"
+  - name: Tom Nook
+    owned: false
+    id: 401
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Tom Nook.png
+  - name: Timmy & Tommy
+    owned: true
+    id: 402
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Timmy & Tommy.png
+  - name: Isabelle
+    owned: false
+    id: 403
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Isabelle.png
+  - name: Orville
+    owned: false
+    id: 404
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Orville.png
+  - name: Wilbur
+    owned: false
+    id: 405
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Wilbur.png
+  - name: Blathers
+    owned: false
+    id: 406
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Blathers.png
+  - name: Celeste
+    owned: false
+    id: 407
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Celeste.png
+  - name: Mabel
+    owned: true
+    id: 408
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Mabel.png
+  - name: Sable
+    owned: false
+    id: 409
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Sable.png
+  - name: Label
+    owned: false
+    id: 410
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Label.png
+  - name: K.K.
+    owned: false
+    id: 411
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/K.K..png
+  - name: C.J.
+    owned: false
+    id: 412
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/C.J..png
+  - name: Flick
+    owned: false
+    id: 413
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Flick.png
+  - name: Daisy Mae
+    owned: false
+    id: 414
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Daisy Mae.png
+  - name: Kicks
+    owned: true
+    id: 415
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Kicks.png
+  - name: Saharah
+    owned: true
+    id: 416
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Saharah.png
+  - name: Harvey
+    owned: false
+    id: 417
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Harvey.png
+  - name: Gulliver
+    owned: true
+    id: 418
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Gulliver.png
+  - name: Wisp
+    owned: false
+    id: 419
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Wisp.png
+  - name: Lottie
+    owned: false
+    id: 420
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Lottie.png
+  - name: Niko
+    owned: false
+    id: 421
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Niko.png
+  - name: Wardell
+    owned: true
+    id: 422
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Wardell.png
+  - name: Tom Nook
+    owned: false
+    id: 423
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Tom Nook (Winter).png
+  - name: Isabelle
+    owned: false
+    id: 424
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Isabelle (Winter).png
+  - name: Sherb
+    owned: true
+    id: 425
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Sherb.png
+  - name: Megan
+    owned: true
+    id: 426
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Megan.png
+  - name: Dom
+    owned: true
+    id: 427
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Dom.png
+  - name: Audie
+    owned: true
+    id: 428
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Audie.png
+  - name: Cyd
+    owned: true
+    id: 429
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Cyd.png
+  - name: Judy
+    owned: true
+    id: 430
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Judy.png
+  - name: Raymond
+    owned: true
+    id: 431
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Raymond.png
+  - name: Reneigh
+    owned: false
+    id: 432
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Reneigh.png
+  - name: Sasha
+    owned: false
+    id: 433
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Sasha.png
+  - name: Ione
+    owned: true
+    id: 434
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Ione.png
+  - name: Tiansheng
+    owned: true
+    id: 435
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Tiansheng.png
+  - name: Shino
+    owned: true
+    id: 436
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Shino.png
+  - name: Marlo
+    owned: true
+    id: 437
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Marlo.png
+  - name: Petri
+    owned: true
+    id: 438
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Petri.png
+  - name: Cephalobot
+    owned: true
+    id: 439
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Cephalobot.png
+  - name: Quinn
+    owned: false
+    id: 440
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Quinn.png
+  - name: Chabwick
+    owned: false
+    id: 441
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Chabwick.png
+  - name: Zoe
+    owned: false
+    id: 442
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Zoe.png
+  - name: Ace
+    owned: true
+    id: 443
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Ace.png
+  - name: Rio
+    owned: true
+    id: 444
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Rio.png
+  - name: Frett
+    owned: true
+    id: 445
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Frett.png
+  - name: Azalea
+    owned: true
+    id: 446
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Azalea.png
+  - name: Roswell
+    owned: true
+    id: 447
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Roswell.png
+  - name: Faith
+    owned: true
+    id: 448
+    release: 11/5/2021
+    image: /assets/images/amiibo/animal-crossing-series-5/Faith.png
