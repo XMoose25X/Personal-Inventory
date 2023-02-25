@@ -1119,3 +1119,11 @@ games:
     genre:
       - Action
       - Platformer
+  - release: 02/08/2023
+    genre:
+      - Action
+      - Adventure
+      - First-Person
+      - Platformer
+    boxart: https://cdn.dekudeals.com/images/b601916addb914840ba6e3d57a1e1e137a5565f1/w500.jpg
+    name: Metroid Prime Remastered
