@@ -1114,7 +1114,7 @@ games:
       - Strategy
     boxart: /assets/images/nintendo-switch-games/disgaea-6-defiance-of-destiny-unrelenting-edition.jpg
   - release: 02/24/2023
-    boxart: https://cdn.dekudeals.com/images/a51bf1bab7681e933e2103f32874da505cdbaed6/w500.jpg
+    boxart: /assets/images/nintendo-switch-games/df34d6c2-db95-4c1d-b865-2d90402ff00d.jpeg
     name: Kirby’s Return to Dream Land Deluxe
     genre:
       - Action
@@ -1125,5 +1125,5 @@ games:
       - Adventure
       - First-Person
       - Platformer
-    boxart: https://cdn.dekudeals.com/images/b601916addb914840ba6e3d57a1e1e137a5565f1/w500.jpg
+    boxart: /assets/images/nintendo-switch-games/6ffe90cc-7463-47f1-afad-4508f6e942fa.jpeg
     name: Metroid Prime Remastered
