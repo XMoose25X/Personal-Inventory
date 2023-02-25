@@ -1113,3 +1113,9 @@ games:
       - Role-Playing
       - Strategy
     boxart: /assets/images/nintendo-switch-games/disgaea-6-defiance-of-destiny-unrelenting-edition.jpg
+  - release: 02/24/2023
+    boxart: https://cdn.dekudeals.com/images/a51bf1bab7681e933e2103f32874da505cdbaed6/w500.jpg
+    name: Kirby’s Return to Dream Land Deluxe
+    genre:
+      - Action
+      - Platformer
