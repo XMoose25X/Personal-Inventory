@@ -1,116 +1,98 @@
-title: "Splatoon"
+title: Splatoon
 sort-order: 6
 characters:
-    - name: "Inkling Girl"
-      owned: true
-      id: 1
-      release: 5/29/2015
-      image: "/assets/images/amiibo/splatoon/Inkling Girl.png"
-
-    - name: "Inkling Boy"
-      owned: true
-      id: 2
-      release: 5/29/2015
-      image: "/assets/images/amiibo/splatoon/Inkling Boy.png"
-
-    - name: "Inkling Squid"
-      owned: true
-      id: 3
-      release: 5/29/2015
-      image: "/assets/images/amiibo/splatoon/Inkling Squid.png"
-
-    - name: "Inkling Girl (Lime Green)"
-      owned: false
-      id: 4
-      release: 7/8/2016
-      image: "/assets/images/amiibo/splatoon/Inkling Girl (Lime Green).png"
-
-    - name: "Inkling Boy (Purple)"
-      owned: false
-      id: 5
-      release: 7/8/2016
-      image: "/assets/images/amiibo/splatoon/Inkling Boy (Purple).png"
-
-    - name: "Inkling Squid (Orange)"
-      owned: false
-      id: 6
-      release: 7/8/2016
-      image: "/assets/images/amiibo/splatoon/Inkling Squid (Orange).png"
-
-    - name: "Callie"
-      owned: true
-      id: 7
-      release: 7/8/2016
-      image: "/assets/images/amiibo/splatoon/Callie.png"
-
-    - name: "Marie"
-      owned: true
-      id: 8
-      release: 7/8/2016
-      image: "/assets/images/amiibo/splatoon/Marie.png"
-
-    - name: "Inkling Girl (Neon Pink)"
-      owned: true
-      id: 9
-      release: 7/21/2017
-      image: "/assets/images/amiibo/splatoon/Inkling Girl (Neon Pink).png"
-
-    - name: "Inkling Boy (Neon Green)"
-      owned: true
-      id: 10
-      release: 7/21/2017
-      image: "/assets/images/amiibo/splatoon/Inkling Boy (Neon Green).png"
-
-    - name: "Inkling Squid (Neon Purple)"
-      owned: true
-      id: 11
-      release: 7/21/2017
-      image: "/assets/images/amiibo/splatoon/Inkling Squid (Neon Purple).png"
-
-    - name: "Pearl"
-      owned: true
-      id: 12
-      release: 7/13/2018
-      image: "/assets/images/amiibo/splatoon/Pearl.png"
-
-    - name: "Marina"
-      owned: true
-      id: 13
-      release: 7/13/2018
-      image: "/assets/images/amiibo/splatoon/Marina.png"
-
-    - name: "Octoling Girl"
-      owned: false
-      id: 14
-      release: 12/7/2018
-      image: "/assets/images/amiibo/splatoon/Octoling Girl.png"
-
-    - name: "Octoling Boy"
-      owned: false
-      id: 15
-      release: 12/7/2018
-      image: "/assets/images/amiibo/splatoon/Octoling Boy.png"
-
-    - name: "Octoling Octopus"
-      owned: false
-      id: 16
-      release: 12/7/2018
-      image: "/assets/images/amiibo/splatoon/Octoling Octopus.png"
-
-    - name: "Inkling Girl (Yellow)"
-      owned: true
-      id: 17
-      release: 11/11/2022
-      image: "/assets/images/amiibo/splatoon/Inkling Girl (Yellow).png"
-
-    - name: "Octoling Boy (Blue)"
-      owned: true
-      id: 18
-      release: 11/11/2022
-      image: "/assets/images/amiibo/splatoon/Octoling Boy (Blue).png"
-
-    - name: "Smallfry"
-      owned: true
-      id: 19
-      release: 11/11/2022
-      image: "/assets/images/amiibo/splatoon/Smallfry.png"
+  - name: Inkling Girl
+    owned: true
+    id: 1
+    release: 5/29/2015
+    image: /assets/images/amiibo/splatoon/Inkling Girl.png
+  - name: Inkling Boy
+    owned: true
+    id: 2
+    release: 5/29/2015
+    image: /assets/images/amiibo/splatoon/Inkling Boy.png
+  - name: Inkling Squid
+    owned: true
+    id: 3
+    release: 5/29/2015
+    image: /assets/images/amiibo/splatoon/Inkling Squid.png
+  - name: Inkling Girl (Lime Green)
+    owned: false
+    id: 4
+    release: 7/8/2016
+    image: /assets/images/amiibo/splatoon/Inkling Girl (Lime Green).png
+  - name: Inkling Boy (Purple)
+    owned: false
+    id: 5
+    release: 7/8/2016
+    image: /assets/images/amiibo/splatoon/Inkling Boy (Purple).png
+  - name: Inkling Squid (Orange)
+    owned: false
+    id: 6
+    release: 7/8/2016
+    image: /assets/images/amiibo/splatoon/Inkling Squid (Orange).png
+  - name: Callie
+    owned: true
+    id: 7
+    release: 7/8/2016
+    image: /assets/images/amiibo/splatoon/Callie.png
+  - name: Marie
+    owned: true
+    id: 8
+    release: 7/8/2016
+    image: /assets/images/amiibo/splatoon/Marie.png
+  - name: Inkling Girl (Neon Pink)
+    owned: true
+    id: 9
+    release: 7/21/2017
+    image: /assets/images/amiibo/splatoon/Inkling Girl (Neon Pink).png
+  - name: Inkling Boy (Neon Green)
+    owned: true
+    id: 10
+    release: 7/21/2017
+    image: /assets/images/amiibo/splatoon/Inkling Boy (Neon Green).png
+  - name: Inkling Squid (Neon Purple)
+    owned: true
+    id: 11
+    release: 7/21/2017
+    image: /assets/images/amiibo/splatoon/Inkling Squid (Neon Purple).png
+  - name: Pearl
+    owned: true
+    id: 12
+    release: 7/13/2018
+    image: /assets/images/amiibo/splatoon/Pearl.png
+  - name: Marina
+    owned: true
+    id: 13
+    release: 7/13/2018
+    image: /assets/images/amiibo/splatoon/Marina.png
+  - name: Octoling Girl
+    owned: true
+    id: 14
+    release: 12/7/2018
+    image: /assets/images/amiibo/splatoon/Octoling Girl.png
+  - name: Octoling Boy
+    owned: true
+    id: 15
+    release: 12/7/2018
+    image: /assets/images/amiibo/splatoon/Octoling Boy.png
+  - name: Octoling Octopus
+    owned: true
+    id: 16
+    release: 12/7/2018
+    image: /assets/images/amiibo/splatoon/Octoling Octopus.png
+  - name: Inkling Girl (Yellow)
+    owned: true
+    id: 17
+    release: 11/11/2022
+    image: /assets/images/amiibo/splatoon/Inkling Girl (Yellow).png
+  - name: Octoling Boy (Blue)
+    owned: true
+    id: 18
+    release: 11/11/2022
+    image: /assets/images/amiibo/splatoon/Octoling Boy (Blue).png
+  - name: Smallfry
+    owned: true
+    id: 19
+    release: 11/11/2022
+    image: /assets/images/amiibo/splatoon/Smallfry.png
