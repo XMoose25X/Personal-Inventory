@@ -626,7 +626,7 @@ games:
     name: Octopath Traveler II
     genre:
       - Role-Playing
-    boxart: https://cdn.dekudeals.com/images/7ab9e8c5c20f2fe187f21874547c7b8ed1023927/w500.jpg
+    boxart: /assets/images/nintendo-switch-games/octopath-traveller-ii.jpg
   - name: Olympic Games Tokyo 2020 – The Official Video Game
     release: 7/21/2021
     genre:
