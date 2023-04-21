@@ -1,38 +1,38 @@
-title: "Super Nintendo World"
+title: Super Nintendo World
 sort-order: 7
 characters:
-    - name: "Mario Power-Up Band"
-      owned: false
-      id: 1
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Mario Power-Up Band.png"
-
-    - name: "Luigi Power-Up Band"
-      owned: false
-      id: 2
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Luigi Power-Up Band.png"
-
-    - name: "Peach Power-Up Band"
-      owned: false
-      id: 3
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Peach Power-Up Band.png"
-
-    - name: "Daisy Power-Up Band"
-      owned: false
-      id: 4
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Daisy Power-Up Band.png"
-
-    - name: "Toad Power-Up Band"
-      owned: false
-      id: 5
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Toad Power-Up Band.png"
-
-    - name: "Yoshi Power-Up Band"
-      owned: false
-      id: 6
-      release: 2/4/2021
-      image: "/assets/images/amiibo/super-nintendo-world/Yoshi Power-Up Band.png"
+  - name: Mario Power-Up Band
+    owned: false
+    id: 1
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Mario Power-Up Band.png
+  - name: Luigi Power-Up Band
+    owned: false
+    id: 2
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Luigi Power-Up Band.png
+  - name: Peach Power-Up Band
+    owned: false
+    id: 3
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Peach Power-Up Band.png
+  - name: Daisy Power-Up Band
+    owned: false
+    id: 4
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Daisy Power-Up Band.png
+  - name: Toad Power-Up Band
+    owned: false
+    id: 5
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Toad Power-Up Band.png
+  - name: Yoshi Power-Up Band
+    owned: false
+    id: 6
+    release: 2/4/2021
+    image: /assets/images/amiibo/super-nintendo-world/Yoshi Power-Up Band.png
+  - release: 03/18/2023
+    name: Gold Power-Up Band
+    id: 4
+    image: /assets/images/amiibo/super-nintendo-world/gold-power-up-band.png
+    owned: false
