@@ -77,7 +77,7 @@ characters:
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Redd.png
   - name: Zipper
-    owned: false
+    owned: true
     id: 316
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Zipper.png
@@ -102,7 +102,7 @@ characters:
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Mott.png
   - name: Mallary
-    owned: false
+    owned: true
     id: 321
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Mallary.png
@@ -362,7 +362,7 @@ characters:
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Doc.png
   - name: Pompom
-    owned: false
+    owned: true
     id: 373
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Pompom.png
@@ -382,7 +382,7 @@ characters:
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Rizzo.png
   - name: Sydney
-    owned: false
+    owned: true
     id: 377
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Sydney.png
@@ -497,7 +497,7 @@ characters:
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Twiggy.png
   - name: Robin
-    owned: false
+    owned: true
     id: 400
     release: 6/10/2016
     image: /assets/images/amiibo/animal-crossing-series-4/Robin.png
