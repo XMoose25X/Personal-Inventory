@@ -1,602 +1,503 @@
-title: "Animal Crossing Series 3"
+title: Animal Crossing Series 3
 sort-order: 19
 characters:
-    - name: "Rover"
-      owned: false
-      id: 201
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Rover.png"
-
-    - name: "Blathers"
-      owned: true
-      id: 202
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Blathers.png"
-
-    - name: "Tom Nook"
-      owned: false
-      id: 203
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Tom Nook.png"
-
-    - name: "Pelly"
-      owned: false
-      id: 204
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Pelly.png"
-
-    - name: "Phyllis"
-      owned: false
-      id: 205
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Phyllis.png"
-
-    - name: "Pete"
-      owned: true
-      id: 206
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Pete.png"
-
-    - name: "Mabel"
-      owned: false
-      id: 207
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Mabel.png"
-
-    - name: "Leif"
-      owned: true
-      id: 208
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Leif.png"
-
-    - name: "Wendell"
-      owned: false
-      id: 209
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Wendell.png"
-
-    - name: "Cyrus"
-      owned: true
-      id: 210
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Cyrus.png"
-
-    - name: "Grams"
-      owned: false
-      id: 211
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Grams.png"
-
-    - name: "Timmy"
-      owned: true
-      id: 212
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Timmy.png"
-
-    - name: "Digby"
-      owned: false
-      id: 213
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Digby.png"
-
-    - name: "Don"
-      owned: true
-      id: 214
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Don.png"
-
-    - name: "Isabelle"
-      owned: false
-      id: 215
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Isabelle.png"
-
-    - name: "Franklin"
-      owned: false
-      id: 216
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Franklin.png"
-
-    - name: "Jingle"
-      owned: false
-      id: 217
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Jingle.png"
-
-    - name: "Lily"
-      owned: false
-      id: 218
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Lily.png"
-
-    - name: "Anchovy"
-      owned: true
-      id: 219
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Anchovy.png"
-
-    - name: "Tabby"
-      owned: false
-      id: 220
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Tabby.png"
-
-    - name: "Kody"
-      owned: false
-      id: 221
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Kody.png"
-
-    - name: "Miranda"
-      owned: false
-      id: 222
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Miranda.png"
-
-    - name: "Del"
-      owned: true
-      id: 223
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Del.png"
-
-    - name: "Paula"
-      owned: false
-      id: 224
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Paula.png"
-
-    - name: "Ken"
-      owned: false
-      id: 225
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Ken.png"
-
-    - name: "Mitzi"
-      owned: false
-      id: 226
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Mitzi.png"
-
-    - name: "Rodeo"
-      owned: true
-      id: 227
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Rodeo.png"
-
-    - name: "Bubbles"
-      owned: false
-      id: 228
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Bubbles.png"
-
-    - name: "Cousteau"
-      owned: true
-      id: 229
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Cousteau.png"
-
-    - name: "Velma"
-      owned: true
-      id: 230
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Velma.png"
-
-    - name: "Elvis"
-      owned: true
-      id: 231
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Elvis.png"
-
-    - name: "Canberra"
-      owned: false
-      id: 232
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Canberra.png"
-
-    - name: "Colton"
-      owned: true
-      id: 233
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Colton.png"
-
-    - name: "Marina"
-      owned: true
-      id: 234
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Marina.png"
-
-    - name: "Spork"
-      owned: false
-      id: 235
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Spork.png"
-
-    - name: "Freckles"
-      owned: false
-      id: 236
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Freckles.png"
-
-    - name: "Bam"
-      owned: false
-      id: 237
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Bam.png"
-
-    - name: "Friga"
-      owned: true
-      id: 238
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Friga.png"
-
-    - name: "Ricky"
-      owned: false
-      id: 239
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Ricky.png"
-
-    - name: "Deirdre"
-      owned: true
-      id: 240
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Deirdre.png"
-
-    - name: "Hans"
-      owned: false
-      id: 241
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Hans.png"
-
-    - name: "Chevre"
-      owned: true
-      id: 242
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Chevre.png"
-
-    - name: "Drago"
-      owned: false
-      id: 243
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Drago.png"
-
-    - name: "Tangy"
-      owned: true
-      id: 244
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Tangy.png"
-
-    - name: "Mac"
-      owned: true
-      id: 245
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Mac.png"
-
-    - name: "Eloise"
-      owned: false
-      id: 246
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Eloise.png"
-
-    - name: "Wart Jr."
-      owned: false
-      id: 247
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Wart Jr..png"
-
-    - name: "Hazel"
-      owned: true
-      id: 248
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Hazel.png"
-
-    - name: "Beardo"
-      owned: true
-      id: 249
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Beardo.png"
-
-    - name: "Ava"
-      owned: false
-      id: 250
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Ava.png"
-
-    - name: "Chester"
-      owned: true
-      id: 251
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Chester.png"
-
-    - name: "Merry"
-      owned: false
-      id: 252
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Merry.png"
-
-    - name: "Genji"
-      owned: true
-      id: 253
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Genji.png"
-
-    - name: "Greta"
-      owned: false
-      id: 254
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Greta.png"
-
-    - name: "Wolfgang"
-      owned: true
-      id: 255
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Wolfgang.png"
-
-    - name: "Diva"
-      owned: false
-      id: 256
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Diva.png"
-
-    - name: "Klaus"
-      owned: true
-      id: 257
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Klaus.png"
-
-    - name: "Daisy"
-      owned: true
-      id: 258
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Daisy.png"
-
-    - name: "Stinky"
-      owned: true
-      id: 259
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Stinky.png"
-
-    - name: "Tammi"
-      owned: false
-      id: 260
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Tammi.png"
-
-    - name: "Tucker"
-      owned: true
-      id: 261
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Tucker.png"
-
-    - name: "Blanche"
-      owned: true
-      id: 262
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Blanche.png"
-
-    - name: "Gaston"
-      owned: false
-      id: 263
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Gaston.png"
-
-    - name: "Marshal"
-      owned: false
-      id: 264
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Marshal.png"
-
-    - name: "Gala"
-      owned: false
-      id: 265
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Gala.png"
-
-    - name: "Joey"
-      owned: false
-      id: 266
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Joey.png"
-
-    - name: "Pippy"
-      owned: true
-      id: 267
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Pippy.png"
-
-    - name: "Buck"
-      owned: false
-      id: 268
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Buck.png"
-
-    - name: "Bree"
-      owned: false
-      id: 269
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Bree.png"
-
-    - name: "Rooney"
-      owned: false
-      id: 270
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Rooney.png"
-
-    - name: "Curlos"
-      owned: true
-      id: 271
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Curlos.png"
-
-    - name: "Skye"
-      owned: false
-      id: 272
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Skye.png"
-
-    - name: "Moe"
-      owned: false
-      id: 273
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Moe.png"
-
-    - name: "Flora"
-      owned: true
-      id: 274
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Flora.png"
-
-    - name: "Hamlet"
-      owned: true
-      id: 275
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Hamlet.png"
-
-    - name: "Astrid"
-      owned: false
-      id: 276
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Astrid.png"
-
-    - name: "Monty"
-      owned: true
-      id: 277
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Monty.png"
-
-    - name: "Dora"
-      owned: true
-      id: 278
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Dora.png"
-
-    - name: "Biskit"
-      owned: true
-      id: 279
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Biskit.png"
-
-    - name: "Victoria"
-      owned: false
-      id: 280
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Victoria.png"
-
-    - name: "Lyman"
-      owned: true
-      id: 281
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Lyman.png"
-
-    - name: "Violet"
-      owned: false
-      id: 282
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Violet.png"
-
-    - name: "Frank"
-      owned: true
-      id: 283
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Frank.png"
-
-    - name: "Chadder"
-      owned: false
-      id: 284
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Chadder.png"
-
-    - name: "Merengue"
-      owned: false
-      id: 285
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Merengue.png"
-
-    - name: "Cube"
-      owned: false
-      id: 286
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Cube.png"
-
-    - name: "Claudia"
-      owned: true
-      id: 287
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Claudia.png"
-
-    - name: "Curly"
-      owned: false
-      id: 288
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Curly.png"
-
-    - name: "Boomer"
-      owned: false
-      id: 289
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Boomer.png"
-
-    - name: "Caroline"
-      owned: false
-      id: 290
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Caroline.png"
-
-    - name: "Sparro"
-      owned: true
-      id: 291
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Sparro.png"
-
-    - name: "Baabara"
-      owned: false
-      id: 292
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Baabara.png"
-
-    - name: "Rolf"
-      owned: true
-      id: 293
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Rolf.png"
-
-    - name: "Maple"
-      owned: false
-      id: 294
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Maple.png"
-
-    - name: "Antonio"
-      owned: true
-      id: 295
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Antonio.png"
-
-    - name: "Soleil"
-      owned: false
-      id: 296
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Soleil.png"
-
-    - name: "Apollo"
-      owned: true
-      id: 297
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Apollo.png"
-
-    - name: "Derwin"
-      owned: false
-      id: 298
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Derwin.png"
-
-    - name: "Francine"
-      owned: true
-      id: 299
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Francine.png"
-
-    - name: "Chrissy"
-      owned: false
-      id: 300
-      release: 3/18/2016
-      image: "/assets/images/amiibo/animal-crossing-series-3/Chrissy.png"
+  - name: Rover
+    owned: false
+    id: 201
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Rover.png
+  - name: Blathers
+    owned: true
+    id: 202
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Blathers.png
+  - name: Tom Nook
+    owned: false
+    id: 203
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Tom Nook.png
+  - name: Pelly
+    owned: false
+    id: 204
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Pelly.png
+  - name: Phyllis
+    owned: false
+    id: 205
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Phyllis.png
+  - name: Pete
+    owned: true
+    id: 206
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Pete.png
+  - name: Mabel
+    owned: false
+    id: 207
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Mabel.png
+  - name: Leif
+    owned: true
+    id: 208
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Leif.png
+  - name: Wendell
+    owned: false
+    id: 209
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Wendell.png
+  - name: Cyrus
+    owned: true
+    id: 210
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Cyrus.png
+  - name: Grams
+    owned: false
+    id: 211
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Grams.png
+  - name: Timmy
+    owned: true
+    id: 212
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Timmy.png
+  - name: Digby
+    owned: false
+    id: 213
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Digby.png
+  - name: Don
+    owned: true
+    id: 214
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Don.png
+  - name: Isabelle
+    owned: false
+    id: 215
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Isabelle.png
+  - name: Franklin
+    owned: true
+    id: 216
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Franklin.png
+  - name: Jingle
+    owned: false
+    id: 217
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Jingle.png
+  - name: Lily
+    owned: false
+    id: 218
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Lily.png
+  - name: Anchovy
+    owned: true
+    id: 219
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Anchovy.png
+  - name: Tabby
+    owned: false
+    id: 220
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Tabby.png
+  - name: Kody
+    owned: false
+    id: 221
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Kody.png
+  - name: Miranda
+    owned: false
+    id: 222
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Miranda.png
+  - name: Del
+    owned: true
+    id: 223
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Del.png
+  - name: Paula
+    owned: false
+    id: 224
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Paula.png
+  - name: Ken
+    owned: false
+    id: 225
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Ken.png
+  - name: Mitzi
+    owned: false
+    id: 226
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Mitzi.png
+  - name: Rodeo
+    owned: true
+    id: 227
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Rodeo.png
+  - name: Bubbles
+    owned: false
+    id: 228
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Bubbles.png
+  - name: Cousteau
+    owned: true
+    id: 229
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Cousteau.png
+  - name: Velma
+    owned: true
+    id: 230
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Velma.png
+  - name: Elvis
+    owned: true
+    id: 231
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Elvis.png
+  - name: Canberra
+    owned: false
+    id: 232
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Canberra.png
+  - name: Colton
+    owned: true
+    id: 233
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Colton.png
+  - name: Marina
+    owned: true
+    id: 234
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Marina.png
+  - name: Spork
+    owned: false
+    id: 235
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Spork.png
+  - name: Freckles
+    owned: false
+    id: 236
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Freckles.png
+  - name: Bam
+    owned: false
+    id: 237
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Bam.png
+  - name: Friga
+    owned: true
+    id: 238
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Friga.png
+  - name: Ricky
+    owned: false
+    id: 239
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Ricky.png
+  - name: Deirdre
+    owned: true
+    id: 240
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Deirdre.png
+  - name: Hans
+    owned: false
+    id: 241
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Hans.png
+  - name: Chevre
+    owned: true
+    id: 242
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Chevre.png
+  - name: Drago
+    owned: false
+    id: 243
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Drago.png
+  - name: Tangy
+    owned: true
+    id: 244
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Tangy.png
+  - name: Mac
+    owned: true
+    id: 245
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Mac.png
+  - name: Eloise
+    owned: false
+    id: 246
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Eloise.png
+  - name: Wart Jr.
+    owned: false
+    id: 247
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Wart Jr..png
+  - name: Hazel
+    owned: true
+    id: 248
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Hazel.png
+  - name: Beardo
+    owned: true
+    id: 249
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Beardo.png
+  - name: Ava
+    owned: false
+    id: 250
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Ava.png
+  - name: Chester
+    owned: true
+    id: 251
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Chester.png
+  - name: Merry
+    owned: false
+    id: 252
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Merry.png
+  - name: Genji
+    owned: true
+    id: 253
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Genji.png
+  - name: Greta
+    owned: false
+    id: 254
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Greta.png
+  - name: Wolfgang
+    owned: true
+    id: 255
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Wolfgang.png
+  - name: Diva
+    owned: false
+    id: 256
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Diva.png
+  - name: Klaus
+    owned: true
+    id: 257
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Klaus.png
+  - name: Daisy
+    owned: true
+    id: 258
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Daisy.png
+  - name: Stinky
+    owned: true
+    id: 259
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Stinky.png
+  - name: Tammi
+    owned: false
+    id: 260
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Tammi.png
+  - name: Tucker
+    owned: true
+    id: 261
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Tucker.png
+  - name: Blanche
+    owned: true
+    id: 262
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Blanche.png
+  - name: Gaston
+    owned: false
+    id: 263
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Gaston.png
+  - name: Marshal
+    owned: false
+    id: 264
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Marshal.png
+  - name: Gala
+    owned: false
+    id: 265
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Gala.png
+  - name: Joey
+    owned: false
+    id: 266
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Joey.png
+  - name: Pippy
+    owned: true
+    id: 267
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Pippy.png
+  - name: Buck
+    owned: false
+    id: 268
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Buck.png
+  - name: Bree
+    owned: false
+    id: 269
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Bree.png
+  - name: Rooney
+    owned: false
+    id: 270
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Rooney.png
+  - name: Curlos
+    owned: true
+    id: 271
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Curlos.png
+  - name: Skye
+    owned: false
+    id: 272
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Skye.png
+  - name: Moe
+    owned: false
+    id: 273
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Moe.png
+  - name: Flora
+    owned: true
+    id: 274
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Flora.png
+  - name: Hamlet
+    owned: true
+    id: 275
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Hamlet.png
+  - name: Astrid
+    owned: false
+    id: 276
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Astrid.png
+  - name: Monty
+    owned: true
+    id: 277
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Monty.png
+  - name: Dora
+    owned: true
+    id: 278
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Dora.png
+  - name: Biskit
+    owned: true
+    id: 279
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Biskit.png
+  - name: Victoria
+    owned: false
+    id: 280
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Victoria.png
+  - name: Lyman
+    owned: true
+    id: 281
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Lyman.png
+  - name: Violet
+    owned: false
+    id: 282
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Violet.png
+  - name: Frank
+    owned: true
+    id: 283
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Frank.png
+  - name: Chadder
+    owned: false
+    id: 284
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Chadder.png
+  - name: Merengue
+    owned: false
+    id: 285
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Merengue.png
+  - name: Cube
+    owned: false
+    id: 286
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Cube.png
+  - name: Claudia
+    owned: true
+    id: 287
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Claudia.png
+  - name: Curly
+    owned: false
+    id: 288
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Curly.png
+  - name: Boomer
+    owned: false
+    id: 289
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Boomer.png
+  - name: Caroline
+    owned: false
+    id: 290
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Caroline.png
+  - name: Sparro
+    owned: true
+    id: 291
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Sparro.png
+  - name: Baabara
+    owned: false
+    id: 292
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Baabara.png
+  - name: Rolf
+    owned: true
+    id: 293
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Rolf.png
+  - name: Maple
+    owned: false
+    id: 294
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Maple.png
+  - name: Antonio
+    owned: true
+    id: 295
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Antonio.png
+  - name: Soleil
+    owned: false
+    id: 296
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Soleil.png
+  - name: Apollo
+    owned: true
+    id: 297
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Apollo.png
+  - name: Derwin
+    owned: false
+    id: 298
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Derwin.png
+  - name: Francine
+    owned: true
+    id: 299
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Francine.png
+  - name: Chrissy
+    owned: false
+    id: 300
+    release: 3/18/2016
+    image: /assets/images/amiibo/animal-crossing-series-3/Chrissy.png
