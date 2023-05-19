@@ -32,7 +32,7 @@ characters:
     release: 12/2/2016
     image: /assets/images/amiibo/zelda/Toon Zelda.png
   - name: Link (Twilight Princess)
-    owned: false
+    owned: true
     id: 7
     release: 6/23/2017
     image: /assets/images/amiibo/zelda/Link (Twilight Princess).png
@@ -96,3 +96,8 @@ characters:
     id: 19
     release: 11/10/2017
     image: /assets/images/amiibo/zelda/Urbosa (Gerudo Champion).png
+  - name: Link (Tears of the Kingdom)
+    owned: true
+    id: 20
+    release: 05/12/2023
+    image: /assets/images/amiibo/zelda/Link (Tears of the Kingdom).png

@@ -562,13 +562,13 @@ characters:
     - name: "Pyra"
       owned: false
       id: 93
-      release: 12/31/2023
+      release: 07/21/2023
       image: "/assets/images/amiibo/super-smash-brothers/Pyra.png"
 
     - name: "Mythra"
       owned: false
       id: 94
-      release: 12/31/2023
+      release: 07/21/2023
       image: "/assets/images/amiibo/super-smash-brothers/Mythra.png"
 
     - name: "Sora"

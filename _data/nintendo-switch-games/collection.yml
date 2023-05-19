@@ -1117,9 +1117,9 @@ games:
     genre:
       - Role-Playing
       - Strategy
-    boxart: /assets/images/nintendo-switch-games/disgaea-6-defiance-of-destiny-unrelenting-edition.jpg
+    boxart: /assets/images/nintendo-switch-games/Disgaea 6 Defiance of Destiny - Unrelenting Edition.jpg
   - release: 02/24/2023
-    boxart: /assets/images/nintendo-switch-games/df34d6c2-db95-4c1d-b865-2d90402ff00d.jpeg
+    boxart: /assets/images/nintendo-switch-games/Kirbys Return To DreamLand Deluxe.jpg
     name: Kirby’s Return to Dream Land Deluxe
     genre:
       - Action
@@ -1130,5 +1130,19 @@ games:
       - Adventure
       - First-Person
       - Platformer
-    boxart: /assets/images/nintendo-switch-games/6ffe90cc-7463-47f1-afad-4508f6e942fa.jpeg
+    boxart: /assets/images/nintendo-switch-games/Metroid Prime Remastered.jpg
     name: Metroid Prime Remastered
+  - release: 05/23/2023
+    genre:
+      - Action
+      - Adventure
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the Kingdom.jpg
+    name: "The Legend of Zelda: Tears of the Kingdom"
+  - release: 05/23/2023
+    genre:
+      - Action
+      - Adventure
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the Kingdom - Collector's Edition.jpg
+    name: "The Legend of Zelda: Tears of the Kingdom Collector's Edition"
