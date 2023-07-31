@@ -1,578 +1,483 @@
-title: "Super Smash Brothers"
+title: Super Smash Brothers
 sort-order: 1
 characters:
-    - name: "Mario"
-      owned: true
-      id: 1
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Mario.png"
-
-    - name: "Donkey Kong"
-      owned: true
-      id: 2
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Donkey Kong.png"
-
-    - name: "Link"
-      owned: true
-      id: 3
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Link.png"
-
-    - name: "Samus"
-      owned: true
-      id: 4
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Samus.png"
-
-    - name: "Dark Samus"
-      owned: true
-      id: 5
-      release: 1/17/2020
-      image: "/assets/images/amiibo/super-smash-brothers/Dark Samus.png"
-
-    - name: "Yoshi"
-      owned: true
-      id: 6
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Yoshi.png"
-
-    - name: "Kirby"
-      owned: true
-      id: 7
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Kirby.png"
-
-    - name: "Fox"
-      owned: true
-      id: 8
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Fox.png"
-
-    - name: "Pikachu"
-      owned: true
-      id: 9
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Pikachu.png"
-
-    - name: "Luigi"
-      owned: true
-      id: 10
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Luigi.png"
-
-    - name: "Ness"
-      owned: true
-      id: 11
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Ness.png"
-
-    - name: "Captain Falcon"
-      owned: true
-      id: 12
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Captain Falcon.png"
-
-    - name: "Jigglypuff"
-      owned: true
-      id: 13
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Jigglypuff.png"
-
-    - name: "Peach"
-      owned: true
-      id: 14
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Peach.png"
-
-    - name: "Daisy"
-      owned: true
-      id: 15
-      release: 4/12/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Daisy.png"
-
-    - name: "Bowser"
-      owned: true
-      id: 16
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Bowser.png"
-
-    - name: "Ice Climbers"
-      owned: true
-      id: 17
-      release: 2/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Ice Climbers.png"
-
-    - name: "Sheik"
-      owned: true
-      id: 18
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Sheik.png"
-
-    - name: "Zelda"
-      owned: true
-      id: 19
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Zelda.png"
-
-    - name: "Dr. Mario"
-      owned: true
-      id: 20
-      release: 9/11/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Dr. Mario.png"
-
-    - name: "Pichu"
-      owned: true
-      id: 21
-      release: 7/26/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Pichu.png"
-
-    - name: "Falco"
-      owned: true
-      id: 22
-      release: 11/20/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Falco.png"
-
-    - name: "Marth"
-      owned: true
-      id: 23
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Marth.png"
-
-    - name: "Lucina"
-      owned: true
-      id: 24
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Lucina.png"
-
-    - name: "Young Link"
-      owned: true
-      id: 25
-      release: 4/12/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Young Link.png"
-
-    - name: "Ganondorf"
-      owned: true
-      id: 26
-      release: 9/11/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Ganondorf.png"
-
-    - name: "Mewtwo"
-      owned: true
-      id: 27
-      release: 11/13/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mewtwo.png"
-
-    - name: "Roy"
-      owned: true
-      id: 28
-      release: 3/18/2016
-      image: "/assets/images/amiibo/super-smash-brothers/Roy.png"
-
-    - name: "Chrom"
-      owned: true
-      id: 29
-      release: 11/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Chrom.png"
-
-    - name: "Mr. Game & Watch"
-      owned: true
-      id: 30
-      release: 9/25/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mr. Game and Watch.png"
-
-    - name: "Meta Knight"
-      owned: true
-      id: 31
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Meta Knight.png"
-
-    - name: "Pit"
-      owned: true
-      id: 32
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Pit.png"
-
-    - name: "Dark Pit"
-      owned: true
-      id: 33
-      release: 7/31/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Dark Pit.png"
-
-    - name: "Zero Suit Samus"
-      owned: true
-      id: 34
-      release: 9/11/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Zero Suit Samus.png"
-
-    - name: "Wario"
-      owned: true
-      id: 35
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Wario.png"
-
-    - name: "Snake"
-      owned: true
-      id: 36
-      release: 9/20/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Snake.png"
-
-    - name: "Ike"
-      owned: true
-      id: 37
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Ike.png"
-
-    - name: "Squirtle"
-      owned: true
-      id: 38
-      release: 9/20/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Squirtle.png"
-
-    - name: "Ivysaur"
-      owned: true
-      id: 39
-      release: 9/20/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Ivysaur.png"
-
-    - name: "Charizard"
-      owned: true
-      id: 40
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Charizard.png"
-
-    - name: "Diddy Kong"
-      owned: true
-      id: 41
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Diddy Kong.png"
-
-    - name: "Lucas"
-      owned: true
-      id: 42
-      release: 1/22/2016
-      image: "/assets/images/amiibo/super-smash-brothers/Lucas.png"
-
-    - name: "Sonic"
-      owned: true
-      id: 43
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Sonic.png"
-
-    - name: "King Dedede"
-      owned: true
-      id: 44
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/King Dedede.png"
-
-    - name: "Olimar"
-      owned: true
-      id: 45
-      release: 9/11/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Olimar.png"
-
-    - name: "Lucario"
-      owned: true
-      id: 46
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Lucario.png"
-
-    - name: "R.O.B."
-      owned: true
-      id: 47
-      release: 9/25/2015
-      image: "/assets/images/amiibo/super-smash-brothers/R.O.B..png"
-
-    - name: "R.O.B. (Japan)"
-      owned: true
-      id: 48
-      release: 3/18/2016
-      image: "/assets/images/amiibo/super-smash-brothers/R.O.B. (Japan).png"
-
-    - name: "Toon Link"
-      owned: true
-      id: 49
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Toon Link.png"
-
-    - name: "Wolf"
-      owned: true
-      id: 50
-      release: 12/7/2018
-      image: "/assets/images/amiibo/super-smash-brothers/Wolf.png"
-
-    - name: "Villager"
-      owned: true
-      id: 51
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Villager.png"
-
-    - name: "Mega Man"
-      owned: true
-      id: 52
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mega Man.png"
-
-    - name: "Mega Man (Gold)"
-      owned: false
-      id: 53
-      release: 2/23/2016
-      image: "/assets/images/amiibo/super-smash-brothers/Mega Man (Gold).png"
-
-    - name: "Wii Fit Trainer"
-      owned: true
-      id: 54
-      release: 11/21/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Wii Fit Trainer.png"
-
-    - name: "Rosalina"
-      owned: true
-      id: 55
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Rosalina.png"
-
-    - name: "Little Mac"
-      owned: true
-      id: 56
-      release: 12/14/2014
-      image: "/assets/images/amiibo/super-smash-brothers/Little Mac.png"
-
-    - name: "Greninja"
-      owned: true
-      id: 57
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Greninja.png"
-
-    - name: "Mii Brawler"
-      owned: true
-      id: 58
-      release: 11/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mii Brawler.png"
-
-    - name: "Mii Swordfighter"
-      owned: true
-      id: 59
-      release: 11/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mii Swordfighter.png"
-
-    - name: "Mii Gunner"
-      owned: true
-      id: 60
-      release: 11/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Mii Gunner.png"
-
-    - name: "Palutena"
-      owned: true
-      id: 61
-      release: 7/24/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Palutena.png"
-
-    - name: "Pacman"
-      owned: true
-      id: 62
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Pacman.png"
-
-    - name: "Robin"
-      owned: true
-      id: 63
-      release: 5/29/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Robin.png"
-
-    - name: "Shulk"
-      owned: true
-      id: 64
-      release: 2/1/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Shulk.png"
-
-    - name: "Bowser Jr."
-      owned: true
-      id: 65
-      release: 9/11/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Bowser Jr..png"
-
-    - name: "Duck Hunt"
-      owned: true
-      id: 66
-      release: 9/25/2015
-      image: "/assets/images/amiibo/super-smash-brothers/Duck Hunt.png"
-
-    - name: "Ryu"
-      owned: true
-      id: 67
-      release: 3/18/2016
-      image: "/assets/images/amiibo/super-smash-brothers/Ryu.png"
-
-    - name: "Ken"
-      owned: true
-      id: 68
-      release: 4/12/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Ken.png"
-
-    - name: "Cloud"
-      owned: true
-      id: 69
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Cloud.png"
-
-    - name: "Cloud (Player 2)"
-      owned: true
-      id: 70
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Cloud (Player 2).png"
-
-    - name: "Corrin"
-      owned: true
-      id: 71
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Corrin.png"
-
-    - name: "Corrin (Player 2)"
-      owned: true
-      id: 72
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Corrin (Player 2).png"
-
-    - name: "Bayonetta"
-      owned: true
-      id: 73
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Bayonetta.png"
-
-    - name: "Bayonetta (Player 2)"
-      owned: true
-      id: 74
-      release: 7/21/2017
-      image: "/assets/images/amiibo/super-smash-brothers/Bayonetta (Player 2).png"
-
-    - name: "Inkling"
-      owned: true
-      id: 75
-      release: 12/7/2018
-      image: "/assets/images/amiibo/super-smash-brothers/Inkling.png"
-
-    - name: "Ridley"
-      owned: true
-      id: 76
-      release: 12/7/2018
-      image: "/assets/images/amiibo/super-smash-brothers/Ridley.png"
-
-    - name: "Pokémon Trainer"
-      owned: true
-      id: 77
-      release: 7/26/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Pokémon Trainer.png"
-
-    - name: "Simon"
-      owned: true
-      id: 77
-      release: 11/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Simon.png"
-
-    - name: "Richter"
-      owned: true
-      id: 78
-      release: 1/17/2020
-      image: "/assets/images/amiibo/super-smash-brothers/Richter.png"
-
-    - name: "King K. Rool"
-      owned: true
-      id: 79
-      release: 2/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/King K. Rool.png"
-
-    - name: "Isabelle"
-      owned: true
-      id: 80
-      release: 7/26/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Isabelle.png"
-
-    - name: "Incineroar"
-      owned: true
-      id: 81
-      release: 11/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Incineroar.png"
-
-    - name: "Piranha Plant"
-      owned: true
-      id: 82
-      release: 2/15/2019
-      image: "/assets/images/amiibo/super-smash-brothers/Piranha Plant.png"
-
-    - name: "Joker"
-      owned: true
-      id: 83
-      release: 10/2/2020
-      image: "/assets/images/amiibo/super-smash-brothers/Joker.png"
-
-    - name: "Hero"
-      owned: true
-      id: 84
-      release: 10/2/2020
-      image: "/assets/images/amiibo/super-smash-brothers/Hero.png"
-
-    - name: "Banjo & Kazooie"
-      owned: true
-      id: 85
-      release: 3/26/2021
-      image: "/assets/images/amiibo/super-smash-brothers/Banjo and Kazooie.png"
-
-    - name: "Terry"
-      owned: true
-      id: 86
-      release: 3/26/2021
-      image: "/assets/images/amiibo/super-smash-brothers/Terry.png"
-
-    - name: "Byleth"
-      owned: true
-      id: 87
-      release: 3/26/2021
-      image: "/assets/images/amiibo/super-smash-brothers/Byleth.png"
-
-    - name: "Min Min"
-      owned: true
-      id: 88
-      release: 4/29/2022
-      image: "/assets/images/amiibo/super-smash-brothers/Min Min.png"
-
-    - name: "Steve"
-      owned: true
-      id: 89
-      release: 09/09/2022
-      image: "/assets/images/amiibo/super-smash-brothers/Steve.png"
-
-    - name: "Alex"
-      owned: true
-      id: 90
-      release: 09/09/2022
-      image: "/assets/images/amiibo/super-smash-brothers/Alex.png"
-
-    - name: "Sephiroth"
-      owned: true
-      id: 91
-      release: 01/13/2023
-      image: "/assets/images/amiibo/super-smash-brothers/Sephiroth.png"
-
-    - name: "Kazuya"
-      owned: true
-      id: 92
-      release: 01/13/2023
-      image: "/assets/images/amiibo/super-smash-brothers/Kazuya.png"
-
-    - name: "Pyra"
-      owned: false
-      id: 93
-      release: 07/21/2023
-      image: "/assets/images/amiibo/super-smash-brothers/Pyra.png"
-
-    - name: "Mythra"
-      owned: false
-      id: 94
-      release: 07/21/2023
-      image: "/assets/images/amiibo/super-smash-brothers/Mythra.png"
-
-    - name: "Sora"
-      owned: false
-      id: 95
-      release: 12/31/2023
-      image: "/assets/images/amiibo/super-smash-brothers/Sora.png"
+  - name: Mario
+    owned: true
+    id: 1
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Mario.png
+  - name: Donkey Kong
+    owned: true
+    id: 2
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Donkey Kong.png
+  - name: Link
+    owned: true
+    id: 3
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Link.png
+  - name: Samus
+    owned: true
+    id: 4
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Samus.png
+  - name: Dark Samus
+    owned: true
+    id: 5
+    release: 1/17/2020
+    image: /assets/images/amiibo/super-smash-brothers/Dark Samus.png
+  - name: Yoshi
+    owned: true
+    id: 6
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Yoshi.png
+  - name: Kirby
+    owned: true
+    id: 7
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Kirby.png
+  - name: Fox
+    owned: true
+    id: 8
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Fox.png
+  - name: Pikachu
+    owned: true
+    id: 9
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Pikachu.png
+  - name: Luigi
+    owned: true
+    id: 10
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Luigi.png
+  - name: Ness
+    owned: true
+    id: 11
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Ness.png
+  - name: Captain Falcon
+    owned: true
+    id: 12
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Captain Falcon.png
+  - name: Jigglypuff
+    owned: true
+    id: 13
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Jigglypuff.png
+  - name: Peach
+    owned: true
+    id: 14
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Peach.png
+  - name: Daisy
+    owned: true
+    id: 15
+    release: 4/12/2019
+    image: /assets/images/amiibo/super-smash-brothers/Daisy.png
+  - name: Bowser
+    owned: true
+    id: 16
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Bowser.png
+  - name: Ice Climbers
+    owned: true
+    id: 17
+    release: 2/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/Ice Climbers.png
+  - name: Sheik
+    owned: true
+    id: 18
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Sheik.png
+  - name: Zelda
+    owned: true
+    id: 19
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Zelda.png
+  - name: Dr. Mario
+    owned: true
+    id: 20
+    release: 9/11/2015
+    image: /assets/images/amiibo/super-smash-brothers/Dr. Mario.png
+  - name: Pichu
+    owned: true
+    id: 21
+    release: 7/26/2019
+    image: /assets/images/amiibo/super-smash-brothers/Pichu.png
+  - name: Falco
+    owned: true
+    id: 22
+    release: 11/20/2015
+    image: /assets/images/amiibo/super-smash-brothers/Falco.png
+  - name: Marth
+    owned: true
+    id: 23
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Marth.png
+  - name: Lucina
+    owned: true
+    id: 24
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Lucina.png
+  - name: Young Link
+    owned: true
+    id: 25
+    release: 4/12/2019
+    image: /assets/images/amiibo/super-smash-brothers/Young Link.png
+  - name: Ganondorf
+    owned: true
+    id: 26
+    release: 9/11/2015
+    image: /assets/images/amiibo/super-smash-brothers/Ganondorf.png
+  - name: Mewtwo
+    owned: true
+    id: 27
+    release: 11/13/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mewtwo.png
+  - name: Roy
+    owned: true
+    id: 28
+    release: 3/18/2016
+    image: /assets/images/amiibo/super-smash-brothers/Roy.png
+  - name: Chrom
+    owned: true
+    id: 29
+    release: 11/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/Chrom.png
+  - name: Mr. Game & Watch
+    owned: true
+    id: 30
+    release: 9/25/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mr. Game and Watch.png
+  - name: Meta Knight
+    owned: true
+    id: 31
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Meta Knight.png
+  - name: Pit
+    owned: true
+    id: 32
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Pit.png
+  - name: Dark Pit
+    owned: true
+    id: 33
+    release: 7/31/2015
+    image: /assets/images/amiibo/super-smash-brothers/Dark Pit.png
+  - name: Zero Suit Samus
+    owned: true
+    id: 34
+    release: 9/11/2015
+    image: /assets/images/amiibo/super-smash-brothers/Zero Suit Samus.png
+  - name: Wario
+    owned: true
+    id: 35
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Wario.png
+  - name: Snake
+    owned: true
+    id: 36
+    release: 9/20/2019
+    image: /assets/images/amiibo/super-smash-brothers/Snake.png
+  - name: Ike
+    owned: true
+    id: 37
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Ike.png
+  - name: Squirtle
+    owned: true
+    id: 38
+    release: 9/20/2019
+    image: /assets/images/amiibo/super-smash-brothers/Squirtle.png
+  - name: Ivysaur
+    owned: true
+    id: 39
+    release: 9/20/2019
+    image: /assets/images/amiibo/super-smash-brothers/Ivysaur.png
+  - name: Charizard
+    owned: true
+    id: 40
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Charizard.png
+  - name: Diddy Kong
+    owned: true
+    id: 41
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Diddy Kong.png
+  - name: Lucas
+    owned: true
+    id: 42
+    release: 1/22/2016
+    image: /assets/images/amiibo/super-smash-brothers/Lucas.png
+  - name: Sonic
+    owned: true
+    id: 43
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Sonic.png
+  - name: King Dedede
+    owned: true
+    id: 44
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/King Dedede.png
+  - name: Olimar
+    owned: true
+    id: 45
+    release: 9/11/2015
+    image: /assets/images/amiibo/super-smash-brothers/Olimar.png
+  - name: Lucario
+    owned: true
+    id: 46
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Lucario.png
+  - name: R.O.B.
+    owned: true
+    id: 47
+    release: 9/25/2015
+    image: /assets/images/amiibo/super-smash-brothers/R.O.B..png
+  - name: R.O.B. (Japan)
+    owned: true
+    id: 48
+    release: 3/18/2016
+    image: /assets/images/amiibo/super-smash-brothers/R.O.B. (Japan).png
+  - name: Toon Link
+    owned: true
+    id: 49
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Toon Link.png
+  - name: Wolf
+    owned: true
+    id: 50
+    release: 12/7/2018
+    image: /assets/images/amiibo/super-smash-brothers/Wolf.png
+  - name: Villager
+    owned: true
+    id: 51
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Villager.png
+  - name: Mega Man
+    owned: true
+    id: 52
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mega Man.png
+  - name: Mega Man (Gold)
+    owned: false
+    id: 53
+    release: 2/23/2016
+    image: /assets/images/amiibo/super-smash-brothers/Mega Man (Gold).png
+  - name: Wii Fit Trainer
+    owned: true
+    id: 54
+    release: 11/21/2014
+    image: /assets/images/amiibo/super-smash-brothers/Wii Fit Trainer.png
+  - name: Rosalina
+    owned: true
+    id: 55
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Rosalina.png
+  - name: Little Mac
+    owned: true
+    id: 56
+    release: 12/14/2014
+    image: /assets/images/amiibo/super-smash-brothers/Little Mac.png
+  - name: Greninja
+    owned: true
+    id: 57
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Greninja.png
+  - name: Mii Brawler
+    owned: true
+    id: 58
+    release: 11/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mii Brawler.png
+  - name: Mii Swordfighter
+    owned: true
+    id: 59
+    release: 11/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mii Swordfighter.png
+  - name: Mii Gunner
+    owned: true
+    id: 60
+    release: 11/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Mii Gunner.png
+  - name: Palutena
+    owned: true
+    id: 61
+    release: 7/24/2015
+    image: /assets/images/amiibo/super-smash-brothers/Palutena.png
+  - name: Pacman
+    owned: true
+    id: 62
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Pacman.png
+  - name: Robin
+    owned: true
+    id: 63
+    release: 5/29/2015
+    image: /assets/images/amiibo/super-smash-brothers/Robin.png
+  - name: Shulk
+    owned: true
+    id: 64
+    release: 2/1/2015
+    image: /assets/images/amiibo/super-smash-brothers/Shulk.png
+  - name: Bowser Jr.
+    owned: true
+    id: 65
+    release: 9/11/2015
+    image: /assets/images/amiibo/super-smash-brothers/Bowser Jr..png
+  - name: Duck Hunt
+    owned: true
+    id: 66
+    release: 9/25/2015
+    image: /assets/images/amiibo/super-smash-brothers/Duck Hunt.png
+  - name: Ryu
+    owned: true
+    id: 67
+    release: 3/18/2016
+    image: /assets/images/amiibo/super-smash-brothers/Ryu.png
+  - name: Ken
+    owned: true
+    id: 68
+    release: 4/12/2019
+    image: /assets/images/amiibo/super-smash-brothers/Ken.png
+  - name: Cloud
+    owned: true
+    id: 69
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Cloud.png
+  - name: Cloud (Player 2)
+    owned: true
+    id: 70
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Cloud (Player 2).png
+  - name: Corrin
+    owned: true
+    id: 71
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Corrin.png
+  - name: Corrin (Player 2)
+    owned: true
+    id: 72
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Corrin (Player 2).png
+  - name: Bayonetta
+    owned: true
+    id: 73
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Bayonetta.png
+  - name: Bayonetta (Player 2)
+    owned: true
+    id: 74
+    release: 7/21/2017
+    image: /assets/images/amiibo/super-smash-brothers/Bayonetta (Player 2).png
+  - name: Inkling
+    owned: true
+    id: 75
+    release: 12/7/2018
+    image: /assets/images/amiibo/super-smash-brothers/Inkling.png
+  - name: Ridley
+    owned: true
+    id: 76
+    release: 12/7/2018
+    image: /assets/images/amiibo/super-smash-brothers/Ridley.png
+  - name: Pokémon Trainer
+    owned: true
+    id: 77
+    release: 7/26/2019
+    image: /assets/images/amiibo/super-smash-brothers/Pokémon Trainer.png
+  - name: Simon
+    owned: true
+    id: 77
+    release: 11/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/Simon.png
+  - name: Richter
+    owned: true
+    id: 78
+    release: 1/17/2020
+    image: /assets/images/amiibo/super-smash-brothers/Richter.png
+  - name: King K. Rool
+    owned: true
+    id: 79
+    release: 2/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/King K. Rool.png
+  - name: Isabelle
+    owned: true
+    id: 80
+    release: 7/26/2019
+    image: /assets/images/amiibo/super-smash-brothers/Isabelle.png
+  - name: Incineroar
+    owned: true
+    id: 81
+    release: 11/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/Incineroar.png
+  - name: Piranha Plant
+    owned: true
+    id: 82
+    release: 2/15/2019
+    image: /assets/images/amiibo/super-smash-brothers/Piranha Plant.png
+  - name: Joker
+    owned: true
+    id: 83
+    release: 10/2/2020
+    image: /assets/images/amiibo/super-smash-brothers/Joker.png
+  - name: Hero
+    owned: true
+    id: 84
+    release: 10/2/2020
+    image: /assets/images/amiibo/super-smash-brothers/Hero.png
+  - name: Banjo & Kazooie
+    owned: true
+    id: 85
+    release: 3/26/2021
+    image: /assets/images/amiibo/super-smash-brothers/Banjo and Kazooie.png
+  - name: Terry
+    owned: true
+    id: 86
+    release: 3/26/2021
+    image: /assets/images/amiibo/super-smash-brothers/Terry.png
+  - name: Byleth
+    owned: true
+    id: 87
+    release: 3/26/2021
+    image: /assets/images/amiibo/super-smash-brothers/Byleth.png
+  - name: Min Min
+    owned: true
+    id: 88
+    release: 4/29/2022
+    image: /assets/images/amiibo/super-smash-brothers/Min Min.png
+  - name: Steve
+    owned: true
+    id: 89
+    release: 09/09/2022
+    image: /assets/images/amiibo/super-smash-brothers/Steve.png
+  - name: Alex
+    owned: true
+    id: 90
+    release: 09/09/2022
+    image: /assets/images/amiibo/super-smash-brothers/Alex.png
+  - name: Sephiroth
+    owned: true
+    id: 91
+    release: 01/13/2023
+    image: /assets/images/amiibo/super-smash-brothers/Sephiroth.png
+  - name: Kazuya
+    owned: true
+    id: 92
+    release: 01/13/2023
+    image: /assets/images/amiibo/super-smash-brothers/Kazuya.png
+  - name: Pyra
+    owned: true
+    id: 93
+    release: 07/21/2023
+    image: /assets/images/amiibo/super-smash-brothers/Pyra.png
+  - name: Mythra
+    owned: true
+    id: 94
+    release: 07/21/2023
+    image: /assets/images/amiibo/super-smash-brothers/Mythra.png
+  - name: Sora
+    owned: false
+    id: 95
+    release: 12/31/2023
+    image: /assets/images/amiibo/super-smash-brothers/Sora.png
