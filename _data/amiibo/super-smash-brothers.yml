@@ -262,7 +262,7 @@ characters:
     release: 2/1/2015
     image: /assets/images/amiibo/super-smash-brothers/Mega Man.png
   - name: Mega Man (Gold)
-    owned: false
+    owned: true
     id: 53
     release: 2/23/2016
     image: /assets/images/amiibo/super-smash-brothers/Mega Man (Gold).png
