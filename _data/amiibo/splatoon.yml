@@ -22,7 +22,7 @@ characters:
     release: 7/8/2016
     image: /assets/images/amiibo/splatoon/Inkling Girl (Lime Green).png
   - name: Inkling Boy (Purple)
-    owned: false
+    owned: true
     id: 5
     release: 7/8/2016
     image: /assets/images/amiibo/splatoon/Inkling Boy (Purple).png
@@ -96,3 +96,18 @@ characters:
     id: 19
     release: 11/11/2022
     image: /assets/images/amiibo/splatoon/Smallfry.png
+  - name: Shiver
+    owned: true
+    id: 20
+    release: 11/17/2023
+    image: /assets/images/amiibo/splatoon/Shiver.png
+  - name: Frye
+    owned: true
+    id: 20
+    release: 11/17/2023
+    image: /assets/images/amiibo/splatoon/Frye.png
+  - name: Big Man
+    owned: true
+    id: 20
+    release: 11/17/2023
+    image: /assets/images/amiibo/splatoon/Big Man.png

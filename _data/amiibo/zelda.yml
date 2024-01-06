@@ -101,3 +101,13 @@ characters:
     id: 20
     release: 05/12/2023
     image: /assets/images/amiibo/zelda/Link (Tears of the Kingdom).png
+  - name: Zelda (Tears of the Kingdom)
+    owned: true
+    id: 21
+    release: 11/03/2023
+    image: /assets/images/amiibo/zelda/Zelda (Tears of the Kingdom).png
+  - name: Ganondorf (Tears of the Kingdom)
+    owned: true
+    id: 22
+    release: 11/03/2023
+    image: /assets/images/amiibo/zelda/Ganondorf (Tears of the Kingdom).png

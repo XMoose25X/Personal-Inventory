@@ -89,15 +89,20 @@ permalink: /switch/
             <span class="tooltiptext-below">
                 Released on {{game.release}}
             </span>
-            <img 
+            <img id="game-{{forloop.index}}"
                 style="width: 100px; height: 162px;"
                 src="{% link {{game.boxart}} %}"
                 alt="{{game.name}}" loading="lazy"
+                onclick="openImage('game-{{forloop.index}}')"
             />
             <span class="amiibo-name">{{game.name}}</span>
         </div>
         {% endfor %}
     </div>
+</div>
+<div id="imageModal" class="modal" onclick="closeModal()">
+    <img class="modal-content" id="selectedImage">
+    <div id="caption"></div>
 </div>
 <script>
     const gameContainers = document.getElementsByClassName("amiibo-container");
@@ -120,4 +125,18 @@ permalink: /switch/
         }
         document.getElementById('filter-count').innerHTML = filteredCount;
     }
+
+    var modal = document.getElementById("imageModal");
+    var modalImg = document.getElementById("selectedImage");
+    var captionText = document.getElementById("caption");
+
+    const openImage = (elementId) => {
+        const clickedImage = document.getElementById(elementId);
+        modal.style.display = "block";
+        modalImg.src = clickedImage.src;
+        captionText.innerText = clickedImage.alt;
+    };
+    const closeModal = () => {
+        modal.style.display = "none";
+    };
 </script>

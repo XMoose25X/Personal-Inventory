@@ -33,6 +33,16 @@ characters:
     image: /assets/images/amiibo/super-nintendo-world/Yoshi Power-Up Band.png
   - release: 03/18/2023
     name: Gold Power-Up Band
-    id: 4
+    id: 7
     image: /assets/images/amiibo/super-nintendo-world/Gold Power-Up Band.png
     owned: true
+  - release: 03/18/2024
+    name: Donkey Kong Power-Up Band
+    id: 8
+    image: /assets/images/amiibo/super-nintendo-world/Donkey Kong Power-Up Band.png
+    owned: false
+  - release: 03/18/2024
+    name: Diddy Kong Power-Up Band
+    id: 9
+    image: /assets/images/amiibo/super-nintendo-world/Diddy Kong Power-Up Band.png
+    owned: false

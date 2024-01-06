@@ -54,7 +54,7 @@ games:
       - First-Person
     boxart: /assets/images/nintendo-switch-games/Borderlands Legendary Collection.jpg
   - name: Bravely Default II
-    release: 02/26/2021
+    release: 2/26/2021
     genre:
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Bravely Default II.jpg
@@ -71,13 +71,13 @@ games:
       - Racing
     boxart: /assets/images/nintendo-switch-games/Burnout Paradise Remastered.jpg
   - name: "Captain Toad: Treasure Tracker"
-    release: 07/13/2018
+    release: 7/13/2018
     genre:
       - Puzzle
       - Platformer
     boxart: /assets/images/nintendo-switch-games/Captain Toad Treasure Tracker.jpg
   - name: "Cars 3: Driven to Win"
-    release: 06/13/2017
+    release: 6/13/2017
     genre:
       - Racing
     boxart: /assets/images/nintendo-switch-games/Cars 3 Driven to Win.jpg
@@ -178,11 +178,41 @@ games:
       - Role-Playing
       - Party
     boxart: /assets/images/nintendo-switch-games/Diablo III Eternal Collection.jpg
+  - name: Detective Pikachu Returns
+    release: 10/6/2023
+    genre:
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/Detective Pikachu Returns.jpg
   - name: Disgaea 5 Complete
     release: 5/23/2017
     genre:
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Disgaea 5 Complete.jpg
+  - name: "Disgaea 6: Defiance of Destiny - Unrelenting Edition"
+    release: 6/29/2021
+    genre:
+      - Role-Playing
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Disgaea 6 Defiance of Destiny - Unrelenting Edition.jpg
+  - name: "Disgaea 7: Vows of the Virtueless - Deluxe Edition"
+    release: 10/6/2023
+    genre:
+      - Role-Playing
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Disgaea 7 Vows of the Virtueless - Deluxe Edition.jpg
+  - name: Disney Dreamlight Valley - Cozy Edition
+    release: 10/23/2023
+    genre:
+      - Simulation
+    boxart: /assets/images/nintendo-switch-games/Disney Dreamlight Valley - Cozy Edition.jpg
+  - name: Disney Illusion Island
+    release: 7/28/2023
+    genre:
+      - Action
+      - Adventure
+      - Multiplayer
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/Disney Illusion Island.jpg
   - name: "Donkey Kong Country: Tropical Freeze"
     release: 5/4/2018
     genre:
@@ -225,6 +255,12 @@ games:
     genre:
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Final Fantasy XII The Zodiac Age.jpg
+  - name: Fire Emblem Engage
+    release: 1/20/2023
+    genre:
+      - Role-Playing
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Fire Emblem Engage.jpg
   - name: "Fire Emblem: Three Houses"
     release: 7/26/2019
     genre:
@@ -389,8 +425,15 @@ games:
     genre:
       - Adventure
       - Action
-    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Skyward Sword
-      HD.jpg
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Skyward Sword HD.jpg
+  - name: Lego 2K Drive
+    release: 5/19/2023
+    genre:
+      - Arcade
+      - Adventure
+      - Racing
+      - Multiplayer
+    boxart: /assets/images/nintendo-switch-games/Lego 2K Drive.jpg
   - name: Lego Brawls
     release: 9/2/2022
     genre:
@@ -472,7 +515,7 @@ games:
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/Mario Golf Super Rush.jpg
   - name: Mario Kart 8 Deluxe
-    release: 04/28/2017
+    release: 4/28/2017
     genre:
       - Racing
       - Multiplayer
@@ -544,6 +587,12 @@ games:
       - Adventure
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Minecraft Dungeons Hero Edition.jpg
+  - name: Minecraft Legends Deluxe Edition
+    release: 4/18/2023
+    genre:
+      - Action
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Minecraft Legends Deluxe Edition.jpg
   - name: Monster Hunter Generations Ultimate
     release: 8/28/2018
     genre:
@@ -607,8 +656,13 @@ games:
     genre:
       - Role-Playing
       - Adventure
-    boxart: /assets/images/nintendo-switch-games/Ni no Kuni Wrath of the White
-      Witch.jpg
+    boxart: /assets/images/nintendo-switch-games/Ni no Kuni Wrath of the White Witch.jpg
+  - name: "Ni no Kuni II: Revenant Kingdom - Prince's Edition"
+    release: 9/17/2021
+    genre:
+      - Role-Playing
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/Ni no Kuni 2 Revenant Kingdom - Prince's Edition.jpg
   - name: Nintendo Switch Sports
     release: 4/29/2022
     genre:
@@ -616,17 +670,22 @@ games:
       - Multiplayer
       - Party
     boxart: /assets/images/nintendo-switch-games/Nintendo Switch Sports.jpg
+  - name: No More Heroes 3
+    release: 8/27/2021
+    genre:
+      - Action
+    boxart: /assets/images/nintendo-switch-games/No More Heroes 3.jpg
   - name: Octopath Traveler
     release: 7/13/2018
     genre:
       - Role-Playing
       - Adventure
     boxart: /assets/images/nintendo-switch-games/Octopath Traveler.jpg
-  - release: 02/24/2023
+  - release: 2/24/2023
     name: Octopath Traveler II
     genre:
       - Role-Playing
-    boxart: /assets/images/nintendo-switch-games/octopath-traveller-ii.jpg
+    boxart: /assets/images/nintendo-switch-games/Octopath Traveller 2.jpg
   - name: Olympic Games Tokyo 2020 – The Official Video Game
     release: 7/21/2021
     genre:
@@ -689,6 +748,13 @@ games:
     genre:
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Persona 5 Royal.jpg
+  - name: Pikmin 1+2
+    release: 6/21/2023
+    genre:
+      - Action
+      - Adventure
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Pikmin 1+2.jpg
   - name: Pikmin 3 Deluxe
     release: 10/30/2020
     genre:
@@ -697,6 +763,13 @@ games:
       - Strategy
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/Pikmin 3 Deluxe.jpg
+  - name: Pikmin 4
+    release: 6/21/2023
+    genre:
+      - Action
+      - Adventure
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/Pikmin 4.jpg
   - name: Pixark
     release: 5/31/2019
     genre:
@@ -915,6 +988,14 @@ games:
       - Arcade
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/Sonic Mania Plus.jpg
+  - name: Sonic Superstars
+    release: 10/17/2023
+    genre:
+      - Platformer
+      - Action
+      - Multiplayer
+      - Party
+    boxart: /assets/images/nintendo-switch-games/Sonic Superstars.jpg
   - name: Splatoon 2
     release: 7/21/2017
     genre:
@@ -975,6 +1056,12 @@ games:
       - Platformer
       - Action
     boxart: /assets/images/nintendo-switch-games/New Super Mario Bros. U Deluxe.jpg
+  - name: Super Mario Bros. Wonder
+    release: 10/20/2023
+    genre:
+      - Platformer
+      - Action
+    boxart: /assets/images/nintendo-switch-games/Super Mario Bros. Wonder.jpg
   - name: Super Mario Maker 2
     release: 6/28/2019
     genre:
@@ -993,6 +1080,20 @@ games:
       - Party
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/Super Mario Party.jpg
+  - name: Super Mario RPG
+    release: 11/17/2023
+    genre:
+      - Role-Playing
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/Super Mario RPG.jpg
+  - name: Super Meat Boy Forever
+    release: 12/23/2020
+    genre:
+      - Platformer
+      - Action
+      - Adventure
+      - Puzzle
+    boxart: /assets/images/nintendo-switch-games/Super Meat Boy Forever.jpg
   - name: "Super Monkey Ball: Banana Blitz HD"
     release: 10/29/2019
     genre:
@@ -1053,6 +1154,13 @@ games:
       - Puzzle
       - Action
     boxart: /assets/images/nintendo-switch-games/Trine Ultimate Collection.jpg
+  - name: Trinity Trigger - Day One Edition
+    release: 9/15/2022
+    genre:
+      - Action
+      - Adventure
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/Trinity Trigger - Day One Edition.jpg
   - name: Disney Tsum Tsum Festival
     release: 11/8/2019
     genre:
@@ -1082,11 +1190,16 @@ games:
       - Action
       - Party
     boxart: /assets/images/nintendo-switch-games/WarioWare Get It Together!.jpg
-  - name: "The Witcher 3: Wild Hunt — Complete Edition"
+  - name: We Love Katamari Reroll+ Royal Reverie
+    release: 6/2/2023
+    genre:
+      - Puzzle
+    boxart: /assets/images/nintendo-switch-games/We Love Katamari Reroll+ Royal Reverie.jpg
+  - name: "The Witcher 3: Wild Hunt - Complete Edition"
     release: 10/15/2019
     genre:
       - Role-Playing
-    boxart: /assets/images/nintendo-switch-games/The Witcher 3 Wild Hunt — Complete
+    boxart: /assets/images/nintendo-switch-games/The Witcher 3 Wild Hunt - Complete
       Edition.jpg
   - name: Xenoblade Chronicles 2
     release: 12/1/2017
@@ -1112,19 +1225,13 @@ games:
       - Action
       - Platformer
     boxart: /assets/images/nintendo-switch-games/Yoshi’s Crafted World.jpg
-  - release: 06/29/2021
-    name: "Disgaea 6: Defiance of Destiny Unrelenting Edition"
-    genre:
-      - Role-Playing
-      - Strategy
-    boxart: /assets/images/nintendo-switch-games/Disgaea 6 Defiance of Destiny - Unrelenting Edition.jpg
-  - release: 02/24/2023
+  - release: 2/24/2023
     boxart: /assets/images/nintendo-switch-games/Kirbys Return To DreamLand Deluxe.jpg
     name: Kirby’s Return to Dream Land Deluxe
     genre:
       - Action
       - Platformer
-  - release: 02/08/2023
+  - release: 2/08/2023
     genre:
       - Action
       - Adventure
@@ -1132,14 +1239,14 @@ games:
       - Platformer
     boxart: /assets/images/nintendo-switch-games/Metroid Prime Remastered.jpg
     name: Metroid Prime Remastered
-  - release: 05/23/2023
+  - release: 5/23/2023
     genre:
       - Action
       - Adventure
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the Kingdom.jpg
     name: "The Legend of Zelda: Tears of the Kingdom"
-  - release: 05/23/2023
+  - release: 5/23/2023
     genre:
       - Action
       - Adventure
