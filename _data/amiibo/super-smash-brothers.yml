@@ -477,7 +477,7 @@ characters:
     release: 07/21/2023
     image: /assets/images/amiibo/super-smash-brothers/Mythra.png
   - name: Sora
-    owned: false
+    owned: true
     id: 95
-    release: 12/31/2023
+    release: 02/16/2024
     image: /assets/images/amiibo/super-smash-brothers/Sora.png

@@ -2,13 +2,13 @@ title: "Xenoblade Chronicles"
 sort-order: 16
 characters:
     - name: "Noah"
-      owned: false
+      owned: true
       id: 1
       release: 01/19/2024
       image: "/assets/images/amiibo/xenoblade-chronicles/Noah.png"
 
     - name: "Mio"
-      owned: false
+      owned: true
       id: 2
       release: 01/19/2024
       image: "/assets/images/amiibo/xenoblade-chronicles/Mio.png"

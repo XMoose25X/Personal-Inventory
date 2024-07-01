@@ -7,7 +7,7 @@ characters:
     release: 5/19/2017
     image: /assets/images/amiibo/fire-emblem/Alm.png
   - name: Celica
-    owned: false
+    owned: true
     id: 2
     release: 5/19/2017
     image: /assets/images/amiibo/fire-emblem/Celica.png

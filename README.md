@@ -4,7 +4,7 @@ App that catalogues all collectibles that I own.
 ## [Live Site](https://collection.moose.software/)
 
 ## Technology
-* [Jekyll 4.2.2](https://jekyllrb.com/)
+* [Jekyll 4.3.3](https://jekyllrb.com/)
 * [Netlify CMS](https://www.netlifycms.org/) for authenticated content management.
 
 ## Build & Run Locally
