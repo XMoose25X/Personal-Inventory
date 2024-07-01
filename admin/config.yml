@@ -18,7 +18,7 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Genres, name: genre, widget: select, multiple: true, min: 1, options: ["Action", "Adventure", "Arcade", "Board Game", "Education", "Fighting", "First-Person", "Indie", "Lifestyle", "Multiplayer", "Music", "Other", "Party", "Platformer", "Practical", "Puzzle", "Racing", "Role-Playing", "Shooter", "Simulation", "Sports", "Strategy", "Study", "Training", "Utility", "Video"]}
               - {label: Boxart, name: boxart, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/nintendo-switch-games'}
     - label: "Amiibo"
@@ -37,7 +37,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-smash-brothers/'}
       - label: "Super Mario"
         name: "super-mario"
@@ -52,7 +52,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-mario/'}
       - label: "Mario 35th Anniversary"
         name: "mario-anniversary"
@@ -67,7 +67,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/mario-anniversary/'}
       - label: "Legend of Zelda"
         name: "zelda"
@@ -82,7 +82,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/zelda/'}
       - label: "Animal Crossing"
         name: "animal-crossing"
@@ -97,7 +97,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing/'}
       - label: "Splatoon"
         name: "splatoon"
@@ -112,7 +112,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/splatoon/'}
       - label: "Super Nintendo World"
         name: "super-nintendo-world"
@@ -127,7 +127,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/super-nintendo-world/'}
       - label: "Metroid"
         name: "metroid"
@@ -142,7 +142,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/metroid/'}
       - label: "Fire Emblem"
         name: "fire-emblem"
@@ -157,7 +157,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/fire-emblem/'}
       - label: "Kirby"
         name: "kirby"
@@ -172,7 +172,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/kirby/'}
       - label: "Yoshi's Wooly World"
         name: "yoshi-wooly-world"
@@ -187,7 +187,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/yoshi-wooly-world/'}
       - label: "Monster Hunter"
         name: "monster-hunter"
@@ -202,7 +202,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/monster-hunter/'}
       - label: "Miscellaneous"
         name: "miscellaneous"
@@ -217,7 +217,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/miscellaneous/'}
       - label: "Skylanders: SuperChargers"
         name: "skylanders"
@@ -232,7 +232,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/skylanders/'}
       - label: "Shovel Knight"
         name: "shovel-knight"
@@ -247,7 +247,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/shovel-knight/'}
       - label: "Mario Sports Superstars"
         name: "mario-sports-superstars"
@@ -262,7 +262,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/mario-sports-superstars/'}
       - label: "Animal Crossing Series 1"
         name: "animal-crossing-series-1"
@@ -277,7 +277,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-1/'}
       - label: "Animal Crossing Series 2"
         name: "animal-crossing-series-2"
@@ -292,7 +292,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-2/'}
       - label: "Animal Crossing Series 3"
         name: "animal-crossing-series-3"
@@ -307,7 +307,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-3/'}
       - label: "Animal Crossing Series 4"
         name: "animal-crossing-series-4"
@@ -322,7 +322,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-4/'}
       - label: "Animal Crossing Series 5"
         name: "animal-crossing-series-5"
@@ -337,7 +337,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-series-5/'}
       - label: "Animal Crossing Amiibo Festival"
         name: "animal-crossing-amiibo-festival-series"
@@ -352,7 +352,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-amiibo-festival-series/'}
       - label: "Animal Crossing New Leaf Welcome Series"
         name: "animal-crossing-new-leaf-welcome-series"
@@ -367,7 +367,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-new-leaf-welcome-series/'}
       - label: "Animal Crossing Sanrio"
         name: "animal-crossing-sanrio-series"
@@ -382,7 +382,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Owned, name: owned, widget: boolean}
               - {label: Id, name: id, widget: number, value_type: "int", min: 1, step: 1}
-              - {label: Release Date, name: release, widget: 'date', default: '', format: 'MM/DD/YYYY' }
+              - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
               - {label: Image, name: image, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/amiibo/animal-crossing-sanrio-series/'}
     - label: "Funko"
       name: "funko"
