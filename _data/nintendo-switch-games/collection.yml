@@ -1268,3 +1268,42 @@ games:
     genre:
       - Multiplayer
       - Party
+  - release: 09/03/2021
+    name: Active Life Outdoor Challengr
+    genre:
+      - Arcade
+    boxart: /assets/images/nintendo-switch-games/active-life-outdoor-challenge.jpg
+  - release: 08/25/2020
+    name: "Sonic Forces + Super Monkey Ball: Banana Blitz HD"
+    genre:
+      - Arcade
+      - Action
+      - Platformer
+      - Party
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/sonic-forces-super-monkey-ball-banana-blitz-hd.jpg
+  - release: 10/14/2022
+    name: "Nickelodeon Kart Racers 3: Slime Speedway"
+    genre:
+      - Racing
+      - Action
+      - Arcade
+      - Multiplayer
+    boxart: /assets/images/nintendo-switch-games/nickelodeon-kart-racers-3-slime-speedway.jpg
+  - release: 01/25/2018
+    name: Celeste
+    genre:
+      - Action
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/celeste.jpg
+  - release: 06/27/2023
+    name: "Story Of Seasons: A Wonderful Life"
+    genre:
+      - Simulation
+    boxart: /assets/images/nintendo-switch-games/story-of-seasons-a-wonderful-life.jpg
+  - release: 09/18/2020
+    name: "Harvest Moon: Light of Hope Special Edition Complete"
+    boxart: /assets/images/nintendo-switch-games/harvest-moon-light-of-hope-special-edition-complete.jpg
+    genre:
+      - Role-Playing
+      - Simulation
