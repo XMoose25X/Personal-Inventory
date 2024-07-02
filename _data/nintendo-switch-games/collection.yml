@@ -1308,3 +1308,71 @@ games:
       - Role-Playing
       - Simulation
       - Family
+  - release: 02/14/2024
+    name: Mario vs. Donkey Kong
+    genre:
+      - Puzzle
+      - Action
+    boxart: /assets/images/nintendo-switch-games/mario-vs.-donkey-kong.jpg
+  - release: 11/09/2023
+    name: Catan - Console Edition Super Deluxe
+    genre:
+      - Board Game
+      - Multiplayer
+    boxart: /assets/images/nintendo-switch-games/catan-console-edition-super-deluxe.jpg
+  - release: 01/23/2020
+    name: Strike! Ten Pin Bowling
+    genre:
+      - Sports
+      - Multiplayer
+      - Simulation
+      - Party
+    boxart: /assets/images/nintendo-switch-games/strike-ten-pin-bowling.jpg
+  - release: 01/19/2023
+    name: Persona 3 Portable
+    genre:
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/persona-3-portable.jpg
+  - release: 09/07/2021
+    name: "Sonic Colors: Ultimate"
+    genre:
+      - Platformer
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/sonic-colors-ultimate.jpg
+  - release: 12/06/2019
+    name: "Assassin’s Creed: The Rebel Collection"
+    genre:
+      - Role-Playing
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/assassin’s-creed-the-rebel-collection.jpg
+  - release: 06/29/2021
+    name: Zombies Ate My Neighbors and Ghoul Patrol
+    genre:
+      - Action
+      - Arcade
+    boxart: /assets/images/nintendo-switch-games/zombies-ate-my-neighbors-and-ghoul-patrol.jpg
+  - release: 06/11/2021
+    name: Game Builder Garage
+    genre:
+      - Education
+      - Training
+    boxart: /assets/images/nintendo-switch-games/game-builder-garage.jpg
+  - release: 03/22/2024
+    name: "Princess Peach: Showtime!"
+    genre:
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/princess-peach-showtime-.jpg
+  - release: 05/23/2024
+    name: "Paper Mario: The Thousand-Year Door"
+    genre:
+      - Role-Playing
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/paper-mario-the-thousand-year-door.jpg
+  - release: 01/19/2023
+    name: Persona 4 Golden
+    genre:
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/persona-4-golden.jpg
