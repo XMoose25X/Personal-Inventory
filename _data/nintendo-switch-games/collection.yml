@@ -1376,3 +1376,9 @@ games:
     genre:
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/persona-4-golden.jpg
+  - release: 06/27/2024
+    name: Luigi's Mansion 2 HD
+    genre:
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/luigi-s-mansion-2-hd.jpg
