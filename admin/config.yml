@@ -19,7 +19,7 @@ collections:
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Release Date, name: release, widget: 'datetime', default: '', date_format: 'MM/DD/YYYY' }
-              - {label: Genres, name: genre, widget: select, multiple: true, min: 1, options: ["Action", "Adventure", "Arcade", "Board Game", "Education", "Fighting", "First-Person", "Indie", "Lifestyle", "Multiplayer", "Music", "Other", "Party", "Platformer", "Practical", "Puzzle", "Racing", "Role-Playing", "Shooter", "Simulation", "Sports", "Strategy", "Study", "Training", "Utility", "Video"]}
+              - {label: Genres, name: genre, widget: select, multiple: true, min: 1, options: ["Action", "Adventure", "Arcade", "Board Game", "Education", "Family", "Fighting", "First-Person", "Indie", "Lifestyle", "Multiplayer", "Music", "Other", "Party", "Platformer", "Practical", "Puzzle", "Racing", "Role-Playing", "Shooter", "Simulation", "Sports", "Strategy", "Study", "Training", "Utility", "Video"]}
               - {label: Boxart, name: boxart, widget: image, choose_url: true, allow_multiple: false, media_folder: '/assets/images/nintendo-switch-games'}
     - label: "Amiibo"
       name: "amiibo"
