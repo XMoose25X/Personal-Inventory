@@ -193,18 +193,21 @@ games:
     genre:
       - Role-Playing
       - Strategy
-    boxart: /assets/images/nintendo-switch-games/Disgaea 6 Defiance of Destiny - Unrelenting Edition.jpg
+    boxart: /assets/images/nintendo-switch-games/Disgaea 6 Defiance of Destiny -
+      Unrelenting Edition.jpg
   - name: "Disgaea 7: Vows of the Virtueless - Deluxe Edition"
     release: 10/6/2023
     genre:
       - Role-Playing
       - Strategy
-    boxart: /assets/images/nintendo-switch-games/Disgaea 7 Vows of the Virtueless - Deluxe Edition.jpg
+    boxart: /assets/images/nintendo-switch-games/Disgaea 7 Vows of the Virtueless -
+      Deluxe Edition.jpg
   - name: Disney Dreamlight Valley - Cozy Edition
     release: 10/23/2023
     genre:
       - Simulation
-    boxart: /assets/images/nintendo-switch-games/Disney Dreamlight Valley - Cozy Edition.jpg
+    boxart: /assets/images/nintendo-switch-games/Disney Dreamlight Valley - Cozy
+      Edition.jpg
   - name: Disney Illusion Island
     release: 7/28/2023
     genre:
@@ -425,7 +428,8 @@ games:
     genre:
       - Adventure
       - Action
-    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Skyward Sword HD.jpg
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Skyward Sword
+      HD.jpg
   - name: Lego 2K Drive
     release: 5/19/2023
     genre:
@@ -656,13 +660,15 @@ games:
     genre:
       - Role-Playing
       - Adventure
-    boxart: /assets/images/nintendo-switch-games/Ni no Kuni Wrath of the White Witch.jpg
+    boxart: /assets/images/nintendo-switch-games/Ni no Kuni Wrath of the White
+      Witch.jpg
   - name: "Ni no Kuni II: Revenant Kingdom - Prince's Edition"
     release: 9/17/2021
     genre:
       - Role-Playing
       - Adventure
-    boxart: /assets/images/nintendo-switch-games/Ni no Kuni 2 Revenant Kingdom - Prince's Edition.jpg
+    boxart: /assets/images/nintendo-switch-games/Ni no Kuni 2 Revenant Kingdom -
+      Prince's Edition.jpg
   - name: Nintendo Switch Sports
     release: 4/29/2022
     genre:
@@ -1194,7 +1200,8 @@ games:
     release: 6/2/2023
     genre:
       - Puzzle
-    boxart: /assets/images/nintendo-switch-games/We Love Katamari Reroll+ Royal Reverie.jpg
+    boxart: /assets/images/nintendo-switch-games/We Love Katamari Reroll+ Royal
+      Reverie.jpg
   - name: "The Witcher 3: Wild Hunt - Complete Edition"
     release: 10/15/2019
     genre:
@@ -1244,12 +1251,20 @@ games:
       - Action
       - Adventure
       - Role-Playing
-    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the Kingdom.jpg
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the
+      Kingdom.jpg
     name: "The Legend of Zelda: Tears of the Kingdom"
   - release: 5/23/2023
     genre:
       - Action
       - Adventure
       - Role-Playing
-    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the Kingdom - Collector's Edition.jpg
+    boxart: /assets/images/nintendo-switch-games/The Legend of Zelda Tears of the
+      Kingdom - Collector's Edition.jpg
     name: "The Legend of Zelda: Tears of the Kingdom Collector's Edition"
+  - release: 07/21/2021
+    boxart: /assets/images/nintendo-switch-games/among-us-crewmate-edition.jpg
+    name: "Among Us: Crewmate Edition"
+    genre:
+      - Multiplayer
+      - Party
