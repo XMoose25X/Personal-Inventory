@@ -1269,7 +1269,7 @@ games:
       - Multiplayer
       - Party
   - release: 09/03/2021
-    name: Active Life Outdoor Challengr
+    name: Active Life Outdoor Challenge
     genre:
       - Arcade
     boxart: /assets/images/nintendo-switch-games/active-life-outdoor-challenge.jpg
@@ -1382,3 +1382,66 @@ games:
       - Action
       - Adventure
     boxart: /assets/images/nintendo-switch-games/luigi-s-mansion-2-hd.jpg
+  - release: 01/18/2024
+    name: "Prince of Persia: The Lost Crown"
+    genre:
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/prince-of-persia-the-lost-crown-.png
+  - release: 08/11/2022
+    name: Cult of the Lamb
+    genre:
+      - Action
+      - Adventure
+      - Strategy
+    boxart: /assets/images/nintendo-switch-games/cult-of-the-lamb.jpg
+  - release: 09/26/2024
+    name: "The Legend of Zelda: Echoes of Wisdom"
+    genre:
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/the-legend-of-zelda-echoes-of-wisdom.jpg
+  - release: 09/23/2024
+    name: "Disney Epic Mickey: Rebrushed"
+    genre:
+      - Platformer
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/disney-epic-mickey-rebrushed.jpg
+  - release: 04/19/2023
+    name: Final Fantasy I-VI Pixel Remaster Collection
+    genre:
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/final-fantasy-i-vi-pixel-remaster-collection-.jpg
+  - release: 10/05/2017
+    name: Stardew Valley
+    genre:
+      - Role-Playing
+      - Simulation
+    boxart: /assets/images/nintendo-switch-games/stardew-valley.jpg
+  - release: 10/06/2023
+    name: "Borderlands 3: Ultimate Edition"
+    genre:
+      - Action
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/borderlands-3-ultimate-edition.png
+  - release: 08/09/2023
+    name: Sea of Stars
+    genre:
+      - Role-Playing
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/sea-of-stars.jpg
+  - release: 11/17/2023
+    name: Persona 5 Tactica
+    boxart: /assets/images/nintendo-switch-games/persona-5-tactica.png
+    genre:
+      - Role-Playing
+      - Strategy
+      - Simulation
+  - release: 11/16/2018
+    name: "Pokémon: Let’s Go, Eevee!"
+    genre:
+      - Adventure
+      - Role-Playing
+      - Multiplayer
+    boxart: /assets/images/nintendo-switch-games/pokémon-let’s-go-eevee-.jpg
