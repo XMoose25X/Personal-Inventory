@@ -111,3 +111,23 @@ characters:
     id: 20
     release: 11/17/2023
     image: /assets/images/amiibo/splatoon/Big Man.png
+  - release: 09/05/2024
+    name: Marina (Side Order)
+    owned: true
+    id: 21
+    image: /assets/images/amiibo/splatoon/marina-side-order-.png
+  - release: 09/05/2024
+    id: 22
+    owned: true
+    name: Pearl (Side Order)
+    image: /assets/images/amiibo/splatoon/pearl-side-order-.png
+  - release: 09/05/2024
+    id: 23
+    owned: true
+    name: Marie (Alterna)
+    image: /assets/images/amiibo/splatoon/marie-alterna-.png
+  - release: 09/05/2024
+    name: Callie (Alterna)
+    owned: true
+    id: 24
+    image: /assets/images/amiibo/splatoon/callie-alterna-.png
