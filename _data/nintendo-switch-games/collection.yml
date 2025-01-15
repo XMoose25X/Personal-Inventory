@@ -1445,3 +1445,34 @@ games:
       - Role-Playing
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/pokémon-let’s-go-eevee-.jpg
+  - release: 05/21/2019
+    name: "Assassin's Creed III: Remastered"
+    boxart: /assets/images/nintendo-switch-games/assassin-s-creed-iii-remastered.jpg
+    genre:
+      - Role-Playing
+      - Adventure
+  - release: 10/21/2022
+    name: "JoJo Siwa: Worldwide Party"
+    genre:
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/jojo-siwa-worldwide-party.jpg
+  - release: 10/29/2021
+    name: "PJ Masks: Heroes of the Night"
+    genre:
+      - Action
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/pj-masks-heroes-of-the-night.jpg
+  - release: 09/14/2021
+    name: Cruis'n Blast
+    genre:
+      - Racing
+      - Arcade
+      - Multiplayer
+      - Party
+    boxart: /assets/images/nintendo-switch-games/cruis-n-blast.jpg
+  - release: 10/25/2024
+    name: Sonic x Shadow Generations
+    genre:
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/sonic-x-shadow-generations.jpg
