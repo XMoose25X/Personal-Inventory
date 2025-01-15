@@ -1476,3 +1476,25 @@ games:
       - Action
       - Adventure
     boxart: /assets/images/nintendo-switch-games/sonic-x-shadow-generations.jpg
+  - release: 09/05/2023
+    name: Rune Factory 3 Special
+    genre:
+      - Role-Playing
+      - Simulation
+      - Action
+    boxart: /assets/images/nintendo-switch-games/rune-factory-3-special.jpg
+  - release: 03/22/2022
+    name: Rune Factory 5
+    genre:
+      - Role-Playing
+      - Simulation
+      - Action
+    boxart: /assets/images/nintendo-switch-games/rune-factory-5.jpg
+  - release: 10/05/2021
+    name: Super Monkey Ball Banana Mania
+    genre:
+      - Arcade
+      - Party
+      - Platformer
+      - Multiplayer
+    boxart: /assets/images/nintendo-switch-games/super-monkey-ball-banana-mania.jpg
