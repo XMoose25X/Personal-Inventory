@@ -810,7 +810,7 @@ games:
       - Adventure
       - Role-Playing
       - Multiplayer
-    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Pikachu.jpg
+    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Pikachu.jpg
   - name: "Pokémon Mystery Dungeon: Rescue Team DX"
     release: 3/6/2020
     genre:
@@ -1444,7 +1444,7 @@ games:
       - Adventure
       - Role-Playing
       - Multiplayer
-    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Eevee.jpg
+    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Eevee.jpg
   - release: 05/21/2019
     name: "Assassin's Creed III: Remastered"
     boxart: /assets/images/nintendo-switch-games/assassin-s-creed-iii-remastered.jpg
