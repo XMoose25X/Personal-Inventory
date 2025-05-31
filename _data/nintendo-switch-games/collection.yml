@@ -1498,3 +1498,61 @@ games:
       - Platformer
       - Multiplayer
     boxart: /assets/images/nintendo-switch-games/super-monkey-ball-banana-mania.jpg
+  - release: 02/21/2024
+    name: Penny's Big Breakaway
+    genre:
+      - Platformer
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/pennys-big-breakaway.jpg
+  - release: 12/09/2022
+    name: Dragon Quest Treasures
+    genre:
+      - Role-Playing
+      - Action
+      - Adventure
+    boxart: /assets/images/nintendo-switch-games/dragon-quest-treasures.jpg
+  - release: 06/14/2024
+    name: "Shin Megami Tensei V: Vengeance (Steelbook)"
+    genre:
+      - Role-Playing
+      - Adventure
+      - Action
+    boxart: /assets/images/nintendo-switch-games/shin-megami-tensei-v-vengeance.jpg
+  - release: 10/20/2021
+    name: Sheepo
+    genre:
+      - Adventure
+      - Platformer
+      - Action
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/sheepo.jpg
+  - release: 10/27/2022
+    name: Buddy Simulator 1984
+    genre:
+      - Simulation
+      - Role-Playing
+      - Adventure
+      - Arcade
+    boxart: /assets/images/nintendo-switch-games/buddy-simulator-1984.jpg
+  - release: 06/23/2023
+    name: Everdream Valley
+    genre:
+      - Adventure
+      - Lifestyle
+      - Simulation
+      - Arcade
+    boxart: /assets/images/nintendo-switch-games/everdream-valley.png
+  - release: 03/17/2023
+    name: "Peppa Pig: World Adventures"
+    genre:
+      - Adventure
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/peppa-pig-world-adventures.jpg
+  - release: 12/23/2019
+    name: Regions of Ruin
+    genre:
+      - Role-Playing
+      - Action
+      - Strategy
+      - Platformer
+    boxart: /assets/images/nintendo-switch-games/regions-of-ruin.jpg
