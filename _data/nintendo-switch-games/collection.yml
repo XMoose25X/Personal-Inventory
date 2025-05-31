@@ -1556,3 +1556,32 @@ games:
       - Strategy
       - Platformer
     boxart: /assets/images/nintendo-switch-games/regions-of-ruin.jpg
+  - release: 09/09/2021
+    name: "BloodRayne Betrayal: Fresh Bites"
+    genre:
+      - Action
+      - Platformer
+      - Adventure
+      - Fighting
+    boxart: /assets/images/nintendo-switch-games/bloodrayne-betrayal.jpg
+  - release: 02/22/2023
+    name: Redemption Reapers
+    genre:
+      - Simulation
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/redemption-reapers.jpg
+  - release: 02/18/2021
+    name: "Anodyne 2: Return to Dust"
+    genre:
+      - Action
+      - Adventure
+      - Role-Playing
+    boxart: /assets/images/nintendo-switch-games/anodyne-2.jpg
+  - release: 10/22/2020
+    name: Supraland
+    boxart: /assets/images/nintendo-switch-games/supraland.jpg
+    genre:
+      - Adventure
+      - Action
+      - Platformer
+      - Puzzle
