@@ -111,3 +111,23 @@ characters:
     id: 22
     release: 11/03/2023
     image: /assets/images/amiibo/zelda/Ganondorf (Tears of the Kingdom).png
+  - name: Tulin
+    owned: false
+    id: 23
+    release: 06/05/2025
+    image: /assets/images/amiibo/zelda/Tulin.png
+  - name: Yunobo
+    owned: false
+    id: 24
+    release: 06/05/2025
+    image: /assets/images/amiibo/zelda/Yunobo.png
+  - name: Sidon
+    owned: false
+    id: 25
+    release: 06/05/2025
+    image: /assets/images/amiibo/zelda/Sidon.png
+  - name: Riju
+    owned: false
+    id: 26
+    release: 06/05/2025
+    image: /assets/images/amiibo/zelda/Riju.png
