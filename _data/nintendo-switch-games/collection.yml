@@ -804,13 +804,13 @@ games:
       - Adventure
       - Role-Playing
     boxart: /assets/images/nintendo-switch-games/Pokémon Brilliant Diamond.jpg
-  - name: "Pokémon: Let’s Go, Pikachu!"
+  - name: "Pokémon: Let's Go, Pikachu!"
     release: 11/16/2018
     genre:
       - Adventure
       - Role-Playing
       - Multiplayer
-    boxart: /assets/images/nintendo-switch-games/Pokémon Let’s Go, Pikachu!.jpg
+    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Pikachu.jpg
   - name: "Pokémon Mystery Dungeon: Rescue Team DX"
     release: 3/6/2020
     genre:
@@ -1439,12 +1439,12 @@ games:
       - Strategy
       - Simulation
   - release: 11/16/2018
-    name: "Pokémon: Let’s Go, Eevee!"
+    name: "Pokémon: Let's Go, Eevee!"
     genre:
       - Adventure
       - Role-Playing
       - Multiplayer
-    boxart: /assets/images/nintendo-switch-games/pokémon-let’s-go-eevee-.jpg
+    boxart: /assets/images/nintendo-switch-games/Pokémon-Lets-Go-Eevee.jpg
   - release: 05/21/2019
     name: "Assassin's Creed III: Remastered"
     boxart: /assets/images/nintendo-switch-games/assassin-s-creed-iii-remastered.jpg
